@@ -1,0 +1,102 @@
+\chapter{RANCANG BANGUN TAHAP AKHIR}\label{cha:rancang}
+Alat \alat\ tahap akhir merupakan alat hasil dari  desain pada \textbf{Bab} \ref{cha:metode}. Alat yang digunakan seperti yang tercantum pada \tabel\ \ref{tab:alat} dan \ref{tab:bahan}. Setelah pengujian dilakukan maka \alat\ dibangun sesuai desain pada \textbf{Subbab} \ref{sec:desain}.
+\begin{figure}
+\centering
+\includegraphics[scale=0.25]{hasil/jadi}
+\caption{Alat yang telah dirancang}
+\end{figure}
+Pengambilan data pada \alat\ tidak dapat dilakukan sembarangan. Posisi pengimpanan alat pada saat pengambilan data perlu diperhitungkan karena penempatan alat yang miring akan membuat data menjadi \textit{error}. 
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{hasil/acak}
+\caption{Data acak karena posisi alat mempengaruhi}
+\end{figure}
+Selain posisi penempatan alat saat mengambil data, lingkungan sekitar pun dapat mempengaruhi. Alat kompas kiblat digital ini tidak boleh berada di lingkungan bermedan magnet tinggi, seperti dekat alat-alat listrik yang menyala ataupun dekat bangunan berfondasi baja/besi.
+
+\section{Pilihan Menu pada \Alat}
+Kompas kiblat digital ini merupakan alat yang menggunakan struktur menu pada penggunaannya. Ini memungkinkan penggunauntuk mengakses beberapa fitur yang tersedia pada kompas kiblat digital ini.
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{hasil/menu}
+\caption{Beberapa tampilan menu dalam \alat}
+\end{figure}
+Struktur menu terdiri dari Data arah yang dimuat dan telah dikalibrasi dalam satuan derajat. Lalu koordinat yang masih berangka desimal ditujukan agar mengguna dapat menghitung secara manual dan membandingkan hasilnya dengan alat ini. Lalu ada Data Simpangan arah kiblat yang memuat pergeseran arah kiblat dari tempat asal. 
+\begin{figure}
+\includegraphics[scale=0.5]{gambar/pilih}
+\caption{Alur menu pada \alat}
+\end{figure}
+Sebagai tambahan terdapat juga fitur jarak, rekam, dan informasi Kabah. Ini memungkinkan pengguna alat untuk dapat melihat jarak ke mekah, menyimpan data, dan melihat koordinat mekah.
+\section{Data Arah pada \Alat}
+Terdapat tiga data yang dihasilkan oleh sensor kompas, data \textbf{bearing}, \textbf{pitch}, dan \textbf{roll}. Ketiga data tersebut dapat ditampilkan dalam serial monitor, sedangkan dalam LCD yang dapat diketahui hanya data bearing saja. Data arah pada alat berguna untuk menguji sensor kompas. Data ini dapat ditampilkan dalam bentuk desimal dua angka dibelakang koma.  Data tersebut telah dikalibrasi sebelumnya. 
+\begin{figure}
+\centering
+\includegraphics[scale=0.3]{hasil/arah}
+\caption{Data keluaran dari kompas digital}
+\end{figure}
+Ini memungkinkan pengguna melihat data arah terhadap utara. Jika data menunjukan angka $0^\circ$ maka posisi alat menunjuk tepat ke arah utara. Data pada kompas magnetik dan kompas digital pada GPS Garmin 
+dijadikan acuan data, untuk menghindari kesalahan pada pengambilan data arah.
+\begin{figure}
+\centering
+\includegraphics[scale=0.15]{hasil/20161226_100522}\includegraphics[scale=0.11]{hasil/S6300098}
+\caption{Acuan data keluaran dari kompas}
+\end{figure}
+\section{Data Koordinat pada \Alat}\label{sec:pos}
+Data koordinat pada alat ditampilkan agar tempat kita berada diketahui nilai posisinya. Data ini ditampilkan dalam bentuk desimal delapan angka dibelakang koma. Ini memungkinkan pengguna alat untuk mengetahui secara tepat keberadaan posisi alat. Pada perangkat GPS biasanya hanya sampai pada enam angka dibelakang koma. Karena pada layar LCD hanya memuat satu baris data, maka data yang ditampilkan diberi delay untuk data selanjutnya. Misalkan kita ingin melihat data koordinat maka data pertama yang muncul adalah data koordinat, setelah jeda lima detik, maka akan muncul data garis bujur.\citep{Khazin2009}
+\begin{figure}
+\centering
+\includegraphics[scale=0.15]{hasil/20161226_101536}\includegraphics[scale=0.09]{hasil/S6300101}
+\caption{Data GPS pada \alat\ dan Data acuan dari GPS merk Garmin jenis 62s}
+\end{figure}
+Dalam penggunaan GPS satelit yang memberi informasi bergantung kepada kondisi bangunan dari tempat alat berada. Data GPS dapat \textit{error} akibat satelit sulit menjangkau alat \alat. Untuk itu, data banding diperlukan untuk mengetahui acuan data koordinat GPS. Data yang dijadikan perbandingan berasal dari perangkat keras GPS merk Garmin jenis 62s, seperti yang tampak pada \gambar\ 5.7. 
+
+GPS ini memiliki fitur \textit{waypoint}, berfungsi untuk merata-ratakan hasil yang didapat dari beberapa satelit. Namun waktu yang diperlukan untuk mencapai kestabilan data pada satelit ini berkisar antara 10-15 menit.
+\section{Data Simpangan Arah Kiblat pada \Alat}
+Data kiblat berfungsi untuk menampilkan deviasi simpangan. Data ini dihasilkan dari gabungan kedua sensor: kompas dan GPS. Nilai deviasi yang menjadi patokan adalah nilai arah kiblat. Jika terlihat angka tiga derajat, maka arah kiblat akan menyimpang sebesar tiga derajat ke kanan. Jika yang dilihatnya adalah nilai negatif, maka arah simpangannya berubah menjadi ke kiri.
+\begin{figure}
+\centering
+\includegraphics[scale=0.25]{hasil/ok}
+\caption{Data azimuth yang dihasilkan \alat}
+\end{figure}
+Data azimuth pada kompas kiblat digital merupakan pengolahan data dari input posisi pada GPS. Data tersebut dikelola oleh program untuk menjadi data arah dari azimuth kiblat. Sebagai acuan peneliti juga menggunakan fungsi kalkulator pada Libre Office Calc 5.  
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{simulasi/calc}
+\caption{Data azimuth yang dihasilkan Libre Office Calc}
+\end{figure}
+\section{Data Jarak pada \Alat}
+Jarak yang ditampilkan pada LCD adalah jarak dari tempat dimana alat itu berada menuju kabah. Data ini hanya menggunakan fungsi GPS. Data yang ditampilkan sudah dikonversi ke satuan kilo meter.
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{hasil/jarak}
+\caption{Data jarak dari alat \alat}
+\end{figure}
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{simulasi/earth}
+\caption{Data jarak yang dihasilkan Google Earth}
+\end{figure}
+\section{Data Micro SD pada \Alat}
+Fungsi menu ini adalah untuk mengirimkan data ke mikro SD. Data tersebut akan dikemas dalam bentuk file TXT ini memungkinkan pengguna alat untuk merekam arah kiblat dari beberapa tempat dalam waktu singkat. Akurasi data bergantung kepada pengguna saat menjalankan alat tersebut.
+\begin{figure}
+\centering
+\includegraphics[scale=0.25]{hasil/rekam}
+\includegraphics[scale=0.25]{hasil/sd}
+\caption{Tampilan layar saat merekam data}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.35]{interface/serial}
+\caption{Tampilan layar serial monitor saat merekam data}
+\end{figure}
+
+\section{Data Informasi Kabah pada \Alat}
+Memuat informasi tentang posisi Kabah di Mekah. Posisi ini ditampilkan dalam satuan derajat, menit derajat, dan detik derajat. indormasi ditampilkan dalam LCD dengan menggunakan delay seperti pada \textbf{Subbab} \ref{sec:pos}. Dimana, data lintang kabah ditampilkan setelah jeda beberapa detik ketika data bujur kabah ditampilkan.
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{hasil/mekah}
+\caption{Informasi posisi Kabah di Mekah}
+\end{figure}
+Pada informasi Kabah, data yang diketahui merupakan input manual yang berasal dari beberapa literatur. Lokasi yang ditampilkan merupakan titik pusat dari bangunan kabah.  
+%\section{Tentang Pengguna}
+%Memuat informasi tentang pembuat \alat\ tersebut. Merupakan informasi tambahan dari pemilik alat (saya sendiri). Menu ini mengadopsi dari beberapa perangkat lunak yang selalu mencantumkan tentang saya/\textit{about me} pada bagian menu akhir di \textit{software}.

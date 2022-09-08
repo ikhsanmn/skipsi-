@@ -1,0 +1,97 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Bajec {\em et~al.}, }2007]{Bajec2007}
+Bajec, I.~Lebar, Zimic, N., \& Mraz, M. 2007.
+\newblock The computational beauty of flocking: boids revisited.
+\newblock {\em Mathematical and Computer Modelling of Dynamical Systems}, {\bf
+  13}(4), 331--347.
+
+\bibitem[\protect\citename{Bicho {\em et~al.}, }2012]{Bicho2012}
+Bicho, Alessandro, Rodrigues, Rafael, Musse, Soraia, Jung, Claudio, Paravisi,
+  Marcelo, \& Magalhães, Léo. 2012.
+\newblock Simulating crowds based on a space colonization algorithm.
+\newblock {\em Computers & Graphics}, {\bf 36}(04), 70–79.
+
+\bibitem[\protect\citename{Casella \& Berger, }2001]{Caseberg2009}
+Casella, George, \& Berger, Roger. 2001.
+\newblock {\em Statistical Inference}.
+\newblock {Duxbury Resource Center}.
+
+\bibitem[\protect\citename{Curtis {\em et~al.}, }2011]{Curtis2011}
+Curtis, Sean, Guy, Stephen, Zafar, Basim, \& Manocha, Dinesh. 2011 (11).
+\newblock Virtual Tawaf: A case study in simulating the behavior of dense,
+  heterogeneous crowds.
+
+\bibitem[\protect\citename{for Statistics Kingdom~of Saudi~Arabia,
+  }2018]{Saudi2017}
+for Statistics Kingdom~of Saudi~Arabia, General~Authority. 2018.
+\newblock Hajj Statistics.
+\newblock {\em Hajj statisics 1439}, {\bf 1}(12).
+
+\bibitem[\protect\citename{Haghighati \& Hassan, }2013]{Adnan2013}
+Haghighati, Razieh, \& Hassan, Adnan. 2013.
+\newblock MODELING THE FLOW OF CROWD DURING TAWAF AT MASJID AL-HARAM.
+\newblock {\em Jurnal Mekanikal}, 06.
+
+\bibitem[\protect\citename{Khan \& McLeod, }2012]{Khan2012}
+Khan, Imran, \& McLeod, Robert~Donald. 2012.
+\newblock MANAGING HAJJ CROWD COMPLEXITY : SUPERIOR THROUGHPUT , SATISFACTION ,
+  HEALTH , \& SAFETY.
+
+\bibitem[\protect\citename{Kim {\em et~al.}, }2014]{Kim2014}
+Kim, Sujeong, Guy, StephenJ., Hillesland, Karl, Zafar, Basim, Gutub,
+  AdnanAbdul-Aziz, \& Manocha, Dinesh. 2014.
+\newblock Velocity-based modeling of physical interactions in dense crowds.
+\newblock {\em The Visual Computer},  1--15.
+
+\bibitem[\protect\citename{Kueng \& Crabtree,
+  }2014]{noauthororeditor2014victorjs}
+Kueng, Max, \& Crabtree, George. 2014.
+\newblock {\em Victor.js - 2D Vectors for JavaScript}.
+
+\bibitem[\protect\citename{Lim \& Zainuddin, }2012]{Lim2012}
+Lim, Eng~Aik, \& Zainuddin, Zarita. 2012.
+\newblock Response Surface Analysis of Crowd Dynamics during Tawaf.
+\newblock {\em Chinese Physics Letters}, {\bf 29}(7), 078901.
+
+\bibitem[\protect\citename{Mulyana \& Gunawan, }2010]{Mulyana2010}
+Mulyana, Willy, \& Gunawan, Teddy. 2010 (06).
+\newblock Hajj crowd simulation based on intelligent agent.
+
+\bibitem[\protect\citename{Narain {\em et~al.}, }2009]{Narain2009}
+Narain, Rahul, Golas, Abhinav, Curtis, Sean, \& Lin, Ming. 2009.
+\newblock Aggregate Dynamics for Dense Crowd Simulation.
+\newblock {\em ACM Trans. Graph.}, {\bf 28}(12).
+
+\bibitem[\protect\citename{Nasir \& Sunar, }2016]{Nasir2016}
+Nasir, Fawwaz~Mohd, \& Sunar, Mohd~Shahrizal. 2016.
+\newblock Simulating large group behaviour in tawaf crowd.
+\newblock {\em Pages  42--46 of:} {\em 2016 Asia Pacific Conference on
+  Multimedia and Broadcasting (APMediaCast)}.
+
+\bibitem[\protect\citename{Reynolds, }1987]{Reynolds1987}
+Reynolds, Craig~W. 1987.
+\newblock {{Flocks, Herds, and Schools: A Distributed Behavioral Model}}.
+\newblock {\em In:} {\em (ACM SIGGRAPH Computer Graphics}.
+\newblock ACM.
+
+\bibitem[\protect\citename{Saiwaki {\em et~al.}, }1997]{Saiwaki1997}
+Saiwaki, N., Komatsu, T., Yoshida, T., \& Nishida, S. 1997.
+\newblock Automatic generation of moving crowd using chaos model.
+\newblock {\em Pages  3715--3721 vol.4 of:} {\em 1997 IEEE International
+  Conference on Systems, Man, and Cybernetics. Computational Cybernetics and
+  Simulation},  vol. 4.
+
+\bibitem[\protect\citename{Shuaibu, }2015]{Shuaibu2015}
+Shuaibu, Aliyu. 2015.
+\newblock Simulation of Crowd Movement in Spiral Pattern during Tawaf, in
+  Makkah, Saudi Arabia.
+\newblock {\em Modern Applied Science}, {\bf 9}(09), 192.
+
+\bibitem[\protect\citename{Zainuddin {\em et~al.}, }2009]{Zainuddin2009}
+Zainuddin, Zarita, Thinakaran, Kumatha, \& Abu-Sulyman, Ibtesam. 2009.
+\newblock Simulating the Circumambulation of the Ka'aba using SimWalk.
+\newblock {\em European Journal of Scientific Research ISSN}, {\bf 38}(12),
+  1450--216.
+
+\end{thebibliography}

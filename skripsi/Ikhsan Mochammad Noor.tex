@@ -1,0 +1,210 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[left=4.00 cm,top=4 cm,right=3.00 cm,bottom=3.00cm]{geometry}
+\usepackage[bahasa]{babel}
+\usepackage[hang]{caption2}  % bisa, tapi tidak ada untuk bahasa arab
+%\usepackage{arabtex}
+\usepackage{apacite, natbib}
+%\usepackage{relsize}
+\usepackage{fancyhdr} 
+\pagestyle{fancy}
+\usepackage{setspace} %\doublespacing 
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{rotating} 
+\usepackage{hyperref} 
+\usepackage{titlesec,wrapfig,float,eso-pic,makeidx,pst-node,float,hyperref,eso-pic,titlesec,pst-node,pstricks}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{listings}
+\bibliographystyle{authordate1}
+%\usepackage{arabtex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\var}[2]{\newcommand{#1}{#2}}
+\newcommand{\Var}[2]{\newcommand{#1}{\uppercase{#2}}}
+
+\var{\peneliti}{IKHSAN MOCHAMMAD NOOR}
+\var{\Peneliti}{IKHSAN MOCHAMMAD NOOR}
+\var{\nim}{1157030026}
+\var{\judul}{MEKANISME FLOCKING PARTIKEL PADA DITERAPKAN PADA PERGERAKAN TAWAF DENGAN MENGGUNAKAN METODE RUNGE KUTTA}
+\Var{\Judul}{MEKANISME FLOCKING PARTIKEL PADA DITERAPKAN PADA PERGERAKAN TAWAF DENGAN MENGGUNAKAN METODE RUNGE KUTTA}
+\var{\named}{\textit{judul Inggris}}
+\var{\prog}{Physics}
+\var{\jur}{Fisika}
+\Var{\Jur}{FISIKA}
+\var{\fak}{Fakultas Sains dan Teknologi}
+\Var{\Fak}{FAKULTAS SAINS DAN TEKNOLOGI}
+\var{\kampus}{UIN Sunan Gunung Djati Bandung}
+\Var{\Kampus}{UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI BANDUNG}
+\var{\tahun}{2021}
+%\var{\waktu}{\today}
+\var{\waktu}{13 Maret 2021}
+
+\var{\model}{Skripsi}
+\Var{\Model}{SKRIPSI}
+
+\var{\alat}{}
+\var{\Alat}{}
+\author{\peneliti}
+\title{Judul Inggris}
+%\title{\centering}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% untuk rumus
+\usepackage[T1]{fontenc}
+\usepackage{color}
+\usepackage{alltt}
+\usepackage{times}
+\usepackage{ulem}
+\usepackage[ansinew]{inputenc}
+% \usepackage[latin1]{inputenc} 
+
+% \usepackage[utf8]{inputenc}   
+
+\usepackage{url}
+\usepackage{lscape}
+\usepackage{newunicodechar}
+
+
+
+
+% Untuk diagram alir
+\usepackage{tikz}
+\usetikzlibrary{calc,trees,positioning,arrows,chains,shapes.geometric,decorations.pathreplacing,decorations.pathmorphing,shapes,matrix,shapes.symbols,arrows}
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black] %fill=red!30]
+
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black,]% fill=blue!30]
+
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black] %fill=orange!30]
+
+\tikzstyle{processs} = [rectangle,  minimum height=1cm,text width=3.4cm, draw=black] %minimum width=4cm,
+
+\tikzstyle{decision} = [diamond, minimum height=1cm, text centered, draw=black] %fill=green!30, minimum width=3cm,]
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{win} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=red!30]
+\tikzstyle{to} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=0.7cm, text centered, draw=black, fill=green!30]
+\tikzstyle{proses} = [rectangle, minimum width=3cm, minimum height=0.7cm, text centered, draw=black, fill=blue!20]
+\tikzstyle{pilihan} = [diamond, text width=2cm,text centered, draw=black, fill=orange!30]
+\tikzstyle{garis} = [thick,->,>=stealth]
+\tikzstyle{kres} = [rectangle, rounded corners, minimum width=2cm, minimum height=0.5cm,text centered, draw=black]
+\tikzstyle{nad} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=0.5cm, text centered, draw=black]
+\tikzstyle{jaja} = [rectangle, minimum width=2cm, minimum height=0.5cm, text centered, draw=black]
+\tikzstyle{gan} = [diamond, minimum width=0.5cm, minimum height=0.5cm, text centered, draw=black]
+
+%tulisan berwarna
+\newgray{abu}{0.3}
+\newcmykcolor{koneng}{0 0.8 0.8 0.1}
+\newcmykcolor{hejo}{1 0 1 0.5}
+\newrgbcolor{biru}{0 1 1}
+
+
+\allowdisplaybreaks[1]
+\usepackage[ConnyRevised]{fncychap}
+\titleformat{\chapter}[display] {\normalfont\huge\bfseries\centering} {BAB  \thechapter}{18pt}{\LARGE}
+\onehalfspacing
+\floatplacement{figure}{H}  \floatplacement{table}{H}
+\hypersetup{pdfborder=0 0 0, colorlinks=black, linkcolor=black, citecolor=black, bookmarksopen=true, bookmarksnumbered=true, pdfstartview=FitH, pdfview=FitH} 
+
+
+\lhead{}%\nouppercase{\rightmark}
+\chead{}
+\rhead{}
+
+\cfoot{\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.0pt}
+
+
+\def\captionsbahasa{
+%\def\prefacename{KATA PENGANTAR}%
+%\def\contentsname{DAFTAR ISI}%
+%\def\listfigurename{DAFTAR GAMBAR}%
+%\def\listtablename{DAFTAR TABEL}%
+%\def\listappendixname{DAFTAR LAMPIRAN}%
+%\def\nomenclaturename{DAFTAR SINGKATAN}%
+%\def\abstractname{Intisari}%
+%\def\acknowledgmentname{HALAMAN PERSEMBAHAN}%
+%\def\approvalname{HALAMAN PENGESAHAN}
+%\def\partname{BAGIAN}%
+%\def\chaptername{BAB}%
+\def\appendixname{LAMPIRAN}%
+%\def\refname{DAFTAR PUSTAKA}%
+\def\bibname{DAFTAR PUSTAKA}%
+\def\indexname{INDEX}%
+\def\figurename{\textbf{Gambar}}%
+\def\tablename{\textbf{Tabel}}%
+\def\pagename{Halaman}
+%tambahan
+\def\rumus{\textbf{Persamaan}}
+\def\gambar{\figurename}
+\def\tabel{\tablename}
+\def\lampiran{\textbf{Lampiran}}
+
+
+%dosen jurusan fisika
+\def\mada{\underline{\textbf{Mada Sanjaya W.S., Ph.D}}}
+\def\nipmada{\textbf{198510112009121005}}
+\def\yudha{\underline{\textbf{Dr. Yudha Satya Perkasa, M.Si}}}
+\def\nipyudha{\textbf{197911172011011005}}
+\def\bebeh{\underline{\textbf{Dr. Bebeh Wahid Nuryadin, M.Si}}}
+\def\nipbebeh{\textbf{19860816201101109}}
+\def\kaswandhi{\underline{\textbf{Kaswandhi Triyoso, M.Si}}}
+\def\nipkaswandhi{\textbf{198510172007070105}}
+\def\imamal{\underline{\textbf{Dr. rer.nat. Imamal Muttaqien, M.Si}}}
+\def\nipimamal{\textbf{198310062009121009}}
+\def\dudung{\underline{\textbf{Dr.rer.nat. Sparisoma Viridi, M.Si}}}
+\def\nipdudung{\textbf{198510172007070105}}
+\def\hasniah{\underline{\textbf{Dr. Hasniah Aliah, M.Si}}}
+\def\niphasniah{\textbf{197806132005012014}}
+\def\nurul{\underline{\textbf{Dr. Moh. Nurul Subkhi, M.Si}}}
+\def\nipnurul{\textbf{198102012009121003}}
+\def\ridwan{\underline{\textbf{Ridwan Ramdani, S.Si., M.Si}}}
+\def\nipridwan{\textbf{198102012009121003}}
+%dekanat
+\def\dekansatu{\underline{\textbf{Dr. H. Opik Taupik Kurahman}}}
+\def\nipdekansatu{\textbf{196812141996031001}}}
+
+
+\normalem
+
+\makeatletter
+\newsavebox\zzz
+\def\mystrut{%
+\dimen@\wd\zzz
+\divide\dimen@\thr@@
+\advance\dimen@-\dp\@arstrutbox
+\rule\z@\dimen@}
+
+\def\rotatezzz{%
+\rotatebox{0}{\rlap{\kern-\dp\@arstrutbox\usebox\zzz}}}
+
+\makeatother
+\begin{document}
+\input{file/cover}
+\pagenumbering{roman}
+\input{file/pernyataan}
+\input{file/persetujuan}
+\input{file/pengesahan}
+\input{file/persembahan}
+\input{file/abstrak}
+\input{file/abstract}
+\input{file/pengantar}
+\input{file/daftar}
+\input{file/singkatan}
+\input{file/simbol}
+%ISI
+\input{file/pendahuluan}%bab 1
+\input{file/teori}%bab 2
+\input{file/metodologi}%bab 3
+\input{file/hasil}%bab 4
+\input{file/penutup}%bab 5
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
+\bibliography{file/dafpus} %%daftar pustaka, gunakan ekstensi file .bib, bisa gunakan software mendeley atau download langsung dari link paper 
+\input{file/index}
+%LAMPIRAN
+\input{appendix}
+\end{document}

@@ -1,0 +1,56 @@
+\babel@toc {bahasa}{}\relax 
+\contentsline {chapter}{SURAT PERNYATAAN KEASLIAN \uppercase {SKRIPSI}}{i}{Doc-Start}%
+\contentsline {chapter}{LEMBAR PERSETUJUAN}{ii}{Item.5}%
+\contentsline {chapter}{LEMBAR PENGESAHAN}{iii}{Item.5}%
+\contentsline {chapter}{LEMBAR PERSEMBAHAN}{iv}{Item.5}%
+\contentsline {chapter}{ABSTRAK}{v}{Item.5}%
+\contentsline {chapter}{ABSTRACT}{vi}{Item.5}%
+\contentsline {chapter}{KATA PENGANTAR}{vii}{Item.5}%
+\contentsline {paragraph}{}{vii}{Item.5}%
+\contentsline {chapter}{DAFTAR ISI}{xi}{Item.13}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xii}{Item.13}%
+\contentsline {chapter}{DAFTAR TABEL}{xiii}{Item.13}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{xiv}{Item.13}%
+\contentsline {chapter}{DAFTAR SIMBOL DAN OPERATOR}{xv}{Item.13}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Tujuan Penelitian}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Rumusan Masalah}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Batasan Masalah}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Metode Pengumpulan Data}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{5}{section.1.6}%
+\contentsline {chapter}{\numberline {2}TEORI DASAR}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Model Interaksi}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Aplikasi gaya}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Flocking}{8}{subsection.2.2.1}%
+\contentsline {subsubsection}{Alignment}{8}{equation.2.2.2}%
+\contentsline {subsubsection}{Cohesion}{8}{figure.2.1}%
+\contentsline {subsubsection}{Separation}{9}{figure.2.2}%
+\contentsline {subsubsection}{Circular Motion}{9}{figure.2.3}%
+\contentsline {section}{\numberline {2.3}Model Partikel}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Model Ruang Partikel}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Persamaan Distribusi Normal }{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Metode Runge Kutta}{12}{section.2.6}%
+\contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Alat yang Digunakan}{14}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Perangkat Keras}{14}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Perangkat Lunak}{14}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Penerapan Gaya}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Penerapan 3 gaya}{15}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Penerapan 3 gaya ditambah gaya circular}{15}{subsection.3.2.2}%
+\contentsline {subsubsection}{interaksi diluar zona tawaf}{16}{equation.3.2.2}%
+\contentsline {subsubsection}{interaksi didalam zona tawaf}{16}{equation.3.2.2}%
+\contentsline {section}{\numberline {3.3}Simulasi Komputer}{16}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Parameter Gaya}{17}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Hasil dan Pembahasan}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Flocking tanpa Circular Motion}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Flocking dengan Gaya Dominan(Circular Motion)}{20}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Flocking dengan Dominan Gaya(Circular Motion) partikel dengan Karakteristik}{22}{section.4.3}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{25}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{26}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{27}{section*.1}%
+\contentsline {chapter}{INDEX}{29}{section*.1}%
+\contentsline {chapter}{LAMPIRAN}{30}{section*.1}%
+\contentsline {chapter}{\numberline {A}sumber kode}{30}{chapter.1}%
+\contentsline {chapter}{\numberline {B}Riwayat Hidup}{31}{chapter.2}%

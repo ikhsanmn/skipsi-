@@ -1,0 +1,189 @@
+%\setverb\setnash
+%\hyphenpenalty=10000
+%\sloppypar
+%\begin{document}
+\chapter{PENDAHULUAN}\label{cha:pendahuluan}
+\pagenumbering{arabic}
+%\AddToShipoutPicture{\BackgroundPic}
+\section{Latar Belakang}\label{sec:latar}
+
+\hspace{0.6cm} Tawaf merupakan rukun ibadah dalam melaksanakan Haji, dimana seluruh umat islam dianjurkan melaksakannya. Ditinjau dari praktiknya, sederhananya tawaf ialah melakukan pergerakan mengelilingi kaaba sebanyak 7 kali dimulai dari garis hajar aswad dalam satu putaran, ditambah dengan pergerakan menuju hajar aswad dengan sunnah ingin menciumnya.Pergerakan menuju ke hajar aswad menjadikan masalah karena skala yang . Namun sebenarnya dalam keadaan haji, praktik ini menjadi sangat masif karena jumlah variabel individu yang sangat banyak. Penulis mendapatkan cerita, saat melaksanakan praktik ibadah haji, sepasang suami istri sedang melaksanakan salah satu rukun ibadah tawaf mereka sangat ingin mencium hajar aswad, tetapi sangat sulit untuk mencapai inti dari kaaba tersebut, maka mereka bergerak secara berkelompok untuk mencapainya dan berhasil. Fenomena  tersebut sangat menarik karena jika sepasang suami istri tersebut tidak melakukan gerakan berkelompok maka tujuan pusat kaaba tidak tercapai. Sedangkan tawaf merupakan salah satu praktik ibadah yang dilakukan pada saat memasuki Masjidil Al-Haram di Mekkah Saudi Arabi. Tawaf sendiri dilaksanakan pada Umrah dan Haji. Saat Haji, keaadaan tawaf ada di tingkat yang paling tinggi dimana seluruh umat islam berkumpul untuk melaksanakan salah satu pilar islam yang diwajibkan bagi seluruh umat yang mampu. Pada tahun 2017 tercatat sekitar 2.352.122 yang datang dari seluruh dunia untuk melaksanakan haji\citep{Saudi2017}, maka asumsinya seluruh orang tersebut melakukan tawaf bersamaan di waktu yang sama yaitu saat memasuki Masjidil Al-Haram. Jika dibandingkan dengan umrah frekuensi orang yang melakukan tawaf lebih rendah tingkat kepadatan orang. Dan ini menjadikan tawaf, sebagai kegiatan dengan melibatkan jumlah orang terpadat di dunia. Maka merupakan hal yang sulit untuk mencapai pusat kaaba dengan paparan diatas. Menjadikan fenomena ini hal yang menarik untuk dibahas.
+
+% (tulis pergerakan model numerik yang mendukung pemecahan masalah ini)
+% Fenomena pergerakan berkelompok inidapat dipetakan melalui berbagai macam m 
+\hspace{0.6cm}Fenomena ini dapat diterjemahkan dalam model yang terdiri dari model visual kerumunan dan model teknik numerik yang digunakan. Pertama adalah model visual, karena skalanya yang cenderung besar dengan melibatkan orang banyak. Maka penting untuk mengerti bentuk dari perilaku kerumunan saat melakukan tawaf. Variasi yang dilakukan kerumunan saat berada di Masjidil Al-Haram. Pemahaman terhadap model dari masalah pergerakan kerumunan ini mempunyai solusi berupa sebuah model yang dapat diterapkan, untuk itu diperlukan napak tilas kepada riset tentang perilaku kerumunan. 
+
+\hspace{0.6cm}Riset sebelumnya para ahli dalam bidang kajian aliran kerumunan menggolongkan pada 9 varian major system diantaranya flocking system, behavioral system, chaos model system\citep{Saiwaki1997}, agent base model\citep{Khan2012}, social forces model\citep{Zainuddin2009}, hybrid model system\citep{Shuaibu2015}, fluid dynamic model\citep{Narain2009},cellular automata \citep{Lim2012}, cognitive model\citep{Mulyana2010} and pedestrian model system\citep{Adnan2013}. Beberapa studi seperti kim dalam penelitiannya mengguunakan basis kecepatan dan FSM untuk membuat behaviour sistem untuk kerumunan sehingga objek yang berinteraksi dapat mengantisipasi tabrakan dan menghindarinya karena kekuatannya dapat diperhitungkan dari basis kecepatan tersebut\citep{Kim2014}. Studi lainnya deperkenalkan oleh Shuaibu, dengan memodelkan tawaf membentuk jalur spiral menggunakan simulasi dicrete-event sistem antri\citep{Shuaibu2015}. Dapat dikatakan ini sebagai model algoritmanya. Dalam riset ini penulis cenderung menggunakan sistem basis agent untuk memodelkan.
+
+\hspace{0.6cm}Kedua adalah tentang model teknik numerik, model numerik ini adalah bagian yang digunakan untuk menghitung sistem dari pergerakan kerumunan ini. 
+Dimana hal ini sebagai fondasi dari model untuk variabel dalam model visual. Basis riset untuk teknik numerik ini diantaranya Finite state machine\citep{Curtis2011}\citep{Bicho2012},  Reciprocal Collision Avoidance, velocity based model\citep{Kim2014}, Ruled Based Model, Metode Euler dan Langrangian\citep{Narain2009}, Discrete-event model.Prenulis cenderung menggunakan velocity based model dalam memodelkan sebagai basis fisika interaksinya. %inin harus diterusin dengan referensi
+% Salah satu alat untuk menyalurkan ilmu tentang bentuk perilaku orang banyak, dengan memodelkan secara fisis menggunakan komputasi fisis. Bentuk perilaku dapat diterjemahkan kedalam gerak seseorang mengelilingi kaaba saat melakukan tawaf. Waktu tempuh, pola gerak yang terbentuk dalam kepadatan bentuk grup orang yang terbentuk.
+
+Berikut referensi waktu tempuh seseorang untuk menyelesaikan tawaf:
+\begin{table}[H]
+\begin{tabular}{|c|c|c|c|}
+\hline
+No.  Sample & Keterangan & Waktu Tempuh(menit) &Sumber Video\\
+\hline
+1& 3/4 tawaf&	2.14 &matt zimbo banzai\\
+\hline
+2&full tawaf&	3.07&mustafa aydemir\\
+\hline
+3&not full circle&	3&-\\
+\hline
+4&full&	4.2&haris munandar\\
+\hline
+5&full&	4.32&patarani channel\\
+\hline
+6&not full&	3/4 tawaf&sukmasari ahmad\\
+\hline
+7&full&	8.03&best islamic videos\\
+\hline
+8&full tawaf&	5.05&muhammad raziur rahmad\\
+
+\hline
+9&full tawaf&	5.49&stunecity\\
+
+\hline
+10&full tawaf&	3.06 umrah& Asep Hendra\\
+
+\hline
+11&full tawaf&	4.27&Palmerah Televisi\\
+
+\hline
+12&full tawafkhana&	2.2&Najamuddin Shahwani\\
+
+\hline
+13&full tawaf&	5.26&All In One Pakistan\\
+
+\hline
+14&full tawaf&4.41& I M Zakria\\
+
+\hline
+15&full tawaf&	3.44&Samee ur Rahman HSE Trainer\\
+
+\hline
+16&full tawaf&	4.48/4.52&Akram Baryar Official\\
+
+\hline 
+17&half tawaf&	2.57&HSS pk\\
+
+\hline
+18&full tawaf&	4.46&best islamic videos\\
+
+\hline
+19&3/4 tawaf&	2.4&Ali Akhtar\\
+
+\hline
+20&full tawaf&	3.48&best islamic videos\\
+
+\hline
+21&full tawaf&	3.28 bagus& jag Nannn\\
+
+\hline
+22&3/4 tawaf&	3.34&My Tech Zone\\
+\hline
+23&full tawaf&	4.08&bagus akram baryar\\
+
+\hline
+24&full tawaf&	-&ikha mabrur pratama\\
+
+\hline
+25&3/4 tawaf&	4.24&Panduan Gampang Ibadah \\
+& & &Umroh dan Haji  Plus 2014\\
+	
+\hline
+26&1/4 tawaf &	1.15&Muhammad Kahif\\
+
+\hline
+27&1/4 tawaf &	1.08&Abdul Waheed kakepoto\\
+	
+\hline
+28&full tawaf&	3.54&	Aryo Pamungkas\\
+
+\hline
+29&3/4 tawaf&	3&-\\
+
+\hline
+30&7 tawaf&	1=3.01 dan 7=22.47&eljunaed\\
+\hline
+31&full tawaf&	5.2&Haramain Travels\\
+
+\hline
+32&full tawaf&	3.18&Saad Al Qureshi\\
+\hline
+
+\end{tabular}
+\end{table}
+
+		
+\hspace{0.6cm}Pada Riset ini berfokus pada simulasi kerumunan tawaf menggunakan metode flocking dalam pergerakan secara berkelompok. Dengan melakukan variasi di flockingnya untuk membentuk pergerakan 1 ras hingga dapat terbentuk sebuah tawaf yang berkelompok sesuai ras pattern partikel. Dengan menggunakan metode runge-kutta. Metode Runge-Kutta ini dipilih karena mempertimbangkan kompleksitas dari metode perhitungan. Jika dibandingkan dengan metode Euler approksimasinya lebih tinggi, dan jika dibandingkan metode newton rapshon lebih rendah aporksimasinya akan tetapi akan menghasilkan kompleksitas perhitungan partikel yang tinggi, akibatnya memperlambat simulasi.
+Dalam riset kedepan dapat dikembangkan sebuah metode khusus dalam melaksanakan tawaf yang berbasis struktur dan sistematis. Untuk kedepannya dengan model yang sudah stabil dapat menggambarkan pergerakan tawaf dengan mencapai hajar aswad dengan cara berkelompok   
+
+\section{Tujuan Penelitian}\label{sec:tujuan}
+\hspace{0.6cm}Tujuan dari penelitian ini adalah membuat sebuah model tawaf mekanisme minimal. Dan menganalisis gaya yang diterapkan agar simulasi stabil antara kelompok tawaf untuk mencapai hajar aswad.
+
+\section{Rumusan Masalah}\label{sec:rumusan}
+Berdasarkan latar belakang yang telah diuraikan maka rumusan masalah dalam penelitian proposal tugas akhir ini adalah sebagai berikut: 
+
+\begin{enumerate}
+\item{Bagaimana proses simulasi tawaf bebentuk.}
+\item{Bagaimana proses group terbentuk dalam tawaf}
+\item{Bagaimana penyederhanaan ruang dan pembatasan individu}
+\item{Ruang dalam melakukan tawaf disederhanakan pembatasan individu agar menjaga kestabilan simulasi}
+\item{Bagaimana tawaf dapat berkelompok dapat terbentuk dengan tujuan mencapai hajar aswad}
+\item{Bagaimana gaya antar kelompok dapat stabil dengan kelompok lain dapat mencapai hajar aswad}
+\item{Bagaimana variable yang sudah ditambahkan mempengaruhi simulasi.}
+\end{enumerate}
+
+\section{Batasan Masalah}\label{sec:batasan}
+Berdasarkan latar belakang yang telah diuraikan maka rumusan masalah dalam penelitian proposal tugas akhir ini adalah sebagai berikut:
+\begin{enumerate} 
+\item{Semua partikel dianggap sama dan mengikuti aturan yang sama.} 
+\item{Berbentuk 2 dimensi.} 
+\item{Dibatasi dengan gaya dan perilaku yang telah ditentukan.} 
+\item{Bentuk ruang mataf tempat partikel tawaf diserdeharnakan}
+\item{Bagaimana proses simulasi tawaf berkelompok  bebentuk.} 
+\item{Bagaimana variable yang sudah ditambahkan mempengaruhi simulasi.}
+\end{enumerate}
+
+
+\section{Metode Pengumpulan Data}\label{sec:metode}
+\hspace{0.6cm}Dalam penelitian ini digunakan dua metode pengumpulan data yaitu:
+\begin{enumerate} 
+\item{Studi Literatur}
+Sebelum melakukan ekperimen terlebih dahulu dilakukan studi literatur yang dapat bersumber dari berbagai buku, jurnal  dan skripsi untuk mendapat informasi yang dapat dijadikan sebagai acuan selama penelitian.
+\item{Metode numerik}
+Besaran-besaran pada simulasi akan diupdate menggunakan
+metode interasi Runge-Kutta
+\item{Simulasi}
+Dalam simulasi ini digunakan agent-base model sebagai variable individu yang bergerak secara simulatan dengan variable yang telah ditentukan. Dalam model Masjidil Al-Haram.    
+
+\end{enumerate}
+
+
+\section{Sistematika Penulisan}\label{sec:sistematika}
+\hspace{0.6cm}Pembahasan Pokok dari penelitian ini dibagi menjadi beberapa bab yang diuraikan secara singkat sebagai berikut:
+
+\begin{enumerate}
+\item{BAB I PENDAHULUAN
+Bab ini menguraikan mengenai latar belakang, perumusan masalah, batasan masalah, tujuan penelitian, metode pengumpulan data, dan sistematika penulisan.}	
+
+\item{BAB II TEORI DASAR
+Bab ini berisi teori-teori penunjang penelitian diantaranya agent-base, Behaviour Reciprocal, Reciprocal Collition Avoidance, dll} 
+
+\item{BAB III METODOLOGI PENELITIAN
+Pada bab ini diuraikan tahap-tahap dalam penelitian. Tahapan tersebut meliputi: tahap pembacaan data, algoritma program, simulasi perjalanan agent  dalam model yang telah dibentuk.}
+
+\item{BAB IV HASIL SEMENTARA
+Pada bab ini akan dibahas tentang hasil sementara penelitian dan analisis yang dibahas dengan acuan dasar teori yang berkaitan dengan penelitian.}
+
+\item{Bab V Kesimpulan dan Saran 
+Pada bab ini memuat kesimpulan dan saran yang dapat diambil dari Hasil.
+}
+\end{enumerate}
+
+
+%tes \citep{wannamaker04}
+
+%\end{document}

@@ -1,0 +1,167 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[left=4.00 cm,top=4 cm,right=3.00 cm,bottom=3.00cm]{geometry}
+\usepackage[bahasa]{babel}
+\usepackage[hang]{caption2}  % bisa, tapi tidak ada untuk bahasa arab
+%\usepackage{arabtex}
+\usepackage{apacite, natbib}
+%\usepackage{relsize}
+\usepackage{fancyhdr} 
+\pagestyle{fancy}
+\usepackage{setspace} %\doublespacing 
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{rotating} 
+\usepackage{hyperref} 
+\usepackage{titlesec,wrapfig,float,eso-pic,makeidx,pst-node,float,hyperref,eso-pic,titlesec,pst-node,pstricks}
+\usepackage{amsmath}
+\usepackage{multirow}
+\bibliographystyle{seg}
+%\usepackage{arabtex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\var}[2]{\newcommand{#1}{#2}}
+\newcommand{\Var}[2]{\newcommand{#1}{\uppercase{#2}}}
+
+\var{\peneliti}{ahmad rasyid hilmansyah}
+\var{\Peneliti}{AHMAD RASYID HILMANSYAH}
+\var{\nim}{1137030003}
+\var{\judul}{Perbandingan Metode Geolistrik Konfigurasi Wenner-Schlumberger Dengan Wenner Alpha Dalam Pendugaan Potensi Air Tanah  Di Mahad Tahfidz Al-Quran Al-kausar 561 Kecamatan Cineam Kabupaten Tasikmalaya}
+\Var{\Judul}{PERBANDINGAN METODE GEOLISTRIK KONFIGURASI WENNER-SCHLUMBERGER DENGAN WENNER ALPHA DALAM PENDUGAAN POTENSI AIR TANAH  DI MAHAD TAHFIDZ AL-QURAN AL-KAUSAR 561 KECAMATAN CINEAM KABUPATEN TASIKMALAYA}
+\var{\named}{\textit{Comparison of geoelectric methods wenner-schlumberger configuration with wenner alpha in estimating groundwater potential in mahad tahfidz al-quran al-Kausar 561 cineam district Tasikmalaya district}}
+\var{\prog}{Physics}
+\var{\jur}{Fisika}
+\Var{\Jur}{FISIKA}
+\var{\fak}{Fakultas Sains dan Teknologi}
+\Var{\Fak}{FAKULTAS SAINS DAN TEKNOLOGI}
+\var{\kampus}{UIN Sunan Gunung Djati Bandung}
+\Var{\Kampus}{UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI BANDUNG}
+\var{\tahun}{2018}
+%\var{\waktu}{\today}
+\var{\waktu}{27 Agustus 2018}
+
+\var{\model}{Skripsi}
+\Var{\Model}{SKRIPSI}
+
+\var{\alat}{}
+\var{\Alat}{}
+\author{\peneliti}
+\title{Comparison of geoelectric method of the configuration of wenner-schlumberger with wenner alpha in the estimation of groundwater potential in mahad tahfidz al-quran al-kausar 561 kecamatan cineam tasikmalaya district}
+%\title{\centering}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% untuk rumus
+\usepackage[T1]{fontenc}
+\usepackage{color}
+\usepackage{alltt}
+\usepackage{times}
+\usepackage{ulem}
+\usepackage[ansinew]{inputenc}
+\usepackage{url}
+\usepackage{lscape}
+
+
+
+% Untuk diagram alir
+\usepackage{tikz}
+\usetikzlibrary{calc,trees,positioning,arrows,chains,shapes.geometric,decorations.pathreplacing,decorations.pathmorphing,shapes,matrix,shapes.symbols,arrows}
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black] %fill=red!30]
+
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black,]% fill=blue!30]
+
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black] %fill=orange!30]
+
+\tikzstyle{processs} = [rectangle,  minimum height=1cm,text width=3.4cm, draw=black] %minimum width=4cm,
+
+\tikzstyle{decision} = [diamond, minimum height=1cm, text centered, draw=black] %fill=green!30, minimum width=3cm,]
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{win} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=red!30]
+\tikzstyle{to} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=0.7cm, text centered, draw=black, fill=green!30]
+\tikzstyle{proses} = [rectangle, minimum width=3cm, minimum height=0.7cm, text centered, draw=black, fill=blue!20]
+\tikzstyle{pilihan} = [diamond, text width=2cm,text centered, draw=black, fill=orange!30]
+\tikzstyle{garis} = [thick,->,>=stealth]
+\tikzstyle{kres} = [rectangle, rounded corners, minimum width=2cm, minimum height=0.5cm,text centered, draw=black]
+\tikzstyle{nad} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=0.5cm, text centered, draw=black]
+\tikzstyle{jaja} = [rectangle, minimum width=2cm, minimum height=0.5cm, text centered, draw=black]
+\tikzstyle{gan} = [diamond, minimum width=0.5cm, minimum height=0.5cm, text centered, draw=black]
+
+%tulisan berwarna
+\newgray{abu}{0.3}
+\newcmykcolor{koneng}{0 0.8 0.8 0.1}
+\newcmykcolor{hejo}{1 0 1 0.5}
+\newrgbcolor{biru}{0 1 1}
+
+
+\allowdisplaybreaks[1]
+\usepackage[ConnyRevised]{fncychap}
+\titleformat{\chapter}[display] {\normalfont\huge\bfseries\centering} {BAB  \thechapter}{18pt}{\LARGE}
+\onehalfspacing
+\floatplacement{figure}{H}  \floatplacement{table}{H}
+\hypersetup{pdfborder=0 0 0, colorlinks=black, linkcolor=black, citecolor=black, bookmarksopen=true, bookmarksnumbered=true, pdfstartview=FitH, pdfview=FitH} 
+
+
+\lhead{}%\nouppercase{\rightmark}
+\chead{}
+\rhead{}
+
+\cfoot{\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.0pt}
+
+
+\def\captionsbahasa{
+%\def\prefacename{KATA PENGANTAR}%
+%\def\contentsname{DAFTAR ISI}%
+%\def\listfigurename{DAFTAR GAMBAR}%
+%\def\listtablename{DAFTAR TABEL}%
+%\def\listappendixname{DAFTAR LAMPIRAN}%
+%\def\nomenclaturename{DAFTAR SINGKATAN}%
+%\def\abstractname{Intisari}%
+%\def\acknowledgmentname{HALAMAN PERSEMBAHAN}%
+%\def\approvalname{HALAMAN PENGESAHAN}
+%\def\partname{BAGIAN}%
+%\def\chaptername{BAB}%
+\def\appendixname{LAMPIRAN}%
+%\def\refname{DAFTAR PUSTAKA}%
+\def\bibname{DAFTAR PUSTAKA}%
+\def\indexname{INDEX}%
+\def\figurename{\textbf{Gambar}}%
+\def\tablename{\textbf{Tabel}}%
+\def\pagename{Halaman}
+%tambahan
+\def\rumus{\textbf{Persamaan}}
+\def\gambar{\figurename}
+\def\tabel{\tablename}
+\def\lampiran{\textbf{Lampiran}}
+
+
+%dosen jurusan fisika
+\def\mada{\underline{\textbf{Mada Sanjaya W.S., Ph.D}}}
+\def\nipmada{\textbf{198510112009121005}}
+\def\yudha{\underline{\textbf{Dr. Yudha Satya Perkasa}}}
+\def\nipyudha{\textbf{197911172011011005}}
+\def\bebeh{\underline{\textbf{Dr. Bebeh Wahid Nuryadin}}}
+\def\nipbebeh{\textbf{19860816201101109}}
+\def\kaswandhi{\underline{\textbf{Kaswandhi Triyoso, M.Si}}}
+\def\nipkaswandhi{\textbf{198510172007070105}}
+\def\imamal{\underline{\textbf{Dr. rer.nat. Imamal Muttaqien}}}
+\def\nipimamal{\textbf{198310062009121009}}
+%dekanat
+\def\dekan{\underline{\textbf{Dr. H. Opik Taupik Kurahman}}}
+\def\nipdekan{\textbf{196812141996031001}}
+}
+\normalem
+
+\makeatletter
+\newsavebox\zzz
+\def\mystrut{%
+\dimen@\wd\zzz
+\divide\dimen@\thr@@
+\advance\dimen@-\dp\@arstrutbox
+\rule\z@\dimen@}
+
+\def\rotatezzz{%
+\rotatebox{0}{\rlap{\kern-\dp\@arstrutbox\usebox\zzz}}}
+
+\makeatother

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Ikhsan Mochammad Noor.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: authordate1.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: file/dafpus.bib
+Warning--entry type for "noauthororeditor2014victorjs" isn't style-file defined
+--line 357 of file file/dafpus.bib
+Warning--I didn't find a database entry for "HUTH1992"
+Warning--empty booktitle in Curtis2011
+Warning--empty booktitle in Khan2012
+Warning--empty booktitle in Mulyana2010
+You've used 17 entries,
+            2441 wiz_defined-function locations,
+            693 strings with 7108 characters,
+and the built_in function-call counts, 6795 in all, are:
+= -- 643
+> -- 268
+< -- 61
++ -- 80
+- -- 78
+* -- 564
+:= -- 1120
+add.period$ -- 65
+call.type$ -- 17
+change.case$ -- 109
+chr.to.int$ -- 17
+cite$ -- 20
+duplicate$ -- 260
+empty$ -- 496
+format.name$ -- 102
+if$ -- 1407
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 17
+newline$ -- 85
+num.names$ -- 51
+pop$ -- 108
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 272
+stack$ -- 0
+substring$ -- 371
+swap$ -- 61
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 134
+warning$ -- 3
+while$ -- 45
+width$ -- 0
+write$ -- 210
+(There were 5 warnings)
