@@ -17,6 +17,13 @@ Casella, George, \& Berger, Roger. 2001.
 \newblock {\em Statistical Inference}.
 \newblock {Duxbury Resource Center}.
 
+\bibitem[\protect\citename{Chat\'e {\em et~al.}, }2008]{Chate2008}
+Chat\'e, Hugues, Ginelli, Francesco, Gr\'egoire, Guillaume, \& Raynaud, Franck.
+  2008.
+\newblock Collective motion of self-propelled particles interacting without
+  cohesion.
+\newblock {\em Phys. Rev. E}, {\bf 77}(Apr), 046113.
+
 \bibitem[\protect\citename{Curtis {\em et~al.}, }2011]{Curtis2011}
 Curtis, Sean, Guy, Stephen, Zafar, Basim, \& Manocha, Dinesh. 2011 (11).
 \newblock Virtual Tawaf: A case study in simulating the behavior of dense,
@@ -32,6 +39,11 @@ for Statistics Kingdom~of Saudi~Arabia, General~Authority. 2018.
 Haghighati, Razieh, \& Hassan, Adnan. 2013.
 \newblock MODELING THE FLOW OF CROWD DURING TAWAF AT MASJID AL-HARAM.
 \newblock {\em Jurnal Mekanikal}, 06.
+
+\bibitem[\protect\citename{Huth \& Wissel, }1992]{HUTH1992}
+Huth, Andreas, \& Wissel, Christian. 1992.
+\newblock The simulation of the movement of fish schools.
+\newblock {\em Journal of Theoretical Biology}, {\bf 156}(3), 365--385.
 
 \bibitem[\protect\citename{Khan \& McLeod, }2012]{Khan2012}
 Khan, Imran, \& McLeod, Robert~Donald. 2012.

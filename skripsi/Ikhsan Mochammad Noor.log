@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  17 JUL 2022 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  8 SEP 2022 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"C:/Users/ikhsa/OneDrive/Desktop/File Script/StudyTawafScript/study tawaf scr
-ipt/Ikhsan Mochammad Noor.tex"
+**"C:/Users/ikhsa/OneDrive/Documents/ikhsan/skipsi-/skripsi/Ikhsan Mochammad No
+or.tex"
 
-(C:/Users/ikhsa/OneDrive/Desktop/File Script/StudyTawafScript/study tawaf scrip
-t/Ikhsan Mochammad Noor.tex
+(C:/Users/ikhsa/OneDrive/Documents/ikhsan/skipsi-/skripsi/Ikhsan Mochammad Noor
+.tex
 LaTeX2e <2022-06-01> patch level 3
 L3 programming layer <2022-06-16>
 (C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls
@@ -637,6 +637,31 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@dima=\skip82
 \bigstrutjot=\dimen280
 )
+(C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty
+\lst@mode=\count336
+\lst@gtempboxa=\box62
+\lst@token=\toks44
+\lst@length=\count337
+\lst@currlwidth=\dimen281
+\lst@column=\count338
+\lst@pos=\count339
+\lst@lostspace=\dimen282
+\lst@width=\dimen283
+\lst@newlines=\count340
+\lst@lineno=\count341
+\lst@maxwidth=\dimen284
+
+(C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count342
+\lst@skipnumbers=\count343
+\lst@framebox=\box63
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
 (C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -647,21 +672,21 @@ Package: alltt 2021/01/29 v2.0g defines alltt environment
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 (C:\Program Files\MiKTeX 2.9\tex/latex/ulem\ulem.sty
-\UL@box=\box62
-\UL@hyphenbox=\box63
+\UL@box=\box64
+\UL@hyphenbox=\box65
 \UL@skip=\skip83
-\UL@hook=\toks44
-\UL@height=\dimen281
-\UL@pe=\count336
-\UL@pixel=\dimen282
-\ULC@box=\box64
+\UL@hook=\toks45
+\UL@height=\dimen285
+\UL@pe=\count344
+\UL@pixel=\dimen286
+\ULC@box=\box66
 Package: ulem 2019/11/18
-\ULdepth=\dimen283
+\ULdepth=\dimen287
 )
 (C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks45
-\inpenc@posthook=\toks46
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
 
 (C:\Program Files\MiKTeX 2.9\tex/latex/base\ansinew.def
 File: ansinew.def 2021/02/14 v1.3d Input encoding file
@@ -680,13 +705,13 @@ Package newunicodechar Warning: This package only works if the document
 (C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty
 (C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks47
-\pgfutil@tempdima=\dimen284
-\pgfutil@tempdimb=\dimen285
+\pgfutil@everybye=\toks48
+\pgfutil@tempdima=\dimen288
+\pgfutil@tempdimb=\dimen289
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.tex
 )) (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box65
+\pgfutil@abb=\box67
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex)
@@ -700,26 +725,26 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex)
-\pgf@x=\dimen286
-\pgf@y=\dimen287
-\pgf@xa=\dimen288
-\pgf@ya=\dimen289
-\pgf@xb=\dimen290
-\pgf@yb=\dimen291
-\pgf@xc=\dimen292
-\pgf@yc=\dimen293
-\pgf@xd=\dimen294
-\pgf@yd=\dimen295
+\pgf@x=\dimen290
+\pgf@y=\dimen291
+\pgf@xa=\dimen292
+\pgf@ya=\dimen293
+\pgf@xb=\dimen294
+\pgf@yb=\dimen295
+\pgf@xc=\dimen296
+\pgf@yc=\dimen297
+\pgf@xd=\dimen298
+\pgf@yd=\dimen299
 \w@pgf@writea=\write3
 \r@pgf@reada=\read4
-\c@pgf@counta=\count337
-\c@pgf@countb=\count338
-\c@pgf@countc=\count339
-\c@pgf@countd=\count340
-\t@pgf@toka=\toks48
-\t@pgf@tokb=\toks49
-\t@pgf@tokc=\toks50
-\pgf@sys@id@count=\count341
+\c@pgf@counta=\count345
+\c@pgf@countb=\count346
+\c@pgf@countc=\count347
+\c@pgf@countd=\count348
+\t@pgf@toka=\toks49
+\t@pgf@tokb=\toks50
+\t@pgf@tokc=\toks51
+\pgf@sys@id@count=\count349
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -735,8 +760,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.te
 x
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count342
-\pgfsyssoftpath@bigbuffer@items=\count343
+\pgfsyssoftpath@smallbuffer@items=\count350
+\pgfsyssoftpath@bigbuffer@items=\count351
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.te
 x
@@ -748,51 +773,51 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfint.code.tex)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen296
-\pgf@picmaxx=\dimen297
-\pgf@picminy=\dimen298
-\pgf@picmaxy=\dimen299
-\pgf@pathminx=\dimen300
-\pgf@pathmaxx=\dimen301
-\pgf@pathminy=\dimen302
-\pgf@pathmaxy=\dimen303
-\pgf@xx=\dimen304
-\pgf@xy=\dimen305
-\pgf@yx=\dimen306
-\pgf@yy=\dimen307
-\pgf@zx=\dimen308
-\pgf@zy=\dimen309
+\pgf@picminx=\dimen300
+\pgf@picmaxx=\dimen301
+\pgf@picminy=\dimen302
+\pgf@picmaxy=\dimen303
+\pgf@pathminx=\dimen304
+\pgf@pathmaxx=\dimen305
+\pgf@pathminy=\dimen306
+\pgf@pathmaxy=\dimen307
+\pgf@xx=\dimen308
+\pgf@xy=\dimen309
+\pgf@yx=\dimen310
+\pgf@yy=\dimen311
+\pgf@zx=\dimen312
+\pgf@zy=\dimen313
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.co
 de.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen310
-\pgf@path@lasty=\dimen311
+\pgf@path@lastx=\dimen314
+\pgf@path@lasty=\dimen315
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.t
 ex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen312
-\pgf@shorten@start@additional=\dimen313
+\pgf@shorten@end@additional=\dimen316
+\pgf@shorten@start@additional=\dimen317
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box66
-\pgf@hbox=\box67
-\pgf@layerbox@main=\box68
-\pgf@picture@serial@count=\count344
+\pgfpic=\box68
+\pgf@hbox=\box69
+\pgf@layerbox@main=\box70
+\pgf@picture@serial@count=\count352
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.cod
 e.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen314
+\pgflinewidth=\dimen318
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations.
 code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen315
-\pgf@pt@y=\dimen316
-\pgf@pt@temp=\dimen317
+\pgf@pt@x=\dimen319
+\pgf@pt@y=\dimen320
+\pgf@pt@temp=\dimen321
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -806,19 +831,19 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen318
+\pgfarrowsep=\dimen322
 ) (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen319
-\pgf@sys@shading@range@num=\count345
-\pgf@shadingcount=\count346
+\pgf@max=\dimen323
+\pgf@sys@shading@range@num=\count353
+\pgf@shadingcount=\count354
 ) (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.te
 x
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box69
+\pgfexternal@startupbox=\box71
 ))
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -835,7 +860,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box70
+\pgfnodeparttextbox=\box72
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -843,8 +868,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.s
 ty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen320
-\pgf@nodesepend=\dimen321
+\pgf@nodesepstart=\dimen324
+\pgf@nodesepend=\dimen325
 )
 (C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.s
 ty
@@ -858,10 +883,10 @@ Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex)
-\pgffor@iter=\dimen322
-\pgffor@skip=\dimen323
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
+\pgffor@iter=\dimen326
+\pgffor@skip=\dimen327
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
 ))
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
@@ -869,33 +894,33 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.c
 ode.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count347
-\pgfplotmarksize=\dimen324
+\pgf@plot@mark@count=\count355
+\pgfplotmarksize=\dimen328
 )
-\tikz@lastx=\dimen325
-\tikz@lasty=\dimen326
-\tikz@lastxsaved=\dimen327
-\tikz@lastysaved=\dimen328
-\tikz@lastmovetox=\dimen329
-\tikz@lastmovetoy=\dimen330
-\tikzleveldistance=\dimen331
-\tikzsiblingdistance=\dimen332
-\tikz@figbox=\box71
-\tikz@figbox@bg=\box72
-\tikz@tempbox=\box73
-\tikz@tempbox@bg=\box74
-\tikztreelevel=\count348
-\tikznumberofchildren=\count349
-\tikznumberofcurrentchild=\count350
-\tikz@fig@count=\count351
+\tikz@lastx=\dimen329
+\tikz@lasty=\dimen330
+\tikz@lastxsaved=\dimen331
+\tikz@lastysaved=\dimen332
+\tikz@lastmovetox=\dimen333
+\tikz@lastmovetoy=\dimen334
+\tikzleveldistance=\dimen335
+\tikzsiblingdistance=\dimen336
+\tikz@figbox=\box73
+\tikz@figbox@bg=\box74
+\tikz@tempbox=\box75
+\tikz@tempbox@bg=\box76
+\tikztreelevel=\count356
+\tikznumberofchildren=\count357
+\tikznumberofcurrentchild=\count358
+\tikz@fig@count=\count359
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count352
-\pgfmatrixcurrentcolumn=\count353
-\pgf@matrix@numberofcolumns=\count354
+\pgfmatrixcurrentrow=\count360
+\pgfmatrixcurrentcolumn=\count361
+\pgf@matrix@numberofcolumns=\count362
 )
-\tikz@expandcount=\count355
+\tikz@expandcount=\count363
 
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzl
 ibrarytopaths.code.tex
@@ -920,7 +945,7 @@ File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryarrows.code.te
 x
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen333
+\arrowsize=\dimen337
 ))
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzl
 ibrarychains.code.tex
@@ -940,16 +965,16 @@ ibrarydecorations.pathreplacing.code.tex
 ibrarydecorations.code.tex
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduledecorations.code.
 tex
-\pgfdecoratedcompleteddistance=\dimen334
-\pgfdecoratedremainingdistance=\dimen335
-\pgfdecoratedinputsegmentcompleteddistance=\dimen336
-\pgfdecoratedinputsegmentremainingdistance=\dimen337
-\pgf@decorate@distancetomove=\dimen338
-\pgf@decorate@repeatstate=\count356
-\pgfdecorationsegmentamplitude=\dimen339
-\pgfdecorationsegmentlength=\dimen340
+\pgfdecoratedcompleteddistance=\dimen338
+\pgfdecoratedremainingdistance=\dimen339
+\pgfdecoratedinputsegmentcompleteddistance=\dimen340
+\pgfdecoratedinputsegmentremainingdistance=\dimen341
+\pgf@decorate@distancetomove=\dimen342
+\pgf@decorate@repeatstate=\count364
+\pgfdecorationsegmentamplitude=\dimen343
+\pgfdecorationsegmentlength=\dimen344
 )
-\tikz@lib@dec@box=\box75
+\tikz@lib@dec@box=\box77
 )
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryde
 corations.pathreplacing.code.tex))
@@ -996,26 +1021,26 @@ File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes.
 multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodepartlowerbox=\box76
-\pgfnodeparttwobox=\box77
-\pgfnodepartthreebox=\box78
-\pgfnodepartfourbox=\box79
-\pgfnodeparttwentybox=\box80
-\pgfnodepartnineteenbox=\box81
-\pgfnodeparteighteenbox=\box82
-\pgfnodepartseventeenbox=\box83
-\pgfnodepartsixteenbox=\box84
-\pgfnodepartfifteenbox=\box85
-\pgfnodepartfourteenbox=\box86
-\pgfnodepartthirteenbox=\box87
-\pgfnodeparttwelvebox=\box88
-\pgfnodepartelevenbox=\box89
-\pgfnodeparttenbox=\box90
-\pgfnodepartninebox=\box91
-\pgfnodeparteightbox=\box92
-\pgfnodepartsevenbox=\box93
-\pgfnodepartsixbox=\box94
-\pgfnodepartfivebox=\box95
+\pgfnodepartlowerbox=\box78
+\pgfnodeparttwobox=\box79
+\pgfnodepartthreebox=\box80
+\pgfnodepartfourbox=\box81
+\pgfnodeparttwentybox=\box82
+\pgfnodepartnineteenbox=\box83
+\pgfnodeparteighteenbox=\box84
+\pgfnodepartseventeenbox=\box85
+\pgfnodepartsixteenbox=\box86
+\pgfnodepartfifteenbox=\box87
+\pgfnodepartfourteenbox=\box88
+\pgfnodepartthirteenbox=\box89
+\pgfnodeparttwelvebox=\box90
+\pgfnodepartelevenbox=\box91
+\pgfnodeparttenbox=\box92
+\pgfnodepartninebox=\box93
+\pgfnodeparteightbox=\box94
+\pgfnodepartsevenbox=\box95
+\pgfnodepartsixbox=\box96
+\pgfnodepartfivebox=\box97
 )))
 (C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzl
 ibrarymatrix.code.tex
@@ -1038,21 +1063,21 @@ Package fancychapter Warning: unknown style option on input line 647.
 
 Package hyperref Warning: Unexpected value `black'
 (hyperref)                of option `colorlinks' instead of
-(hyperref)                `true' or 'false' on input line 107.
+(hyperref)                `true' or 'false' on input line 108.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 107.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 107.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 108.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 108.
 
-\zzz=\box96
+\zzz=\box98
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 18
-3.
+4.
 (C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count357
-\l__pdf_internal_box=\box97
+\l__color_backend_stack_int=\count365
+\l__pdf_internal_box=\box99
 )
 (Ikhsan Mochammad Noor.aux
 
@@ -1061,24 +1086,24 @@ LaTeX Warning: Label `sec:modelpartikel' multiply defined.
 )
 \openout1 = `"Ikhsan Mochammad Noor.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 183.
-LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1116,24 +1141,24 @@ LaTeX Font Info:    ... okay on input line 183.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-\c@maskedRefs=\count358
+\c@maskedRefs=\count366
 
 Package apacite Warning: No suitable language definition file (bahasa.apc) foun
 d.
 
 (C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count359
-\scratchdimen=\dimen341
-\scratchbox=\box98
-\nofMPsegments=\count360
-\nofMParguments=\count361
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count362
-\MPscratchDim=\dimen342
-\MPnumerator=\count363
-\makeMPintoPDFobject=\count364
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count367
+\scratchdimen=\dimen345
+\scratchbox=\box100
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen346
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks55
 ) (C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -1150,14 +1175,15 @@ G,.JBIG2,.JB2,.eps]
 (C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 183.
+Package hyperref Info: Link coloring OFF on input line 184.
 
 (Ikhsan Mochammad Noor.out) (Ikhsan Mochammad Noor.out)
 \@outlinefile=\write4
 \openout4 = `"Ikhsan Mochammad Noor.out"'.
 
+\c@lstlisting=\count373
  (file/cover.tex
-<template/uin.jpg, id=185, 214.55156pt x 267.24844pt>
+<template/uin.jpg, id=199, 214.55156pt x 267.24844pt>
 File: template/uin.jpg Graphic file (type jpg)
 <use template/uin.jpg>
 Package pdftex.def Info: template/uin.jpg  used on input line 16.
@@ -1213,7 +1239,7 @@ Overfull \hbox (37.07191pt too wide) in paragraph at lines 13--24
 ) (file/pengesahan.tex [2
 
 ]
-Overfull \hbox (75.68742pt too wide) in paragraph at lines 5--26
+Overfull \hbox (49.084pt too wide) in paragraph at lines 5--26
  [] 
  []
 
@@ -1237,7 +1263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
@@ -1268,42 +1294,46 @@ N MENG-
 
 [7
 
-] [8]) (file/daftar.tex [9] (Ikhsan Mochammad Noor.toc [10
-
-])
+] [8]) (file/daftar.tex [9] (Ikhsan Mochammad Noor.toc)
 \tf@toc=\write5
 \openout5 = `"Ikhsan Mochammad Noor.toc"'.
 
- [11]
+ [10
+
+]
 (Ikhsan Mochammad Noor.lof)
 \tf@lof=\write6
 \openout6 = `"Ikhsan Mochammad Noor.lof"'.
 
- [12
+ [11
 
 ] (Ikhsan Mochammad Noor.lot)
 \tf@lot=\write7
 \openout7 = `"Ikhsan Mochammad Noor.lot"'.
 
 )
-(file/singkatan.tex [13
+(file/singkatan.tex [12
 
-]) (file/simbol.tex [14
+]) (file/simbol.tex [13
 
 ]
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.10 $F$		 	 &
-              :&	Function Flocking \\
+l.10 $\vec{F}$	 &
+                 :&	Function Flocking \\
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-) (file/pendahuluan.tex [15
+) (file/pendahuluan.tex [14
 
 ]
 Chapter 1.
+
+Package natbib Warning: Citation `Saudi2017' on page 1 undefined on input line 
+10.
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -1313,6 +1343,63 @@ l.11
       [1
 
 ]
+
+Package natbib Warning: Citation `Saiwaki1997' on page 2 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `Khan2012' on page 2 undefined on input line 1
+6.
+
+
+Package natbib Warning: Citation `Zainuddin2009' on page 2 undefined on input l
+ine 16.
+
+
+Package natbib Warning: Citation `Shuaibu2015' on page 2 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `Narain2009' on page 2 undefined on input line
+ 16.
+
+
+Package natbib Warning: Citation `Lim2012' on page 2 undefined on input line 16
+.
+
+
+Package natbib Warning: Citation `Mulyana2010' on page 2 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `Adnan2013' on page 2 undefined on input line 
+16.
+
+
+Package natbib Warning: Citation `Kim2014' on page 2 undefined on input line 16
+.
+
+
+Package natbib Warning: Citation `Shuaibu2015' on page 2 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `Curtis2011' on page 2 undefined on input line
+ 19.
+
+
+Package natbib Warning: Citation `Bicho2012' on page 2 undefined on input line 
+19.
+
+
+Package natbib Warning: Citation `Kim2014' on page 2 undefined on input line 19
+.
+
+
+Package natbib Warning: Citation `Narain2009' on page 2 undefined on input line
+ 19.
+
+
 Overfull \hbox (41.78204pt too wide) in paragraph at lines 24--117
 [][] 
  []
@@ -1325,10 +1412,39 @@ s-an in-di-vi-du agar men-
 
 [4] [5]) (file/teori.tex [6]
 Chapter 2.
+
+Package natbib Warning: Citation `Bajec2007' on page 7 undefined on input line 
+15.
+
+
+Package natbib Warning: Citation `Reynolds1987' on page 7 undefined on input li
+ne 25.
+
+
+Package natbib Warning: Citation `Nasir2016' on page 7 undefined on input line 
+25.
+
+
+Package natbib Warning: Citation `Chate2008' on page 7 undefined on input line 
+25.
+
+
+Package natbib Warning: Citation `Chate2008' on page 7 undefined on input line 
+25.
+
+! Undefined control sequence.
+l.25 ...m \citep{Chate2008} dinamakan SPP(\texttit
+                                                  {Self-Propelled Particles}).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [7
 
 ]
-<gambar/allignment.jpg, id=455, 178.41656pt x 116.68594pt>
+<gambar/allignment.jpg, id=329, 178.41656pt x 116.68594pt>
 File: gambar/allignment.jpg Graphic file (type jpg)
 <use gambar/allignment.jpg>
 Package pdftex.def Info: gambar/allignment.jpg  used on input line 41.
@@ -1338,21 +1454,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.50 \end{equation}
-                    <./gambar/allignment.jpg>]
-<gambar/cohesion.jpg, id=470, 177.66376pt x 118.19156pt>
+l.47 
+      <./gambar/allignment.jpg>]
+<gambar/cohesion.jpg, id=343, 177.66376pt x 118.19156pt>
 File: gambar/cohesion.jpg Graphic file (type jpg)
 <use gambar/cohesion.jpg>
 Package pdftex.def Info: gambar/cohesion.jpg  used on input line 53.
 (pdftex.def)             Requested size: 88.83165pt x 59.09563pt.
 
-Overfull \hbox (32.6459pt too wide) detected at line 65
+Overfull \hbox (1.35739pt too wide) detected at line 65
 [][]\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 radius \OT1/cmr/m/n
-/12 + \OML/cmm/m/it/12 radiusboidstetangga \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 c
-oefficientsintroversion \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 koefficientsracism
+/12 + \OML/cmm/m/it/12 radiusboidstetangga \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 k
+oefisienintroversion \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 koefisienracism
  []
 
-<gambar/separation.jpg, id=471, 177.66376pt x 117.43875pt>
+<gambar/separation.jpg, id=344, 177.66376pt x 117.43875pt>
 File: gambar/separation.jpg Graphic file (type jpg)
 <use gambar/separation.jpg>
 Package pdftex.def Info: gambar/separation.jpg  used on input line 69.
@@ -1362,20 +1478,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.81 \]
-       
+l.75 
+     
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.81 \]
-        <./gambar/cohesion.jpg> <./gambar/separation.jpg>]
-<gambar/ModelPartikel.JPG, id=480, 377.91188pt x 182.93344pt>
+l.75 
+      <./gambar/cohesion.jpg> <./gambar/separation.jpg>]
+<gambar/ModelPartikel.JPG, id=354, 377.91188pt x 182.93344pt>
 File: gambar/ModelPartikel.JPG Graphic file (type jpg)
 <use gambar/ModelPartikel.JPG>
 Package pdftex.def Info: gambar/ModelPartikel.JPG  used on input line 95.
 (pdftex.def)             Requested size: 113.37444pt x 54.88045pt.
-<gambar/layout2dmasjidilharam.png, id=481, 853.1875pt x 585.18625pt>
+<gambar/layout2dmasjidilharam.png, id=355, 853.1875pt x 585.18625pt>
 File: gambar/layout2dmasjidilharam.png Graphic file (type png)
 <use gambar/layout2dmasjidilharam.png>
 Package pdftex.def Info: gambar/layout2dmasjidilharam.png  used on input line 1
@@ -1391,15 +1507,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.108 
-       <./gambar/ModelPartikel.JPG>] [11
+l.107 \end{figure}
+                   <./gambar/ModelPartikel.JPG>]
+
+Package natbib Warning: Citation `Caseberg2009' on page 11 undefined on input l
+ine 116.
+
+[11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.125 \begin{equation}
                        <./gambar/layout2dmasjidilharam.png>]
-<gambar/comparison_euler.png, id=497, 722.7pt x 451.6875pt>
+<gambar/comparison_euler.png, id=371, 722.7pt x 451.6875pt>
 File: gambar/comparison_euler.png Graphic file (type png)
 <use gambar/comparison_euler.png>
 Package pdftex.def Info: gambar/comparison_euler.png  used on input line 180.
@@ -1433,7 +1554,11 @@ Overfull \hbox (47.45741pt too wide) in paragraph at lines 97--108
  [] 
  []
 
-<gambar/diagram.jpg, id=533, 569.87906pt x 371.13657pt>
+
+Package natbib Warning: Citation `noauthororeditor2014victorjs' on page 16 unde
+fined on input line 111.
+
+<gambar/diagram.jpg, id=407, 569.87906pt x 371.13657pt>
 File: gambar/diagram.jpg Graphic file (type jpg)
 <use gambar/diagram.jpg>
 Package pdftex.def Info: gambar/diagram.jpg  used on input line 117.
@@ -1443,14 +1568,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.119 \end{figure}
-                  ] [17
+l.120 
+      ] [17
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.129 
-       <./gambar/diagram.jpg>]
+l.128 P
+       arameter lain yang mempengaruhi gaya adalah align jarak$z_a$, dimana ...
+ <./gambar/diagram.jpg>]
 Overfull \hbox (3.17914pt too wide) in paragraph at lines 130--131
 \T1/ptm/m/n/12 atur-an ja-rak yang di-bu-tuhk-an un-tuk ga-ya mem-pe-nga-ru-hi 
 bo-id agar me-la-kuk-an komp-
@@ -1458,13 +1584,13 @@ bo-id agar me-la-kuk-an komp-
 
 ) (file/hasil.tex [18]
 Chapter 4.
-<gambar/gambar1notawafflocking25.png, id=547, 601.4972pt x 411.03563pt>
+<gambar/gambar1notawafflocking25.png, id=423, 601.4972pt x 411.03563pt>
 File: gambar/gambar1notawafflocking25.png Graphic file (type png)
 <use gambar/gambar1notawafflocking25.png>
 Package pdftex.def Info: gambar/gambar1notawafflocking25.png  used on input lin
 e 19.
 (pdftex.def)             Requested size: 180.45055pt x 123.31163pt.
-<gambar/gambar2notawafflocking50.png, id=548, 596.98032pt x 412.54124pt>
+<gambar/gambar2notawafflocking50.png, id=424, 596.98032pt x 412.54124pt>
 File: gambar/gambar2notawafflocking50.png Graphic file (type png)
 <use gambar/gambar2notawafflocking50.png>
 Package pdftex.def Info: gambar/gambar2notawafflocking50.png  used on input lin
@@ -1479,7 +1605,7 @@ Overfull \hbox (7.61736pt too wide) in paragraph at lines 31--31
 |[]\T1/ptm/b/n/17.28 Flocking de-ngan Ga-ya Do-min-an(Circular Mo-tion)| 
  []
 
-<gambar/gambar3tawafflocking25.png, id=550, 599.99156pt x 413.29407pt>
+<gambar/gambar3tawafflocking25.png, id=426, 599.99156pt x 413.29407pt>
 File: gambar/gambar3tawafflocking25.png Graphic file (type png)
 <use gambar/gambar3tawafflocking25.png>
 Package pdftex.def Info: gambar/gambar3tawafflocking25.png  used on input line 
@@ -1493,73 +1619,107 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.39 \hspace{0.6cm}
-                    Pada bagian ini ditambahkannya dominan force pada persam...
+                    Pada bagian ini ditambahkannya gaya dominan pada persama...
  <./gambar/gambar1notawafflocking25.png> <./gambar/gambar2notawafflocking50.png
 >]
-<gambar/Kim2014.png, id=570, 226.59656pt x 170.13562pt>
+
+Package natbib Warning: Citation `Nasir2016' on page 20 undefined on input line
+ 39.
+
+
+Package natbib Warning: Citation `Kim2014' on page 20 undefined on input line 3
+9.
+
+
+Package natbib Warning: Citation `Kim2014' on page 20 undefined on input line 3
+9.
+
+
+Package natbib Warning: Citation `Nasir2016' on page 20 undefined on input line
+ 39.
+
+
+Package natbib Warning: Citation `Kim2014' on page 20 undefined on input line 3
+9.
+
+<gambar/Kim2014.png, id=437, 226.59656pt x 170.13562pt>
 File: gambar/Kim2014.png Graphic file (type png)
 <use gambar/Kim2014.png>
 Package pdftex.def Info: gambar/Kim2014.png  used on input line 42.
 (pdftex.def)             Requested size: 135.95897pt x 102.08215pt.
- [20
+
+Package natbib Warning: Citation `Kim2014' on page 20 undefined on input line 4
+3.
+
+[20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.45 
+l.53 
       <./gambar/gambar3tawafflocking25.png>]
-Overfull \hbox (7.61736pt too wide) in paragraph at lines 48--48
-|[]\T1/ptm/b/n/17.28 Flocking de-ngan Do-min-an Ga-ya(Circular Mo-tion)
+Overfull \hbox (7.61736pt too wide) in paragraph at lines 63--63
+|[]\T1/ptm/b/n/17.28 Flocking de-ngan Ga-ya Do-min-an(Circular Mo-tion)
  []
 
-<gambar/gambar4tawafflocking25variabel.png, id=578, 599.99156pt x 411.03563pt>
+<gambar/gambar4tawafflocking25variabel.png, id=445, 599.99156pt x 411.03563pt>
 File: gambar/gambar4tawafflocking25variabel.png Graphic file (type png)
 <use gambar/gambar4tawafflocking25variabel.png>
 Package pdftex.def Info: gambar/gambar4tawafflocking25variabel.png  used on inp
-ut line 57.
+ut line 72.
 (pdftex.def)             Requested size: 239.99237pt x 164.41133pt.
-<gambar/gambar5tawafflocking50variabel.png, id=579, 600.74437pt x 411.78844pt>
+<gambar/gambar5tawafflocking50variabel.png, id=446, 600.74437pt x 411.78844pt>
 File: gambar/gambar5tawafflocking50variabel.png Graphic file (type png)
 <use gambar/gambar5tawafflocking50variabel.png>
 Package pdftex.def Info: gambar/gambar5tawafflocking50variabel.png  used on inp
-ut line 58.
+ut line 73.
 (pdftex.def)             Requested size: 240.29349pt x 164.71245pt.
 [21
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.62 
+l.77 
       <./gambar/Kim2014.png>] [22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.64 
+l.79 
       <./gambar/gambar4tawafflocking25variabel.png> <./gambar/gambar5tawafflock
 ing50variabel.png>]
-<gambar/PaperNasir.JPG, id=597, 720.44156pt x 584.93532pt>
+<gambar/PaperNasir.JPG, id=466, 720.44156pt x 584.93532pt>
 File: gambar/PaperNasir.JPG Graphic file (type jpg)
 <use gambar/PaperNasir.JPG>
-Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 96.
+Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 111.
 (pdftex.def)             Requested size: 288.17151pt x 233.96997pt.
 
 
-LaTeX Warning: Reference `fig:nasir1' on page 23 undefined on input line 101.
+Package natbib Warning: Citation `Nasir2016' on page 23 undefined on input line
+ 115.
 
-<gambar/Bajec.PNG, id=603, 709.65125pt x 356.33125pt>
+
+Package natbib Warning: Citation `Nasir2016' on page 23 undefined on input line
+ 117.
+
+<gambar/Bajec.PNG, id=469, 709.65125pt x 356.33125pt>
 File: gambar/Bajec.PNG Graphic file (type png)
 <use gambar/Bajec.PNG>
-Package pdftex.def Info: gambar/Bajec.PNG  used on input line 105.
+Package pdftex.def Info: gambar/Bajec.PNG  used on input line 121.
 (pdftex.def)             Requested size: 283.85547pt x 142.52997pt.
 [23
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.109 \hspace{0.6cm}
+l.125 \hspace{0.6cm}
                     Hasil penelitian yang telah dilakukan oleh \citep{Bajec2...
- <./gambar/PaperNasir.JPG>]) (file/penutup.tex [24
+ <./gambar/PaperNasir.JPG>]
+
+Package natbib Warning: Citation `Bajec2007' on page 24 undefined on input line
+ 125.
+
+) (file/penutup.tex [24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1567,6 +1727,12 @@ has been already used, duplicate ignored
 l.3 \chapter
             {PENUTUP}\label{cha:penutup} <./gambar/Bajec.PNG (PNG copy)>]
 Chapter 5.
+
+Overfull \hbox (0.58557pt too wide) in paragraph at lines 11--12
+[]\T1/ptm/m/n/12 Penggunakan runge-kutta,dikunakan un-tuk pe-me-dat-an da-ta da
+-lam ben-tuk gra-
+ []
+
 [25
 
 ]) [26] (Ikhsan Mochammad Noor.bbl
@@ -1586,28 +1752,92 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+
+Underfull \hbox (badness 4429) in paragraph at lines 54--58
+[]\T1/ptm/m/n/12 Kim, Su-je-ong, Guy, Ste-phenJ., Hi-lles-land, Karl, Za-far, B
+a-sim, Gu-tub,
+ []
+
 [27
 
 
-]) (file/index.tex [28]) (appendix.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
+]) (file/index.tex [28]
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
  []
 
 [29
 
-]
+]) (appendix.tex [30]
 pdfTeX warning (ext4): destination with the same identifier (name{chapter.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.5 \chapter{sumber kode}
+l.6 \chapter{sumber kode}
                          
 LAMPIRAN A.
-(lampiran/riwayat.tex [30
+
+pdfTeX warning (ext4): destination with the same identifier (name{section.1.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 \section{Kode Program gambarBoids.js}
+                                         
+Overfull \hbox (26.46573pt too wide) in paragraph at lines 26--27
+[][][][][][][][][][][][][][][][] 
+ []
+
+[31
 
 
 ]
+Overfull \hbox (62.4661pt too wide) in paragraph at lines 37--38
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{section.1.2})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 \section{Kode Program sides2.js}
+                                     
+Overfull \hbox (19.26566pt too wide) in paragraph at lines 63--64
+[][][][][][][][][][][][][] 
+ []
+
+[32]
+pdfTeX warning (ext4): destination with the same identifier (name{section.1.3})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \section{vect3.js}
+                        [33]
+Overfull \hbox (12.06558pt too wide) in paragraph at lines 120--121
+[][][][][][][][][][][][][] 
+ []
+
+[34]
+Overfull \hbox (4.86551pt too wide) in paragraph at lines 154--155
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.86551pt too wide) in paragraph at lines 155--156
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.86551pt too wide) in paragraph at lines 156--157
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[35] [36]
+Overfull \hbox (12.06558pt too wide) in paragraph at lines 214--215
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+(lampiran/riwayat.tex [37]
 pdfTeX warning (ext4): destination with the same identifier (name{chapter.2}) h
 as been already used, duplicate ignored
 <to be read again> 
@@ -1619,46 +1849,36 @@ LAMPIRAN B.
 
 Package natbib Warning: There were undefined citations.
 
-[31
+[38
 
-]
+] (Ikhsan Mochammad Noor.aux
 
-! LaTeX Error: \begin{enumerate} on input line 8 ended by \end{document}.
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.209 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-(Ikhsan Mochammad Noor.aux)
-
-LaTeX Warning: There were undefined references.
-
+)
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `"Ikhsan Mochammad Noor".out' has not changed
-.
-(rerunfilecheck)             Checksum: 2AD2FBFF981A52E27732923B903C9D73;7540.
- )
-(\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 8 (\begingroup)
-### bottom level
-(\end occurred when \ifx on line 66 was incomplete) 
+Package rerunfilecheck Warning: File `"Ikhsan Mochammad Noor".out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Ikhsan Mochammad Noor".out':
+(rerunfilecheck)             Before: 41BBAA4A79C6D2DA4096F33270F9CED4;8604
+(rerunfilecheck)             After:  9662995EFA64709270CDCE60C088516B;8728.
+ )
+(\end occurred when \ifx on line 67 was incomplete) 
 Here is how much of TeX's memory you used:
- 30558 strings out of 478317
- 593633 string characters out of 2843678
- 943057 words of memory out of 3000000
- 48126 multiletter control sequences out of 15000+600000
+ 32409 strings out of 478317
+ 617958 string characters out of 2843678
+ 980530 words of memory out of 3000000
+ 49733 multiletter control sequences out of 15000+600000
  519226 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,80p,2105b,728s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 79i,12n,80p,2091b,1887s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX 2.9
 /fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
@@ -1672,9 +1892,9 @@ ublic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Ikhsan Mochammad Noor.pdf" (47 pages, 1257175 bytes).
+Output written on "Ikhsan Mochammad Noor.pdf" (53 pages, 1273560 bytes).
 PDF statistics:
- 744 PDF objects out of 1000 (max. 8388607)
- 176 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 927 PDF objects out of 1000 (max. 8388607)
+ 408 named destinations out of 1000 (max. 500000)
+ 509 words of extra memory for PDF output out of 10000 (max. 10000000)
 
