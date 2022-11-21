@@ -7,11 +7,11 @@
 \contentsline {chapter}{ABSTRACT}{vi}{Item.5}%
 \contentsline {chapter}{KATA PENGANTAR}{vii}{Item.5}%
 \contentsline {paragraph}{}{vii}{Item.5}%
-\contentsline {chapter}{DAFTAR ISI}{x}{Item.13}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xi}{Item.13}%
-\contentsline {chapter}{DAFTAR TABEL}{xii}{Item.13}%
-\contentsline {chapter}{DAFTAR SINGKATAN}{xiii}{Item.13}%
-\contentsline {chapter}{DAFTAR SIMBOL DAN OPERATOR}{xiv}{Item.13}%
+\contentsline {chapter}{DAFTAR ISI}{xii}{Item.13}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xiii}{Item.13}%
+\contentsline {chapter}{DAFTAR TABEL}{xiv}{Item.13}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{xv}{Item.13}%
+\contentsline {chapter}{DAFTAR SIMBOL DAN OPERATOR}{xvi}{Item.13}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Tujuan Penelitian}{4}{section.1.2}%

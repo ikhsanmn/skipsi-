@@ -10,9 +10,15 @@
 \section{Model Interaksi}\label{sec:modelinteraksi}
 \hspace {0.5cm}Dalam melaksanakan tawaf gerak individu dapat dikaitkan dengan perilaku interaksi individual, karena bentuk kecepatan pergerakan orang pertama dalam melaksanakan tawaf bergantung dengan orang kedua didepannya dan orang didepannya tergantung dengan orang ketiga didepannya lagi dan seterusnya. Kita dapat meninjaunya dari segi fisika dengan mengasumsikan setiap individu adalah partikel. Partikel bergerak berkelompok karena kecepatan tetap dan arah setiap partikel resultan dari semua partikel berkelompok tersebut.
 
-\hspace {0.5cm}Proses resultan dari partikel gerak individual menuju partikel yang berkelompok diakibatkan oleh perubahan variabel dalam sistem gaya yang mempengaruh.Variabel yang digunakan tersebut terletak pada order parameter. Orde parameter ini yang diterapkan kedalam mekanika \textit{flocking} .
+\hspace {0.5cm}Proses resultan dari partikel gerak individual menuju partikel yang berkelompok diakibatkan oleh perubahan variabel dalam sistem gaya yang mempengaruh.Variabel yang digunakan tersebut terletak pada order parameter. Orde parameter ini yang diterapkan kedalam dinamika \textit{flocking}.
 
-\hspace {0.5cm}Dalam flocking yang dijalankan, terdapat \textit{input state} dan \textit{output state} yang digunakan dalam proses properti model partikel . Properti partikel ini berbentuk posisi, kecepatan, massa dan jarak gaya yang akan ditinjau dalam simulasi. Properti ini dalam \citep{Bajec2007} disebut dengan \textit{current state properties}  $q$. Yang dimaksud \textit{current state properties} adalah karakteristik yang dimiliki setiap partikel.
+% //revisi Penjelasan tentang flocking apa bagaimana dan penerapannya dulu%%%%%%%%%%%%%
+\hspace {0.5cm}Istilah flocking digunakan untuk menjelaskan gerak berkelompok khususnya pada kawanan burung \citep{Toner1998}. Dimana setiap variabel dalam kawanan burung bergerak dengan arah dan kelajuan yang relatif sama tanpa saling bertabrakan satu sama lain.
+
+%%%%%%%%%%%%%%%
+
+
+\hspace {0.5cm}Dalam dinamika flocking yang dijalankan, terdapat \textit{input state} dan \textit{output state} yang digunakan dalam proses properti model partikel . Properti partikel ini berbentuk posisi, kecepatan, massa dan jarak gaya yang akan ditinjau dalam simulasi. Properti ini dalam \citep{Bajec2007} disebut dengan \textit{current state properties}  $q$. Yang dimaksud \textit{current state properties} adalah karakteristik yang dimiliki setiap partikel.
 \begin{equation}
 q = {p,\upsilon,z,m,\psi} 
 \end{equation}
