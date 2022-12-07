@@ -100,6 +100,11 @@ Shuaibu, Aliyu. 2015.
   Makkah, Saudi Arabia.
 \newblock {\em Modern Applied Science}, {\bf 9}(09), 192.
 
+\bibitem[\protect\citename{Toner \& Tu, }1998]{Toner1998}
+Toner, John, \& Tu, Yuhai. 1998.
+\newblock Flocks, herds, and schools: A quantitative theory of flocking.
+\newblock {\em Phys. Rev. E}, {\bf 58}(Oct), 4828--4858.
+
 \bibitem[\protect\citename{Zainuddin {\em et~al.}, }2009]{Zainuddin2009}
 Zainuddin, Zarita, Thinakaran, Kumatha, \& Abu-Sulyman, Ibtesam. 2009.
 \newblock Simulating the Circumambulation of the Ka'aba using SimWalk.
