@@ -21,14 +21,15 @@
 \contentsline {section}{\numberline {1.6}Sistematika Penulisan}{5}{section.1.6}%
 \contentsline {chapter}{\numberline {2}TEORI DASAR}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Model Interaksi}{7}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Aplikasi gaya}{8}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Flocking}{8}{subsection.2.2.1}%
-\contentsline {subsubsection}{Alignment}{8}{equation.2.2.2}%
-\contentsline {subsubsection}{Cohesion}{9}{figure.2.1}%
-\contentsline {subsubsection}{Separation}{9}{figure.2.2}%
-\contentsline {subsubsection}{Circular Motion}{10}{figure.2.3}%
-\contentsline {section}{\numberline {2.3}Model Partikel}{10}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Model Ruang Partikel}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.2}Flocking}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Aplikasi gaya}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Alignment}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Cohesion}{9}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Separation}{9}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Circular Motion}{10}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Model Simulasi}{10}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Model Partikel}{10}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Model Ruang Partikel}{11}{subsection.2.4.2}%
 \contentsline {section}{\numberline {2.5}Persamaan Distribusi Normal }{11}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Metode Runge Kutta}{12}{section.2.6}%
 \contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{14}{chapter.3}%
@@ -45,17 +46,23 @@
 \contentsline {subsection}{\numberline {3.4.1}Parameter dalam pergerakan gaya}{17}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Parameter variasi partikel yang ditambahkan dalam simulasi}{18}{subsection.3.4.2}%
 \contentsline {chapter}{\numberline {4}Hasil dan Pembahasan}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Flocking tanpa Circular Motion}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Flocking tanpa Circular Motion}{19}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Flocking dengan Gaya Dominan(Circular Motion)}{21}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Flocking dengan Gaya Dominan(Circular Motion) partikel dengan Karakteristik}{23}{section.4.3}%
-\contentsline {chapter}{\numberline {5}PENUTUP}{26}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Kesimpulan}{26}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Saran}{27}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{28}{section*.1}%
-\contentsline {chapter}{INDEX}{30}{section*.1}%
-\contentsline {chapter}{LAMPIRAN}{32}{section*.1}%
-\contentsline {chapter}{\numberline {A}sumber kode}{32}{chapter.1}%
-\contentsline {section}{\numberline {A.1}Kode Program gambarBoids.js}{32}{section.1.1}%
-\contentsline {section}{\numberline {A.2}Kode Program sides2.js}{33}{section.1.2}%
-\contentsline {section}{\numberline {A.3}vect3.js}{34}{section.1.3}%
-\contentsline {chapter}{\numberline {B}Riwayat Hidup}{39}{chapter.2}%
+\contentsline {section}{\numberline {4.4}Perbandingan Hasil Simulasi dengan \citep {Kim2014} }{24}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Perbandingan Hasil Simulasi dengan \citep {Nasir2016}}{25}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Perbandingan Hasil Simulasi dengan \citep {Bajec2007}}{26}{section.4.6}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{28}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{29}{section*.1}%
+\contentsline {chapter}{INDEX}{31}{section*.1}%
+\contentsline {chapter}{LAMPIRAN}{33}{section*.1}%
+\contentsline {chapter}{\numberline {A}sumber kode}{33}{chapter.1}%
+\contentsline {section}{\numberline {A.1}Kode Program gambarBoids.js}{33}{section.1.1}%
+\contentsline {section}{\numberline {A.2}Kode Program sides2.js}{34}{section.1.2}%
+\contentsline {section}{\numberline {A.3}vect3.js}{35}{section.1.3}%
+\contentsline {section}{\numberline {A.4}Kode Program index.html}{39}{section.1.4}%
+\contentsline {section}{\numberline {A.5}Kode Program boids.js}{42}{section.1.5}%
+\contentsline {section}{\numberline {A.6}Kode Program script.js}{64}{section.1.6}%
+\contentsline {chapter}{\numberline {B}Riwayat Hidup}{98}{chapter.2}%

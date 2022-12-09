@@ -25,8 +25,8 @@ q = {p,\upsilon,z,m,\psi}
 
 
 
-\section{Aplikasi gaya}\label{cha:aplikasi gaya}
-\subsection{Flocking}\label{sec:flocking}
+
+\section{Flocking}\label{sec:flocking}
 
 Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\texttit{Self-Propelled Particles}). 
 
@@ -34,7 +34,9 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \vec{F}_i = \sum_{i \neq j} (\sum_{n=1}^{\infty} R_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}  + \sum_{n=1}^{\infty} I_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}). 
 \end{equation}
 
-\subsubsection{Alignment}\label{sec:alignment}
+\section{Aplikasi gaya}\label{cha:aplikasi gaya}
+
+\subsection{Alignment}\label{sec:alignment}
 \hspace {0.5cm} Gaya Allignment digunakan untuk membuat partikel tetap bergerak satu grup. Berkaitan dengan sistem dalam tawaf, digunakan karena di dalam masjidil haram beberapa orang sering berkerumun untuk membentuk 1 grup agar tidak tersesat. Alasan lainnya, untuk penggunaan alignment ini membuat partikel menyamakan persepsi kecepatan dengan konsep yang terdepan akan mengurangi kecepatannya juga yang belakang akan menambah kecepatannya untuk berjalan bersamaan membentuk grup. secara matematika dapat ditulis sebagai berikut.
 
 \begin{equation}
@@ -48,7 +50,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pensejajaran}
 \end{figure}
 
-\subsubsection{Cohesion}\label{sec:cohesion}
+\subsection{Cohesion}\label{sec:cohesion}
 \hspace{0.5cm}Gaya kohesi digunakan untuk membuat partikel menarik tetangganya untuk berdekatan. Dimana posisi pusat dijadikan titik arah pergerakan sehingga partikel bergerak ke titik tersebut: berikut secara matematik dapat ditulis:
 
 \begin{equation}
@@ -60,7 +62,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pemusatan}
 \end{figure}
 
-\subsubsection{Separation}\label{sec:separation}
+\subsection{Separation}\label{sec:separation}
 \hspace{0.5cm} Gaya separasi digunakan untuk partikel agar terjadi pemisahan dan meminimalisir pemisahan. Dalam konteks tawaf digunakan untuk menghindari seseorang menempal terhadap orang lain. dalam gaya separasi ini dilakukan variasi terhadap koefisiennya yaitu koefisien introversion atau tingkatjaga jarak dan tingkat racis untuk mengelompokkan jenis ras partikel berdasarkan warna.
 
 \begin{equation}
@@ -76,7 +78,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pemisahan}
 \end{figure}
 
-\subsubsection{Circular Motion}\label{sec:circularmotion}
+\subsection{Circular Motion}\label{sec:circularmotion}
 \hspace{0.5cm}Circular Motion atau bisa disebut gaya gerak memutar mengelilingi pusat gaya, dapat diaplikasikan kepada partikel yang bergerak secara flocking untuk membuat partikel seperti bergerak tawaf mengelilingi pusat gaya. Dimana pusat gaya berada di pusat kaaba berbentuk persegi. Gerak Flocking yang diterapkan perlu memenuhi syarat area tawaf. Dengan begitu gerak mengeliligi kaaba dapat berada di area dekat kaaba.
 
 \[
@@ -93,8 +95,9 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Model Simulasi}\label{cha:model simulasi}
 
-\section{Model Partikel}\label{sec:modelpartikel}
+\subsection{Model Partikel}\label{sec:modelpartikel}
 \hspace {0.5cm}Model partikel sederhana dengan bentuk bulat menggambarkan partikel agent yang sedang bergerak
 \begin{figure}
 \centering
@@ -103,7 +106,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \end{figure}
 
 
-\section{Model Ruang Partikel}\label{sec:ruangpartikel}
+\subsection{Model Ruang Partikel}\label{sec:ruangpartikel}
 
 \hspace {0.5cm}Model ruang Partikel diformulasikan seperti gambar masjidil haram yang tertera pada gambar. Partikel bergerak berlawanan arah dengan ruang dibatasi boundary state yaitu dinding masjidil haram dan bagian dalam ada boundary state lagi berupa dinding kaaba. Akan tetapi dalam simulasi ini model ruang partikel dibatasi hanya pada kaaba dan area tawaf kaaba.
 \begin{figure}
@@ -112,7 +115,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Model Area Masjidil Haram}
 \end{figure}
 
-\section{Persamaan Distribusi Normal }\label{sec:modelpartikel}
+\section{Persamaan Distribusi Normal }\label{cha:modelpartikel}
 \hspace{0.5cm} Distribusi normal dalam program ini digunakan untuk menentukan nilai real dari koeffisien yang ada dalam nilai introversi, rasisme dan ketangkasan(quirkness). Hal ini mempengaruhi bentuk dari inisial tawaf yang akan terjadi, dalam kasus ini secara acak. 
 
 \begin{equation}
@@ -125,7 +128,7 @@ f(x) =\dfrac{1}{\sigma \sqrt{2 \pi}} e^{-\dfrac{1}{2}(\dfrac{x-\mu}{\sigma})^2}
 
 
 
-\section{Metode Runge Kutta}\label{sec:metodeperhitungan}
+\section{Metode Runge Kutta}\label{cha:metode perhitungan}
 \hspace{0.5cm} Metode Runge-Kutta adalah metode numerik yang banyak digunakan untuk menyelesaikan persamaan differensial. Metode ini adalah versi yang lebih kompleks dari metode euler yang banyak digunakan. Karena kompleksitasnya maka metode ini menawarkan grafik eksponensial yang lebih mendekati fungsi eksak.\\
 Untuk fungsi y
 \begin{equation}
