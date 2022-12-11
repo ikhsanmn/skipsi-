@@ -7,18 +7,18 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Model Interaksi}\label{sec:modelinteraksi}
+\section{Pengertian \emph{Flocking}}\label{sec:pengertianflocking}
 \hspace {0.5cm}Dalam melaksanakan tawaf gerak individu dapat dikaitkan dengan perilaku interaksi individual, karena bentuk kecepatan pergerakan orang pertama dalam melaksanakan tawaf bergantung dengan orang kedua didepannya dan orang didepannya tergantung dengan orang ketiga didepannya lagi dan seterusnya. Kita dapat meninjaunya dari segi fisika dengan mengasumsikan setiap individu adalah partikel. Partikel bergerak berkelompok karena kecepatan tetap dan arah setiap partikel resultan dari semua partikel berkelompok tersebut.
 
 \hspace {0.5cm}Proses resultan dari partikel gerak individual menuju partikel yang berkelompok diakibatkan oleh perubahan variabel dalam sistem gaya yang mempengaruh.Variabel yang digunakan tersebut terletak pada order parameter. Orde parameter ini yang diterapkan kedalam dinamika \textit{flocking}.
 
 % //revisi Penjelasan tentang flocking apa bagaimana dan penerapannya dulu%%%%%%%%%%%%%
-\hspace {0.5cm}Istilah flocking digunakan untuk menjelaskan gerak berkelompok khususnya pada kawanan burung \citep{Toner1998}. Dimana setiap variabel dalam kawanan burung bergerak dengan arah dan kelajuan yang relatif sama tanpa saling bertabrakan satu sama lain.
+\hspace {0.5cm}Istilah \emph{flocking} digunakan untuk menjelaskan gerak berkelompok khususnya pada kawanan burung \citep{Toner1998}. Dimana setiap variabel dalam kawanan burung bergerak dengan arah dan kelajuan yang relatif sama tanpa saling bertabrakan satu sama lain.
 
 %%%%%%%%%%%%%%%
 
 
-\hspace {0.5cm}Dalam dinamika flocking yang dijalankan, terdapat \textit{input state} dan \textit{output state} yang digunakan dalam proses properti model partikel . Properti partikel ini berbentuk posisi, kecepatan, massa dan jarak gaya yang akan ditinjau dalam simulasi. Properti ini dalam \citep{Bajec2007} disebut dengan \textit{current state properties}  $q$. Yang dimaksud \textit{current state properties} adalah karakteristik yang dimiliki setiap partikel.
+\hspace {0.5cm}Dalam dinamika \emph{flocking} yang dijalankan, terdapat \textit{input state} dan \textit{output state} yang digunakan dalam proses properti model partikel . Properti partikel ini berbentuk posisi, kecepatan, massa dan jarak gaya yang akan ditinjau dalam simulasi. Properti ini dalam \citep{Bajec2007} disebut dengan \textit{current state properties}  $q$. Yang dimaksud \textit{current state properties} adalah karakteristik yang dimiliki setiap partikel.
 \begin{equation}
 q = {p,\upsilon,z,m,\psi} 
 \end{equation}
@@ -26,9 +26,9 @@ q = {p,\upsilon,z,m,\psi}
 
 
 
-\section{Flocking}\label{sec:flocking}
+\section{Gaya dalam \emph{Flocking}}\label{sec:flocking}
 
-Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\texttit{Self-Propelled Particles}). 
+Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\texttit{Self-Propelled Particles}). 
 
 \begin{equation}
 \vec{F}_i = \sum_{i \neq j} (\sum_{n=1}^{\infty} R_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}  + \sum_{n=1}^{\infty} I_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}). 
@@ -36,8 +36,8 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 
 \section{Aplikasi gaya}\label{cha:aplikasi gaya}
 
-\subsection{Alignment}\label{sec:alignment}
-\hspace {0.5cm} Gaya Allignment digunakan untuk membuat partikel tetap bergerak satu grup. Berkaitan dengan sistem dalam tawaf, digunakan karena di dalam masjidil haram beberapa orang sering berkerumun untuk membentuk 1 grup agar tidak tersesat. Alasan lainnya, untuk penggunaan alignment ini membuat partikel menyamakan persepsi kecepatan dengan konsep yang terdepan akan mengurangi kecepatannya juga yang belakang akan menambah kecepatannya untuk berjalan bersamaan membentuk grup. secara matematika dapat ditulis sebagai berikut.
+\subsection{\emph{Alignment}}\label{sec:alignment}
+\hspace {0.5cm} Gaya \emph{Allignment} digunakan untuk membuat partikel tetap bergerak satu grup. Berkaitan dengan sistem dalam tawaf, digunakan karena di dalam masjidil haram beberapa orang sering berkerumun untuk membentuk 1 grup agar tidak tersesat. Alasan lainnya, untuk penggunaan alignment ini membuat partikel menyamakan persepsi kecepatan dengan konsep yang terdepan akan mengurangi kecepatannya juga yang belakang akan menambah kecepatannya untuk berjalan bersamaan membentuk grup. secara matematika dapat ditulis sebagai berikut.
 
 \begin{equation}
  F_i^a(p,q) = \alpha^a \dfrac{1}{N^c}\sum^{N^c}_{i \neq j}\dfrac{\vec{V}_{ji}}{|\vec{V}_{ji}|},\alpha^a = 1N
@@ -50,7 +50,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pensejajaran}
 \end{figure}
 
-\subsection{Cohesion}\label{sec:cohesion}
+\subsection{\emph{Cohesion}}\label{sec:cohesion}
 \hspace{0.5cm}Gaya kohesi digunakan untuk membuat partikel menarik tetangganya untuk berdekatan. Dimana posisi pusat dijadikan titik arah pergerakan sehingga partikel bergerak ke titik tersebut: berikut secara matematik dapat ditulis:
 
 \begin{equation}
@@ -62,7 +62,7 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pemusatan}
 \end{figure}
 
-\subsection{Separation}\label{sec:separation}
+\subsection{\emph{Separation}}\label{sec:separation}
 \hspace{0.5cm} Gaya separasi digunakan untuk partikel agar terjadi pemisahan dan meminimalisir pemisahan. Dalam konteks tawaf digunakan untuk menghindari seseorang menempal terhadap orang lain. dalam gaya separasi ini dilakukan variasi terhadap koefisiennya yaitu koefisien introversion atau tingkatjaga jarak dan tingkat racis untuk mengelompokkan jenis ras partikel berdasarkan warna.
 
 \begin{equation}
@@ -78,8 +78,8 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \caption{Bentuk Gerak Pemisahan}
 \end{figure}
 
-\subsection{Circular Motion}\label{sec:circularmotion}
-\hspace{0.5cm}Circular Motion atau bisa disebut gaya gerak memutar mengelilingi pusat gaya, dapat diaplikasikan kepada partikel yang bergerak secara flocking untuk membuat partikel seperti bergerak tawaf mengelilingi pusat gaya. Dimana pusat gaya berada di pusat kaaba berbentuk persegi. Gerak Flocking yang diterapkan perlu memenuhi syarat area tawaf. Dengan begitu gerak mengeliligi kaaba dapat berada di area dekat kaaba.
+\subsection{\emph{Circular Motion}}\label{sec:circularmotion}
+\hspace{0.5cm}\emph{Circular Motion} atau bisa disebut gaya gerak memutar mengelilingi pusat gaya, dapat diaplikasikan kepada partikel yang bergerak secara \texttit{flocking} untuk membuat partikel seperti bergerak tawaf mengelilingi pusat gaya. Dimana pusat gaya berada di pusat kaaba berbentuk persegi. Gerak \texttit{Flocking} yang diterapkan perlu memenuhi syarat area tawaf. Dengan begitu gerak mengeliligi kaaba dapat berada di area dekat kaaba.
 
 \[
   f(x)=\begin{cases}
@@ -101,8 +101,8 @@ Mekanika Flocking berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk mem
 \hspace {0.5cm}Model partikel sederhana dengan bentuk bulat menggambarkan partikel agent yang sedang bergerak
 \begin{figure}
 \centering
-\includegraphics[scale=0.3]{gambar/ModelPartikel.JPG}
-\caption{Model partikel sebagai titik posisi}
+\includegraphics[scale=0.3]{gambar/modelboids2}
+\caption{Model partikel sebagai \emph{boids}}
 \end{figure}
 
 
