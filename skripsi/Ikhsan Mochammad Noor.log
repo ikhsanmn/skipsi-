@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.21)  9 DEC 2022 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.11.21)  11 DEC 2022 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1392,6 +1392,24 @@ File: gambar/separation.jpg Graphic file (type jpg)
 <use gambar/separation.jpg>
 Package pdftex.def Info: gambar/separation.jpg  used on input line 77.
 (pdftex.def)             Requested size: 88.83165pt x 58.71922pt.
+! Undefined control sequence.
+l.82 ...ada partikel yang bergerak secara \texttit
+                                                  {flocking} untuk membuat p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 ...at kaaba berbentuk persegi. Gerak \texttit
+                                                  {Flocking} yang diterapkan...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
@@ -1405,12 +1423,12 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.83 
       <./gambar/cohesion.jpg> <./gambar/separation.jpg>]
-<gambar/ModelPartikel.JPG, id=572, 377.91188pt x 182.93344pt>
-File: gambar/ModelPartikel.JPG Graphic file (type jpg)
-<use gambar/ModelPartikel.JPG>
-Package pdftex.def Info: gambar/ModelPartikel.JPG  used on input line 104.
-(pdftex.def)             Requested size: 113.37444pt x 54.88045pt.
-<gambar/layout2dmasjidilharam.png, id=573, 853.1875pt x 585.18625pt>
+<gambar/modelboids2.png, id=572, 135.50626pt x 152.06813pt>
+File: gambar/modelboids2.png Graphic file (type png)
+<use gambar/modelboids2.png>
+Package pdftex.def Info: gambar/modelboids2.png  used on input line 104.
+(pdftex.def)             Requested size: 40.65218pt x 45.62079pt.
+<gambar/layout2dmasjidilharam.png, id=574, 853.1875pt x 585.18625pt>
 File: gambar/layout2dmasjidilharam.png Graphic file (type png)
 <use gambar/layout2dmasjidilharam.png>
 Package pdftex.def Info: gambar/layout2dmasjidilharam.png  used on input line 1
@@ -1427,14 +1445,14 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.116 \end{figure}
-                   <./gambar/ModelPartikel.JPG>] [11
+                   <./gambar/modelboids2.png>] [11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.123 \end{equation}
                      <./gambar/layout2dmasjidilharam.png>] [12]
-<gambar/comparison_euler.png, id=603, 722.7pt x 451.6875pt>
+<gambar/comparison_euler.png, id=604, 722.7pt x 451.6875pt>
 File: gambar/comparison_euler.png Graphic file (type png)
 <use gambar/comparison_euler.png>
 Package pdftex.def Info: gambar/comparison_euler.png  used on input line 189.
@@ -1468,7 +1486,7 @@ Overfull \hbox (47.45741pt too wide) in paragraph at lines 97--108
  [] 
  []
 
-<gambar/diagram.jpg, id=625, 569.87906pt x 371.13657pt>
+<gambar/diagram.jpg, id=626, 569.87906pt x 371.13657pt>
 File: gambar/diagram.jpg Graphic file (type jpg)
 <use gambar/diagram.jpg>
 Package pdftex.def Info: gambar/diagram.jpg  used on input line 117.
@@ -1493,26 +1511,26 @@ bo-id agar me-la-kuk-an komp-
 
 ) (file/hasil.tex [18]
 Chapter 4.
-<gambar/gambar1notawafflocking25.png, id=639, 601.4972pt x 411.03563pt>
+<gambar/gambar1notawafflocking25.png, id=640, 601.4972pt x 411.03563pt>
 File: gambar/gambar1notawafflocking25.png Graphic file (type png)
 <use gambar/gambar1notawafflocking25.png>
 Package pdftex.def Info: gambar/gambar1notawafflocking25.png  used on input lin
 e 19.
 (pdftex.def)             Requested size: 180.45055pt x 123.31163pt.
-<gambar/datagrafik/range25homogennoflocking.png, id=640, 472.76625pt x 152.0681
+<gambar/datagrafik/range25homogennoflocking.png, id=641, 472.76625pt x 152.0681
 3pt>
 File: gambar/datagrafik/range25homogennoflocking.png Graphic file (type png)
 <use gambar/datagrafik/range25homogennoflocking.png>
 Package pdftex.def Info: gambar/datagrafik/range25homogennoflocking.png  used o
 n input line 21.
 (pdftex.def)             Requested size: 141.83096pt x 45.62079pt.
-<gambar/gambar2notawafflocking50.png, id=641, 596.98032pt x 412.54124pt>
+<gambar/gambar2notawafflocking50.png, id=642, 596.98032pt x 412.54124pt>
 File: gambar/gambar2notawafflocking50.png Graphic file (type png)
 <use gambar/gambar2notawafflocking50.png>
 Package pdftex.def Info: gambar/gambar2notawafflocking50.png  used on input lin
 e 23.
 (pdftex.def)             Requested size: 179.09547pt x 123.76332pt.
-<gambar/datagrafik/range50noflocking.png, id=642, 464.4853pt x 152.82094pt>
+<gambar/datagrafik/range50noflocking.png, id=643, 464.4853pt x 152.82094pt>
 File: gambar/datagrafik/range50noflocking.png Graphic file (type png)
 <use gambar/datagrafik/range50noflocking.png>
 Package pdftex.def Info: gambar/datagrafik/range50noflocking.png  used on input
@@ -1533,19 +1551,19 @@ Overfull \hbox (7.61736pt too wide) in paragraph at lines 38--38
 |[]\T1/ptm/b/n/17.28 Flocking de-ngan Ga-ya Do-min-an(Circular Mo-tion)| 
  []
 
-<gambar/gambar3tawafflocking25.png, id=662, 599.99156pt x 413.29407pt>
+<gambar/gambar3tawafflocking25.png, id=663, 599.99156pt x 413.29407pt>
 File: gambar/gambar3tawafflocking25.png Graphic file (type png)
 <use gambar/gambar3tawafflocking25.png>
 Package pdftex.def Info: gambar/gambar3tawafflocking25.png  used on input line 
 42.
 (pdftex.def)             Requested size: 359.99771pt x 247.97835pt.
-<gambar/datagrafik/range25homogen.png, id=663, 464.4853pt x 164.86594pt>
+<gambar/datagrafik/range25homogen.png, id=664, 464.4853pt x 164.86594pt>
 File: gambar/datagrafik/range25homogen.png Graphic file (type png)
 <use gambar/datagrafik/range25homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25homogen.png  used on input li
 ne 47.
 (pdftex.def)             Requested size: 139.34666pt x 49.46014pt.
-<gambar/datagrafik/range50homogen.png, id=664, 466.74374pt x 161.85469pt>
+<gambar/datagrafik/range50homogen.png, id=665, 466.74374pt x 161.85469pt>
 File: gambar/datagrafik/range50homogen.png Graphic file (type png)
 <use gambar/datagrafik/range50homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50homogen.png  used on input li
@@ -1564,25 +1582,25 @@ Overfull \hbox (7.61736pt too wide) in paragraph at lines 55--55
 |[]\T1/ptm/b/n/17.28 Flocking de-ngan Ga-ya Do-min-an(Circular Mo-tion)
  []
 
-<gambar/gambar4tawafflocking25variabel.png, id=694, 599.99156pt x 411.03563pt>
+<gambar/gambar4tawafflocking25variabel.png, id=695, 599.99156pt x 411.03563pt>
 File: gambar/gambar4tawafflocking25variabel.png Graphic file (type png)
 <use gambar/gambar4tawafflocking25variabel.png>
 Package pdftex.def Info: gambar/gambar4tawafflocking25variabel.png  used on inp
 ut line 64.
 (pdftex.def)             Requested size: 239.99237pt x 164.41133pt.
-<gambar/datagrafik/range25heterogen.png, id=695, 464.4853pt x 158.84344pt>
+<gambar/datagrafik/range25heterogen.png, id=696, 464.4853pt x 158.84344pt>
 File: gambar/datagrafik/range25heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range25heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25heterogen.png  used on input 
 line 66.
 (pdftex.def)             Requested size: 139.34666pt x 47.6534pt.
-<gambar/gambar5tawafflocking50variabel.png, id=696, 600.74437pt x 411.78844pt>
+<gambar/gambar5tawafflocking50variabel.png, id=697, 600.74437pt x 411.78844pt>
 File: gambar/gambar5tawafflocking50variabel.png Graphic file (type png)
 <use gambar/gambar5tawafflocking50variabel.png>
 Package pdftex.def Info: gambar/gambar5tawafflocking50variabel.png  used on inp
 ut line 69.
 (pdftex.def)             Requested size: 240.29349pt x 164.71245pt.
-<gambar/datagrafik/range50heterogen.png, id=697, 429.85594pt x 149.05687pt>
+<gambar/datagrafik/range50heterogen.png, id=698, 429.85594pt x 149.05687pt>
 File: gambar/datagrafik/range50heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range50heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50heterogen.png  used on input 
@@ -1625,7 +1643,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 110.
 
-<gambar/Kim2014.png, id=725, 226.59656pt x 170.13562pt>
+<gambar/Kim2014.png, id=726, 226.59656pt x 170.13562pt>
 File: gambar/Kim2014.png Graphic file (type png)
 <use gambar/Kim2014.png>
 Package pdftex.def Info: gambar/Kim2014.png  used on input line 113.
@@ -1663,7 +1681,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 121.
 
-<gambar/PaperNasir.JPG, id=731, 720.44156pt x 584.93532pt>
+<gambar/PaperNasir.JPG, id=732, 720.44156pt x 584.93532pt>
 File: gambar/PaperNasir.JPG Graphic file (type jpg)
 <use gambar/PaperNasir.JPG>
 Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 124.
@@ -1709,7 +1727,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\new@ifnextchar' on input line 132.
 
-<gambar/Bajec.PNG, id=745, 709.65125pt x 356.33125pt>
+<gambar/Bajec.PNG, id=746, 709.65125pt x 356.33125pt>
 File: gambar/Bajec.PNG Graphic file (type png)
 <use gambar/Bajec.PNG>
 Package pdftex.def Info: gambar/Bajec.PNG  used on input line 135.
@@ -3350,15 +3368,15 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"Ikhsan Mochammad Noor".out' has not changed
 .
-(rerunfilecheck)             Checksum: CD27FF366224B9634A0E37A0622332F0;10988.
+(rerunfilecheck)             Checksum: 3DE863D9B47DD09CE05174AA50B9A94E;11069.
  )
 (\end occurred when \ifx on line 67 was incomplete) 
 Here is how much of TeX's memory you used:
- 34653 strings out of 478317
- 654887 string characters out of 2843676
- 1022760 words of memory out of 3000000
- 49817 multiletter control sequences out of 15000+600000
- 521994 words of font info for 82 fonts, out of 8000000 for 9000
+ 34660 strings out of 478317
+ 655011 string characters out of 2843676
+ 1022793 words of memory out of 3000000
+ 49823 multiletter control sequences out of 15000+600000
+ 524762 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,80p,2027b,1887s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX 2.9
@@ -3374,9 +3392,9 @@ ublic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Ikhsan Mochammad Noor.pdf" (115 pages, 1828479 bytes).
+Output written on "Ikhsan Mochammad Noor.pdf" (115 pages, 1822337 bytes).
 PDF statistics:
- 3940 PDF objects out of 4296 (max. 8388607)
+ 3941 PDF objects out of 4296 (max. 8388607)
  2563 named destinations out of 2984 (max. 500000)
  635 words of extra memory for PDF output out of 10000 (max. 10000000)
 

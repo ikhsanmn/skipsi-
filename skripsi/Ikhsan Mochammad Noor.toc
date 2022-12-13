@@ -20,13 +20,13 @@
 \contentsline {section}{\numberline {1.5}Metode Pengumpulan Data}{5}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Sistematika Penulisan}{5}{section.1.6}%
 \contentsline {chapter}{\numberline {2}TEORI DASAR}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Model Interaksi}{7}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Flocking}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.1}Pengertian \emph {Flocking}}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Gaya dalam \emph {Flocking}}{8}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Aplikasi gaya}{8}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Alignment}{8}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Cohesion}{9}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Separation}{9}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Circular Motion}{10}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.1}\emph {Alignment}}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}\emph {Cohesion}}{9}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}\emph {Separation}}{9}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}\emph {Circular Motion}}{10}{subsection.2.3.4}%
 \contentsline {section}{\numberline {2.4}Model Simulasi}{10}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Model Partikel}{10}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Model Ruang Partikel}{11}{subsection.2.4.2}%
