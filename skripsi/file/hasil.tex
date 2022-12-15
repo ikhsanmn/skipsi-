@@ -18,11 +18,11 @@
 \centering
 \subfigure[Model Flocking dengan range 25 N=100]{\label{fig:flocking dengan range 25}\includegraphics[scale=0.3]{gambar/gambar1notawafflocking25}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 25 N=100]{\label{fig:grafik flocking dengan range 25}\includegraphics[scale=0.3]{gambar/datagrafik/range25homogennoflocking}}
+\subfigure[Grafik Model Flocking dengan range 25 N=100]{\label{fig:grafik flocking dengan range 25}\includegraphics[scale=0.45]{gambar/datagrafik/range25homogennoflocking}}
 
 \subfigure[Model Flocking dengan range 50 N=100]{\label{fig:flocking dengan range 50}\includegraphics[scale=0.3]{gambar/gambar2notawafflocking50}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 50 N=100]{\label{fig:grafik flocking dengan range 50}\includegraphics[scale=0.3]{gambar/datagrafik/range50noflocking}}
+\subfigure[Grafik Model Flocking dengan range 50 N=100]{\label{fig:grafik flocking dengan range 50}\includegraphics[scale=0.45]{gambar/datagrafik/range50noflocking}}
 
 \caption{Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50}
 \label{fig:2grafikmodel3gaya}
@@ -39,14 +39,13 @@ Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion})
 
 \begin{figure}
 \centering
-\includegraphics[scale=0.6]{gambar/gambar3tawafflocking25}
-\caption{Hasil Model dengan ditambahkan gaya dominan, N=100}
-\label{fig:2grafikmodel4gayadengan dominanforce}
+
+\subfigure[Hasil Model dengan ditambahkan gaya dominan, N=100]{\label{fig:2grafikmodel4gayadengan dominanforce}\includegraphics[scale=0.6]{gambar/gambar3tawafflocking25}}
 
 \hfill
-\subfigure[Grafik Model Flocking dengan gaya dominan, range 25 N=100]{\label{fig:grafik flocking dengan gaya dominan range 25}\includegraphics[scale=0.3]{gambar/datagrafik/range25homogen}}
+\subfigure[Grafik Model Flocking dengan gaya dominan, range 25 N=100]{\label{fig:grafik flocking dengan gaya dominan range 25}\includegraphics[scale=0.45]{gambar/datagrafik/range25homogen}}
 \hfill
-\subfigure[Grafik Model Flocking dengan gaya dominan range 50 N=100]{\label{fig:grafik flocking dengan gaya dominan range 50}\includegraphics[scale=0.3]{gambar/datagrafik/range50homogen}}
+\subfigure[Grafik Model Flocking dengan gaya dominan range 50 N=100]{\label{fig:grafik flocking dengan gaya dominan range 50}\includegraphics[scale=0.45]{gambar/datagrafik/range50homogen}}
 \end{figure}
 \hspace{0.6cm} Pada bagian ini ditambahkannya gaya dominan pada persamaan 2.5 dimana gaya dominan ini berfungsi mengikat partikel untuk berputar pada porosnya.Terdapat perbedaan antara pergerakan tanpa circular motion adalah \textit{flocking} hanya bekerja pada area tawaf. Dan partikel diluar area tersebut akan perlahan mendekati area tawaf. Hal ini dilakukan untuk mendekati \citep{Nasir2016} dan \citep{Kim2014}. Dimana apa yang dilakukan nasir adalah mengelompokan partikel dalam sebuah group dikelilingi partikel yang homogen. sedangkan pada \citep{Kim2014} mengamplikasikan \textit{flocking} ditambahkan dengan reciprocal coalition avoidance. untuk memperlihatkan interaksi partikel yang lebih tidak bersinggungan. Jika dapat dianalisis hasil pada \ref{fig:2grafikmodel4gayadengan dominanforce} didapat konsep \citep{Nasir2016} yang menggolongkan partikel dan konsep dari \citep{Kim2014} untuk \textit{flocking} berbasis kecepatan.
 
@@ -63,12 +62,12 @@ Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion})
 \centering
 \subfigure[Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.4]{gambar/gambar4tawafflocking25variabel}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.3]{gambar/datagrafik/range25heterogen}}
+\subfigure[Grafik Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.45]{gambar/datagrafik/range25heterogen}}
 
 
 \subfigure[Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.4]{gambar/gambar5tawafflocking50variabel}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.3]{gambar/datagrafik/range50heterogen}}
+\subfigure[Grafik Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.45]{gambar/datagrafik/range50heterogen}}
 
 \caption{Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50 ditambah dengan dominan force tawaf}
 \label{fig:2grafikmodel4gaya}
@@ -107,7 +106,8 @@ Penambahan variabel dari kecepatan partikel ini (merah dengan 1.25 kecepatan par
 % \end{figure}
 % \hspace{0.6cm}Pada Flocking 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Perbandingan Hasil Simulasi dengan \citep{Kim2014} }%\label{sec:alat}
+\section{Perbandingan Hasil Simulasi dengan Beberapa Referensi}
+\subsection{Referensi Hasil Simulasi dengan \citep{Kim2014} }%\label{sec:alat}
 \begin{figure}
 \centering
 \includegraphics[scale=0.6]{gambar/Kim2014}
@@ -118,7 +118,7 @@ Penambahan variabel dari kecepatan partikel ini (merah dengan 1.25 kecepatan par
 \hspace{0.6cm} Pada gambar \ref{fig:figkim2014} diperlihatkan hasil kim bahwa partikel (agen) terpadatkan di dekat pusat area gaya(kaaba). Hal ini dikarenakan terdorong oleh kerumunan agen. Pada gambar agen hijau menunjukan agen yang menunggu menyentuh titik pusat gaya(hajar aswad). Diawal simulasi agent berada dalam keadaan tidak dapat bergerak dan menghasilkan kerumunan padat. Tanpa interaksi fisis meskipun ada ruang gerak, partikel agent tidak bisa memproses ke posisi selanjutnya. Dengan tambahan interaksi fisis dengan agent selanjutnya agent dapat terdorong oleh kerumunan.
 % \hspace{0.6cm}Dapat terlihat bentuk tawaf telah terbentuk, mungkin harus ada adjustment gaya lagi supaya geraknya selalu melawan arah jarum jam. Boundary state untuk partikel juga belum diterapkan seperti dinding kaaba dan outer dinding bagian masjid, kemunculan partikel sendiri harus ada adjustment. dan harus ada adjustment lagi tentang layar yang digunakan untuk menetukan kecepatan yang terbentuk.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Perbandingan Hasil Simulasi dengan \citep{Nasir2016}}%\label{sec:alat}
+\subsection{Referensi Hasil Simulasi dengan \citep{Nasir2016}}%\label{sec:alat}
 \begin{figure}
 \centering
 \includegraphics[scale=0.4]{gambar/PaperNasir.JPG}
@@ -129,7 +129,7 @@ Penambahan variabel dari kecepatan partikel ini (merah dengan 1.25 kecepatan par
 
 \hspace{0.6cm} Hasil penelitian yang telah dilakukan oleh \citep{Nasir2016} ditunjukan oleh \ref{fig:nasir1}. Lingkungan yang dimiliki partikel diletakan kabah berbentuk persegi bersama dengan area bidang perisai untuk hijir ismail. Partikel bergerak berkelompok bersama dengan partikel sejenis dan membuat gerakan tawaf. Hal ini jika dibandingkan dengan dengan hasil pada \ref{fig:2grafikmodel4gaya}(kiri) terdapat banyak perbedaan, diantaranya pergerakan partikel yang cenderung lebih mendekati pusat gaya(kaaba) dan kelompok lebih dapat terpencar, kemudian membuat kelompok yang lebih kecil lagi.
 
-\section{Perbandingan Hasil Simulasi dengan \citep{Bajec2007}}%\label{sec:alat}
+\subsection{Referensi Hasil Simulasi dengan \citep{Bajec2007}}%\label{sec:alat}
 \begin{figure}
 \centering
 \includegraphics[scale=0.4]{gambar/Bajec.PNG}

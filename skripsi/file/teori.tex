@@ -28,7 +28,7 @@ q = {p,\upsilon,z,m,\psi}
 
 \section{Gaya dalam \emph{Flocking}}\label{sec:flocking}
 
-Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\texttit{Self-Propelled Particles}). 
+Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\textit{Self-Propelled Particles}). 
 
 \begin{equation}
 \vec{F}_i = \sum_{i \neq j} (\sum_{n=1}^{\infty} R_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}  + \sum_{n=1}^{\infty} I_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}). 
@@ -79,7 +79,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \end{figure}
 
 \subsection{\emph{Circular Motion}}\label{sec:circularmotion}
-\hspace{0.5cm}\emph{Circular Motion} atau bisa disebut gaya gerak memutar mengelilingi pusat gaya, dapat diaplikasikan kepada partikel yang bergerak secara \texttit{flocking} untuk membuat partikel seperti bergerak tawaf mengelilingi pusat gaya. Dimana pusat gaya berada di pusat kaaba berbentuk persegi. Gerak \texttit{Flocking} yang diterapkan perlu memenuhi syarat area tawaf. Dengan begitu gerak mengeliligi kaaba dapat berada di area dekat kaaba.
+\hspace{0.5cm}\emph{Circular Motion} atau bisa disebut gaya gerak memutar mengelilingi pusat gaya, dapat diaplikasikan kepada partikel yang bergerak secara \textit{flocking} untuk membuat partikel seperti bergerak tawaf mengelilingi pusat gaya. Dimana pusat gaya berada di pusat kaaba berbentuk persegi. Gerak \textit{Flocking} yang diterapkan perlu memenuhi syarat area tawaf. Dengan begitu gerak mengeliligi kaaba dapat berada di area dekat kaaba.
 
 \[
   f(x)=\begin{cases}
@@ -101,7 +101,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \hspace {0.5cm}Model partikel sederhana dengan bentuk bulat menggambarkan partikel agent yang sedang bergerak
 \begin{figure}
 \centering
-\includegraphics[scale=0.3]{gambar/modelboids2}
+\includegraphics[scale=0.6]{gambar/modelboids2}
 \caption{Model partikel sebagai \emph{boids}}
 \end{figure}
 
@@ -111,7 +111,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \hspace {0.5cm}Model ruang Partikel diformulasikan seperti gambar masjidil haram yang tertera pada gambar. Partikel bergerak berlawanan arah dengan ruang dibatasi boundary state yaitu dinding masjidil haram dan bagian dalam ada boundary state lagi berupa dinding kaaba. Akan tetapi dalam simulasi ini model ruang partikel dibatasi hanya pada kaaba dan area tawaf kaaba.
 \begin{figure}
 \centering
-\includegraphics[scale=0.5]{gambar/layout2dmasjidilharam}
+\includegraphics[scale=0.4]{gambar/layout2dmasjidilharam}
 \caption{Model Area Masjidil Haram}
 \end{figure}
 

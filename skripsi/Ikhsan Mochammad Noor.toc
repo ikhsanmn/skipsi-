@@ -30,39 +30,39 @@
 \contentsline {section}{\numberline {2.4}Model Simulasi}{10}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Model Partikel}{10}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Model Ruang Partikel}{11}{subsection.2.4.2}%
-\contentsline {section}{\numberline {2.5}Persamaan Distribusi Normal }{11}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Persamaan Distribusi Normal }{12}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Metode Runge Kutta}{12}{section.2.6}%
-\contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Alat yang Digunakan}{14}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Perangkat Keras}{14}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Perangkat Lunak}{14}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Penerapan Gaya}{15}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Penerapan 3 gaya}{15}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Penerapan 3 gaya ditambah gaya circular}{15}{subsection.3.2.2}%
-\contentsline {subsubsection}{interaksi diluar zona tawaf}{16}{equation.3.2.2}%
-\contentsline {subsubsection}{interaksi didalam zona tawaf}{16}{equation.3.2.2}%
-\contentsline {section}{\numberline {3.3}Simulasi Komputer}{16}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Parameter Gaya}{17}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Parameter dalam pergerakan gaya}{17}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Parameter variasi partikel yang ditambahkan dalam simulasi}{18}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}Hasil dan Pembahasan}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Flocking tanpa Circular Motion}{19}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Flocking dengan Gaya Dominan(Circular Motion)}{21}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Flocking dengan Gaya Dominan(Circular Motion) partikel dengan Karakteristik}{23}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Perbandingan Hasil Simulasi dengan \citep {Kim2014} }{24}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Perbandingan Hasil Simulasi dengan \citep {Nasir2016}}{25}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Perbandingan Hasil Simulasi dengan \citep {Bajec2007}}{26}{section.4.6}%
-\contentsline {chapter}{\numberline {5}PENUTUP}{27}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Kesimpulan}{27}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Saran}{28}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{29}{section*.1}%
-\contentsline {chapter}{INDEX}{31}{section*.1}%
-\contentsline {chapter}{LAMPIRAN}{33}{section*.1}%
-\contentsline {chapter}{\numberline {A}sumber kode}{33}{chapter.1}%
-\contentsline {section}{\numberline {A.1}Kode Program gambarBoids.js}{33}{section.1.1}%
-\contentsline {section}{\numberline {A.2}Kode Program sides2.js}{34}{section.1.2}%
-\contentsline {section}{\numberline {A.3}vect3.js}{35}{section.1.3}%
-\contentsline {section}{\numberline {A.4}Kode Program index.html}{39}{section.1.4}%
-\contentsline {section}{\numberline {A.5}Kode Program boids.js}{42}{section.1.5}%
-\contentsline {section}{\numberline {A.6}Kode Program script.js}{64}{section.1.6}%
-\contentsline {chapter}{\numberline {B}Riwayat Hidup}{98}{chapter.2}%
+\contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Alat yang Digunakan}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Perangkat Keras}{15}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Perangkat Lunak}{15}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Penerapan Gaya}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Penerapan 3 gaya}{16}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Penerapan 3 gaya ditambah gaya circular}{16}{subsection.3.2.2}%
+\contentsline {subsubsection}{interaksi diluar zona tawaf}{17}{equation.3.2.2}%
+\contentsline {subsubsection}{interaksi didalam zona tawaf}{17}{equation.3.2.2}%
+\contentsline {section}{\numberline {3.3}Simulasi Komputer}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Parameter Gaya}{18}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Parameter dalam pergerakan gaya}{18}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Parameter variasi partikel yang ditambahkan dalam simulasi}{19}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}Hasil dan Pembahasan}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Flocking tanpa Circular Motion}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Flocking dengan Gaya Dominan(Circular Motion)}{22}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Flocking dengan Gaya Dominan(Circular Motion) partikel dengan Karakteristik}{24}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Perbandingan Hasil Simulasi dengan \citep {Kim2014} }{25}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Perbandingan Hasil Simulasi dengan \citep {Nasir2016}}{26}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Perbandingan Hasil Simulasi dengan \citep {Bajec2007}}{27}{section.4.6}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{28}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{29}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{30}{section*.1}%
+\contentsline {chapter}{INDEX}{32}{section*.1}%
+\contentsline {chapter}{LAMPIRAN}{34}{section*.1}%
+\contentsline {chapter}{\numberline {A}sumber kode}{34}{chapter.1}%
+\contentsline {section}{\numberline {A.1}Kode Program gambarBoids.js}{34}{section.1.1}%
+\contentsline {section}{\numberline {A.2}Kode Program sides2.js}{35}{section.1.2}%
+\contentsline {section}{\numberline {A.3}vect3.js}{36}{section.1.3}%
+\contentsline {section}{\numberline {A.4}Kode Program index.html}{40}{section.1.4}%
+\contentsline {section}{\numberline {A.5}Kode Program boids.js}{43}{section.1.5}%
+\contentsline {section}{\numberline {A.6}Kode Program script.js}{65}{section.1.6}%
+\contentsline {chapter}{\numberline {B}Riwayat Hidup}{99}{chapter.2}%
