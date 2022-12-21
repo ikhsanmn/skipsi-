@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  15 DEC 2022 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  15 DEC 2022 16:35
 entering extended mode
 **"./Ikhsan Mochammad Noor.tex"
 (Ikhsan Mochammad Noor.tex
@@ -1480,14 +1480,9 @@ File: gambar/layout2dmasjidilharam.png Graphic file (type png)
 <use gambar/layout2dmasjidilharam.png>
 Package pdftex.def Info: gambar/layout2dmasjidilharam.png  used on input line 1
 14.
-(pdftex.def)             Requested size: 426.59271pt x 292.5924pt.
-
-Overfull \hbox (28.25412pt too wide) in paragraph at lines 114--115
- [][] 
- []
-
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4
-}) has been already used, duplicate ignored
+(pdftex.def)             Requested size: 341.26895pt x 234.07034pt.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.120 
@@ -1498,7 +1493,7 @@ l.120
 l.120 
        <./gambar/modelboids2.png> <./gambar/layout2dmasjidilharam.png>]
 [12]
-<gambar/comparison_euler.png, id=598, 722.7pt x 451.6875pt>
+<gambar/comparison_euler.png, id=599, 722.7pt x 451.6875pt>
 File: gambar/comparison_euler.png Graphic file (type png)
 <use gambar/comparison_euler.png>
 Package pdftex.def Info: gambar/comparison_euler.png  used on input line 189.
@@ -1651,129 +1646,147 @@ l.75
 fik/range50heterogen.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 109.
+(hyperref)                removing `\begingroup' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 109.
+(hyperref)                removing `\let' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 109.
+(hyperref)                removing `\<let>-command' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 109.
+(hyperref)                removing `\NAT@ctype' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 109.
+(hyperref)                removing `\z@' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 109.
+(hyperref)                removing `\let' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 109.
+(hyperref)                removing `\new@ifnextchar' on input line 110.
 
 <gambar/Kim2014.png, id=729, 226.59656pt x 170.13562pt>
 File: gambar/Kim2014.png Graphic file (type png)
 <use gambar/Kim2014.png>
-Package pdftex.def Info: gambar/Kim2014.png  used on input line 112.
+Package pdftex.def Info: gambar/Kim2014.png  used on input line 113.
 (pdftex.def)             Requested size: 135.95897pt x 102.08215pt.
 [25pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.120 ... Hasil Simulasi dengan \citep{Nasir2016}}
+l.121 ... Hasil Simulasi dengan \citep{Nasir2016}}
                                                   %\label{sec:alat} <./gambar/K
 im2014.png>]
-Overfull \hbox (5.56029pt too wide) in paragraph at lines 120--120
-|[]\T1/ptm/b/n/17.28 Perbandingan Ha-sil Si-mu-la-si de-ngan ([]Na-sir & Su-
- []
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 120.
+(hyperref)                removing `\let' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 120.
+(hyperref)                removing `\<let>-command' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 120.
+(hyperref)                removing `\NAT@ctype' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 120.
+(hyperref)                removing `\z@' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 120.
+(hyperref)                removing `\let' on input line 121.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 120.
+(hyperref)                removing `\new@ifnextchar' on input line 121.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 120.
-
-<gambar/PaperNasir.JPG, id=740, 720.44156pt x 584.93532pt>
+<gambar/PaperNasir.JPG, id=741, 720.44156pt x 584.93532pt>
 File: gambar/PaperNasir.JPG Graphic file (type jpg)
 <use gambar/PaperNasir.JPG>
-Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 123.
+Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 124.
 (pdftex.def)             Requested size: 288.17151pt x 233.96997pt.
 
-Overfull \hbox (1.70682pt too wide) in paragraph at lines 131--131
-|[]\T1/ptm/b/n/17.28 Perbandingan Ha-sil Si-mu-la-si de-ngan ([]Ba-jec \T1/ptm/
-b/it/17.28 et al.[]\T1/ptm/b/n/17.28 ,
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 131.
+(hyperref)                removing `\let' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 131.
+(hyperref)                removing `\<let>-command' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 131.
+(hyperref)                removing `\NAT@ctype' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 131.
+(hyperref)                removing `\z@' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 131.
+(hyperref)                removing `\let' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 131.
+(hyperref)                removing `\new@ifnextchar' on input line 132.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 131.
-
-<gambar/Bajec.PNG, id=749, 709.65125pt x 356.33125pt>
+<gambar/Bajec.PNG, id=750, 709.65125pt x 356.33125pt>
 File: gambar/Bajec.PNG Graphic file (type png)
 <use gambar/Bajec.PNG>
-Package pdftex.def Info: gambar/Bajec.PNG  used on input line 134.
+Package pdftex.def Info: gambar/Bajec.PNG  used on input line 135.
 (pdftex.def)             Requested size: 283.85547pt x 142.52997pt.
 [26pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.138 \hspace{0.6cm}
+l.139 \hspace{0.6cm}
                     Hasil penelitian yang telah dilakukan oleh \citep{Bajec2...
- <./gambar/PaperNasir.JPG>]) (file/penutup.tex [27pdfTeX warning (ext4): destin
-ation with the same identifier (name{figure.4.5}) has been already used, duplic
-ate ignored
+ <./gambar/PaperNasir.JPG>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 146.
+
+) (file/penutup.tex [27pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.4.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.3 \chapter
@@ -3390,38 +3403,49 @@ LAMPIRAN B.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `"Ikhsan Mochammad Noor".out' has not changed
-.
-(rerunfilecheck)             Checksum: 3DE863D9B47DD09CE05174AA50B9A94E;11069.
+
+Package rerunfilecheck Warning: File `"Ikhsan Mochammad Noor".out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Ikhsan Mochammad Noor".out':
+(rerunfilecheck)             Before: 3DE863D9B47DD09CE05174AA50B9A94E;11069
+(rerunfilecheck)             After:  944A6BF11822E15AF47C59A262CC7237;11743.
  )
 (\end occurred when \ifx on line 67 was incomplete) 
 Here is how much of TeX's memory you used:
- 33787 strings out of 478907
- 631163 string characters out of 2851891
+ 33791 strings out of 478907
+ 631227 string characters out of 2851891
  1012025 words of memory out of 3000000
  48395 multiletter control sequences out of 15000+600000
  458933 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,83p,2027b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ikhsa/AppData/Loca
-l/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/ikhsa/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ikhsa/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ikhsa
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Use
-rs/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr12.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ikhsa/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ikhsa/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
-/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
-/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Ikhsan Mochammad Noor.pdf" (116 pages, 1823334 bytes).
+pdfTeX warning (dest): name{
+section.4.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.5} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
+sers/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.
+pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi6.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ikhsa/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ikhsa/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ikhsa/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ikhsa/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/i
+khsa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/i
+khsa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/
+ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/
+ikhsa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Ikhsan Mochammad Noor.pdf" (116 pages, 1824049 bytes).
 PDF statistics:
- 3944 PDF objects out of 4296 (max. 8388607)
- 2564 named destinations out of 2984 (max. 500000)
+ 3949 PDF objects out of 4296 (max. 8388607)
+ 2568 named destinations out of 2984 (max. 500000)
  635 words of extra memory for PDF output out of 10000 (max. 10000000)
 
