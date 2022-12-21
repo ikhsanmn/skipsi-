@@ -28,7 +28,7 @@ q = {p,\upsilon,z,m,\psi}
 
 \section{Gaya dalam \emph{Flocking}}\label{sec:flocking}
 
-Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya, ,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\textit{Self-Propelled Particles}). 
+Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan untuk membentuk kerumunan   \citep{Reynolds1987} \citep{Nasir2016}. Dimana hal ini dipakai oleh \citep{Chate2008} dalam modelnya \emph{boids model} untuk simulasi. Simulasi kerumunan akan terbentuk jika partikel bergerak sama dengan partikel sekitarnya,membentuk 1 titik area pemadatan partikel, dan mempunyai gaya pemisah agar partikel bergerak tanpa adanya partikel yang melekat/ tumbukan tidak elastis. Interaksi antar kerumunan ini dalam \citep{Chate2008} dinamakan SPP(\emph{Self-Propelled Particles}). 
 
 \begin{equation}
 \vec{F}_i = \sum_{i \neq j} (\sum_{n=1}^{\infty} R_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}  + \sum_{n=1}^{\infty} I_{n} \dfrac{\vec{P}_{ij}}{|\vec{P}_{ij}|^n}). 
@@ -37,7 +37,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \section{Aplikasi gaya}\label{cha:aplikasi gaya}
 
 \subsection{\emph{Alignment}}\label{sec:alignment}
-\hspace {0.5cm} Gaya \emph{Allignment} digunakan untuk membuat partikel tetap bergerak satu grup. Berkaitan dengan sistem dalam tawaf, digunakan karena di dalam masjidil haram beberapa orang sering berkerumun untuk membentuk 1 grup agar tidak tersesat. Alasan lainnya, untuk penggunaan alignment ini membuat partikel menyamakan persepsi kecepatan dengan konsep yang terdepan akan mengurangi kecepatannya juga yang belakang akan menambah kecepatannya untuk berjalan bersamaan membentuk grup. secara matematika dapat ditulis sebagai berikut.
+\hspace {0.5cm} Gaya \emph{Allignment} digunakan untuk membuat partikel tetap bergerak satu grup. Berkaitan dengan sistem dalam tawaf, digunakan karena di dalam masjidil haram beberapa orang sering berkerumun untuk membentuk 1 grup agar tidak tersesat. Alasan lainnya, untuk penggunaan alignment ini membuat partikel menyamakan persepsi kecepatan dengan konsep yang terdepan akan mengurangi kecepatannya juga yang belakang akan menambah kecepatannya untuk berjalan bersamaan membentuk grup\citep{Reynolds1987}. secara matematika dapat ditulis sebagai berikut.
 
 \begin{equation}
  F_i^a(p,q) = \alpha^a \dfrac{1}{N^c}\sum^{N^c}_{i \neq j}\dfrac{\vec{V}_{ji}}{|\vec{V}_{ji}|},\alpha^a = 1N
@@ -47,11 +47,11 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \begin{figure}
 \centering
 \includegraphics[scale=0.5]{gambar/allignment}
-\caption{Bentuk Gerak Pensejajaran}
+\caption{Bentuk Gerak Pensejajaran\citep{Reynolds1987}}
 \end{figure}
 
 \subsection{\emph{Cohesion}}\label{sec:cohesion}
-\hspace{0.5cm}Gaya kohesi digunakan untuk membuat partikel menarik tetangganya untuk berdekatan. Dimana posisi pusat dijadikan titik arah pergerakan sehingga partikel bergerak ke titik tersebut: berikut secara matematik dapat ditulis:
+\hspace{0.5cm}Gaya kohesi digunakan untuk membuat partikel menarik tetangganya untuk berdekatan\citep{Reynolds1987}. Dimana posisi pusat dijadikan titik arah pergerakan sehingga partikel bergerak ke titik tersebut: berikut secara matematik dapat ditulis:
 
 \begin{equation}
  F_i^k(p,q) = \alpha^k \dfrac{1}{N^c}\sum^{N^c}_{i \neq j}\dfrac{\vec{p}_{ji}}{|\vec{p}_{ji}|} , \alpha^k = 1N
@@ -59,11 +59,11 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \begin{figure}
 \centering
 \includegraphics[scale=0.5]{gambar/cohesion}
-\caption{Bentuk Gerak Pemusatan}
+\caption{Bentuk Gerak Pemusatan\citep{Reynolds1987}}
 \end{figure}
 
 \subsection{\emph{Separation}}\label{sec:separation}
-\hspace{0.5cm} Gaya separasi digunakan untuk partikel agar terjadi pemisahan dan meminimalisir pemisahan. Dalam konteks tawaf digunakan untuk menghindari seseorang menempal terhadap orang lain. dalam gaya separasi ini dilakukan variasi terhadap koefisiennya yaitu koefisien introversion atau tingkatjaga jarak dan tingkat racis untuk mengelompokkan jenis ras partikel berdasarkan warna.
+\hspace{0.5cm} Gaya separasi digunakan untuk partikel agar terjadi pemisahan dan meminimalisir pemisahan\citep{Reynolds1987}. Dalam konteks tawaf digunakan untuk menghindari seseorang menempal terhadap orang lain. dalam gaya separasi ini dilakukan variasi terhadap koefisiennya yaitu koefisien introversion atau tingkatjaga jarak dan tingkat racis untuk mengelompokkan jenis ras partikel berdasarkan warna.
 
 \begin{equation}
  F_i^s(p,q) = \alpha^s \sum^{N^c}_{i \neq j}\dfrac{\vec{p}_{ji}}{|\vec{p}_{ji}|^2},\\
@@ -75,7 +75,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \begin{figure}
 \centering
 \includegraphics[scale=0.5]{gambar/separation}
-\caption{Bentuk Gerak Pemisahan}
+\caption{Bentuk Gerak Pemisahan\citep{Reynolds1987}}
 \end{figure}
 
 \subsection{\emph{Circular Motion}}\label{sec:circularmotion}
@@ -98,7 +98,7 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 \section{Model Simulasi}\label{cha:model simulasi}
 
 \subsection{Model Partikel}\label{sec:modelpartikel}
-\hspace {0.5cm}Model partikel sederhana dengan bentuk bulat menggambarkan partikel agent yang sedang bergerak
+\hspace {0.5cm}Model partikel sederhana dengan bentuk bulat menggambarkan partikel agent yang sedang bergerak\citep{Reynolds1987}.
 \begin{figure}
 \centering
 \includegraphics[scale=0.6]{gambar/modelboids2}
@@ -108,15 +108,15 @@ Mekanika \emph{Flocking} berdasarkan reynolds mempunyai 3 gaya yang digunakan un
 
 \subsection{Model Ruang Partikel}\label{sec:ruangpartikel}
 
-\hspace {0.5cm}Model ruang Partikel diformulasikan seperti gambar masjidil haram yang tertera pada gambar. Partikel bergerak berlawanan arah dengan ruang dibatasi boundary state yaitu dinding masjidil haram dan bagian dalam ada boundary state lagi berupa dinding kaaba. Akan tetapi dalam simulasi ini model ruang partikel dibatasi hanya pada kaaba dan area tawaf kaaba.
+\hspace {0.5cm}Model ruang Partikel diformulasikan seperti gambar masjidil haram yang tertera pada gambar\citep{Curtis2011}. Partikel bergerak berlawanan arah dengan ruang dibatasi boundary state yaitu dinding masjidil haram dan bagian dalam ada boundary state lagi berupa dinding kaaba. Akan tetapi dalam simulasi ini model ruang partikel dibatasi hanya pada kaaba dan area tawaf kaaba.
 \begin{figure}
 \centering
 \includegraphics[scale=0.4]{gambar/layout2dmasjidilharam}
-\caption{Model Area Masjidil Haram}
+\caption{Model Area Masjidil Haram \citep{Curtis2011}
 \end{figure}
 
 \section{Persamaan Distribusi Normal }\label{cha:modelpartikel}
-\hspace{0.5cm} Distribusi normal dalam program ini digunakan untuk menentukan nilai real dari koeffisien yang ada dalam nilai introversi, rasisme dan ketangkasan(quirkness). Hal ini mempengaruhi bentuk dari inisial tawaf yang akan terjadi, dalam kasus ini secara acak. 
+\hspace{0.5cm} Distribusi normal dalam program ini digunakan untuk menentukan nilai real dari koeffisien yang ada dalam nilai introversi, rasisme dan ketangkasan(\emph{quirkness}). Hal ini mempengaruhi bentuk dari inisial tawaf yang akan terjadi, dalam kasus ini secara acak. 
 
 \begin{equation}
 f(x) =\dfrac{1}{\sigma \sqrt{2 \pi}} e^{-\dfrac{1}{2}(\dfrac{x-\mu}{\sigma})^2}
@@ -128,8 +128,8 @@ f(x) =\dfrac{1}{\sigma \sqrt{2 \pi}} e^{-\dfrac{1}{2}(\dfrac{x-\mu}{\sigma})^2}
 
 
 
-\section{Metode Runge Kutta}\label{cha:metode perhitungan}
-\hspace{0.5cm} Metode Runge-Kutta adalah metode numerik yang banyak digunakan untuk menyelesaikan persamaan differensial. Metode ini adalah versi yang lebih kompleks dari metode euler yang banyak digunakan. Karena kompleksitasnya maka metode ini menawarkan grafik eksponensial yang lebih mendekati fungsi eksak.\\
+\section{Metode Runge-Kutta}\label{cha:metode perhitungan}
+\hspace{0.5cm} Metode Runge-Kutta adalah metode numerik yang banyak digunakan untuk menyelesaikan persamaan differensial. Metode ini adalah versi yang lebih kompleks dari metode Euler yang banyak digunakan. Karena kompleksitasnya maka metode ini menawarkan grafik eksponensial yang lebih mendekati fungsi eksak.\\
 Untuk fungsi y
 \begin{equation}
 \dfrac{dy}{dt} =f(y,t) , y(t_0)=y_0
@@ -187,10 +187,10 @@ k_4 = f(x_{n}+hk_{1} ,t_{n}+h).
 
 \centering
 \includegraphics[scale=0.5]{gambar/comparison_euler}
-\caption{Perbandingan euler dan runge-kutta}
+\caption{Perbandingan Euler dan Runge-Kutta}
 \end{figure}
 
-Dalam simulasi ini penggunaan runge-kutta digunakan karena alokasi memori komputer yang digunakan tidak terlalu besar. Metode ini juga dipertimbangkan dengan metode euler dimana tingkat error yang lebih rendah. Mempertimbangkan jumlah partikel yang digunakan maka diambil metode ini. Metode runge-kutta digunakan karena kinerja pada komputer ringan.
+Dalam simulasi ini penggunaan Runge-Kutta digunakan karena alokasi memori komputer yang digunakan tidak terlalu besar. Metode ini juga dipertimbangkan dengan metode Euler dimana tingkat error yang lebih rendah. Mempertimbangkan jumlah partikel yang digunakan maka diambil metode ini. Metode Runge-Kutta digunakan karena kinerja pada komputer ringan.
 
 
 
