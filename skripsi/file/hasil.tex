@@ -7,7 +7,7 @@
 
 
 
-\section{Flocking tanpa Circular Motion}%\label{sec:alat}
+\section{\textit{Flocking} tanpa Gaya Dominan(\textit{Circular Motion})}%\label{sec:alat}
 % \begin{figure}
 % \centering
 % \includegraphics[scale=0.4]{gambar/example}
@@ -16,18 +16,24 @@
 % \hspace{0.6cm}
 \begin{figure}
 \centering
-\subfigure[Model Flocking dengan range 25 N=100]{\label{fig:flocking dengan range 25}\includegraphics[scale=0.3]{gambar/gambar1notawafflocking25}}
+\subfigure[Model Flocking dengan range 25 N=100]{\label{fig:flocking dengan range 25}\includegraphics[scale=0.5]{gambar/gambar1notawafflocking25}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 25 N=100]{\label{fig:grafik flocking dengan range 25}\includegraphics[scale=0.45]{gambar/datagrafik/range25homogennoflocking}}
+\subfigure[Grafik Model Flocking dengan range 25 N=100]{\label{fig:grafik flocking dengan range 25}\includegraphics[scale=0.8]{gambar/datagrafik/range25homogennoflocking}}
 
-\subfigure[Model Flocking dengan range 50 N=100]{\label{fig:flocking dengan range 50}\includegraphics[scale=0.3]{gambar/gambar2notawafflocking50}}
-\hfill
-\subfigure[Grafik Model Flocking dengan range 50 N=100]{\label{fig:grafik flocking dengan range 50}\includegraphics[scale=0.45]{gambar/datagrafik/range50noflocking}}
-
-\caption{Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50}
+\caption{Hasil Model alligment,separation dan kohesi dengan range 25}
 \label{fig:2grafikmodel3gaya}
 \end{figure}
 
+\begin{figure}
+\centering
+\subfigure[Model Flocking dengan range 50 N=100]{\label{fig:flocking dengan range 50}\includegraphics[scale=0.5]{gambar/gambar2notawafflocking50}}
+\hfill
+\subfigure[Grafik Model Flocking dengan range 50 N=100]{\label{fig:grafik flocking dengan range 50}\includegraphics[scale=0.8]{gambar/datagrafik/range50noflocking}}
+
+\caption{Hasil Model alligment,separation dan kohesi dengan range 50}
+\label{fig:2grafikmodel3gaya2}
+
+\end{figure}
 % Pada hasil ini formasi partikel terlihat bisa membedakan partikel hal ini karena 
 Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion}) dengan \textit{range} \textit{flocking} yang berbeda pada kohesi dan pensejajarannnya, dapat dibandingkan kedua pengoptimalan \textit{range} dalam menentukan pergerakan partikel . Hal ini dapat dibandingkan dengan \citep{HUTH1992} juga yang membuat \textit{range}, agar perbedaan pergerakan partikel dapat terlihat.Pada gambar \ref{fig:2grafikmodel3gaya} partikel yang mempunyai \textit{range} 50 cenderung lebih mudah berkelompok  dari pada \textit{range} 25. hal ini wajar karena semakin besar \textit{range} dalam \textit{flocking} yang digunakan maka semakin mudah dalam partikel berkelompok. Pada partikel dengan \textit{range} 50 berkelompok adalah 4 partikel sedangkan pada partikel dengan \textit{range} 25 berkelompok adalah 2 partikel. 
 
@@ -35,7 +41,7 @@ Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion})
 % \hspace{0.6cm}Hasil sementara berupa gerak flocking yaitu allignment, separation dan kohesion yang dipadukan dengan fungsi mencari titik pusat. Metode yang digunakan masih euler karena memperhitungkan buffer yang terjadi jika memakai runge kutta.  Koeffisien separation divariasikan dengan racism dan introversion agar terlihat jamaah mempunyai identitas yang berbeda. Pembentukan formasi berdasarkan warna partikel dimana partikel mampu membedakan satu sama lain 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Flocking dengan Gaya Dominan(Circular Motion)}%\label{sec:alat}
+\section{\textit{Flocking} dengan Gaya Dominan(\textit{Circular Motion})}%\label{sec:alat}
 
 \begin{figure}
 \centering
@@ -43,15 +49,17 @@ Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion})
 \subfigure[Hasil Model dengan ditambahkan gaya dominan, N=100]{\label{fig:2grafikmodel4gayadengan dominanforce}\includegraphics[scale=0.6]{gambar/gambar3tawafflocking25}}
 
 \hfill
-\subfigure[Grafik Model Flocking dengan gaya dominan, range 25 N=100]{\label{fig:grafik flocking dengan gaya dominan range 25}\includegraphics[scale=0.45]{gambar/datagrafik/range25homogen}}
+\subfigure[Grafik Model Flocking dengan gaya dominan, range 25 N=100]{\label{fig:grafik flocking dengan gaya dominan range 25}\includegraphics[scale=0.7]{gambar/datagrafik/range25homogen}}
 \hfill
-\subfigure[Grafik Model Flocking dengan gaya dominan range 50 N=100]{\label{fig:grafik flocking dengan gaya dominan range 50}\includegraphics[scale=0.45]{gambar/datagrafik/range50homogen}}
+\subfigure[Grafik Model Flocking dengan gaya dominan range 50 N=100]{\label{fig:grafik flocking dengan gaya dominan range 50}\includegraphics[scale=0.7]{gambar/datagrafik/range50homogen}}
+\caption{Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50 ditambah dengan dominan force tawaf}
+\label{fig:2grafikmodel4gayadengan dominanforce}
 \end{figure}
 \hspace{0.6cm} Pada bagian ini ditambahkannya gaya dominan pada persamaan 2.5 dimana gaya dominan ini berfungsi mengikat partikel untuk berputar pada porosnya.Terdapat perbedaan antara pergerakan tanpa circular motion adalah \textit{flocking} hanya bekerja pada area tawaf. Dan partikel diluar area tersebut akan perlahan mendekati area tawaf. Hal ini dilakukan untuk mendekati \citep{Nasir2016} dan \citep{Kim2014}. Dimana apa yang dilakukan nasir adalah mengelompokan partikel dalam sebuah group dikelilingi partikel yang homogen. sedangkan pada \citep{Kim2014} mengamplikasikan \textit{flocking} ditambahkan dengan reciprocal coalition avoidance. untuk memperlihatkan interaksi partikel yang lebih tidak bersinggungan. Jika dapat dianalisis hasil pada \ref{fig:2grafikmodel4gayadengan dominanforce} didapat konsep \citep{Nasir2016} yang menggolongkan partikel dan konsep dari \citep{Kim2014} untuk \textit{flocking} berbasis kecepatan.
 
 \hspace{0.6cm}Pada kedua grafik, model \textit{flocking} dengan gaya dominan \ref{fig:grafik flocking dengan gaya dominan range 25},\ref{fig:grafik flocking dengan gaya dominan range 50} menggunakan 2 variabel \textit{range} yang berbeda yaitu 25 dan 50. Kedua grafik jika dibandingkan dengan hasil grafik awal tidak mencapai keadaan \textit{flocking}. Hal ini dipengaruhi oleh gaya dominan, untuk mencapai \textit{flocking} yang linier maka dilakukan simulasi kembali pada bagian bab selanjutnya. 
 
-\section{Flocking dengan Gaya Dominan(Circular Motion) partikel dengan Karakteristik}%\label{sec:alat}
+\section{\textit{Flocking} dengan Gaya Dominan(\textit{Circular Motion}) partikel dengan Karakteristik}%\label{sec:alat}
 
 % \begin{figure}
 % \centering
@@ -60,14 +68,16 @@ Hasil pada model \textit{flocking} tanpa gerakan tawaf(\textit{circular motion})
 % \end{figure}
 \begin{figure}
 \centering
-\subfigure[Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.4]{gambar/gambar4tawafflocking25variabel}}
+\subfigure[Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.5]{gambar/gambar4tawafflocking25variabel}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.45]{gambar/datagrafik/range25heterogen}}
-
-
-\subfigure[Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.4]{gambar/gambar5tawafflocking50variabel}}
+\subfigure[Grafik Model Flocking dengan range 25 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 25 dominan force}\includegraphics[scale=0.7]{gambar/datagrafik/range25heterogen}}
+\end{figure}
+%\pagebreak
+\begin{figure}\
+\centering
+\subfigure[Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.5,page=26]{gambar/gambar5tawafflocking50variabel}}
 \hfill
-\subfigure[Grafik Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.45]{gambar/datagrafik/range50heterogen}}
+\subfigure[Grafik Model Flocking dengan range 50 N=100 gaya dominan tawaf]{\label{fig:flocking dengan range 50 dominan force}\includegraphics[scale=0.7,page=26]{gambar/datagrafik/range50heterogen}}
 
 \caption{Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50 ditambah dengan dominan force tawaf}
 \label{fig:2grafikmodel4gaya}

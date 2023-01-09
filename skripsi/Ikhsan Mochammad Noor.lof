@@ -1,20 +1,21 @@
 \babel@toc {bahasa}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Bentuk Gerak Pensejajaran}}{8}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Bentuk Gerak Pemusatan}}{9}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Bentuk Gerak Pemisahan}}{9}{figure.2.3}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Bentuk Gerak Pensejajaran\citep {Reynolds1987}}}{8}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Bentuk Gerak Pemusatan\citep {Reynolds1987}}}{9}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Bentuk Gerak Pemisahan\citep {Reynolds1987}}}{9}{figure.2.3}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Model partikel sebagai \emph {boids}}}{11}{figure.2.4}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Model Area Masjidil Haram}}{11}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Perbandingan euler dan runge-kutta}}{13}{figure.2.6}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Model Area Masjidil Haram \citep {Curtis2011}}}{11}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Perbandingan Euler dan Runge-Kutta}}{13}{figure.2.6}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Algoritma Pemograman.}}{18}{figure.3.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50}}{20}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50 ditambah dengan dominan force tawaf}}{24}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Hasil Gerak Partikel pada \citep {Kim2014}}}{25}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Hasil model oleh Nasir}}{26}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Hasil Flocking Bajec}}{27}{figure.4.5}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Hasil Model alligment,separation dan kohesi dengan range 25}}{21}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Hasil Model alligment,separation dan kohesi dengan range 50}}{22}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Hasil Model alligment,separation dan kohesi dengan range 25 dan range 50 ditambah dengan dominan force tawaf}}{26}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Hasil Gerak Partikel pada \citep {Kim2014}}}{27}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Hasil model oleh Nasir}}{28}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Hasil Flocking Bajec}}{29}{figure.4.6}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
