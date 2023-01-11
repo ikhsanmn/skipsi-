@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  10 JAN 2023 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  11 JAN 2023 09:12
 entering extended mode
 **"./Ikhsan Mochammad Noor.tex"
 (Ikhsan Mochammad Noor.tex
@@ -1135,6 +1135,10 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box98
 ) (Ikhsan Mochammad Noor.aux
 
+LaTeX Warning: Label `fig:2grafikmodel4gayadengan dominanforce' multiply define
+d.
+
+
 LaTeX Warning: Label `fig:flocking dengan range 25 dominan force' multiply defi
 ned.
 
@@ -1271,7 +1275,7 @@ LaTeX Info: Redefining \nameref on input line 188.
 \c@lstlisting=\count369
 
 (file/cover.tex
-<template/uin.jpg, id=251, 214.55156pt x 267.24844pt>
+<template/uin.jpg, id=243, 214.55156pt x 267.24844pt>
 File: template/uin.jpg Graphic file (type jpg)
 <use template/uin.jpg>
 Package pdftex.def Info: template/uin.jpg  used on input line 16.
@@ -1430,7 +1434,7 @@ Chapter 2.
 [7
 
 ]
-<gambar/allignment.jpg, id=571, 178.41656pt x 116.68594pt>
+<gambar/allignment.jpg, id=566, 178.41656pt x 116.68594pt>
 File: gambar/allignment.jpg Graphic file (type jpg)
 <use gambar/allignment.jpg>
 Package pdftex.def Info: gambar/allignment.jpg  used on input line 49.
@@ -1441,7 +1445,7 @@ Package pdftex.def Info: gambar/allignment.jpg  used on input line 49.
                                                   \__shipout_drop_firstpage_...
 l.55 
       <./gambar/allignment.jpg>]
-<gambar/cohesion.jpg, id=590, 177.66376pt x 118.19156pt>
+<gambar/cohesion.jpg, id=585, 177.66376pt x 118.19156pt>
 File: gambar/cohesion.jpg Graphic file (type jpg)
 <use gambar/cohesion.jpg>
 Package pdftex.def Info: gambar/cohesion.jpg  used on input line 61.
@@ -1453,7 +1457,7 @@ Overfull \hbox (1.35739pt too wide) detected at line 73
 sienintroversion \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 koefisienracism
  []
 
-<gambar/separation.jpg, id=595, 177.66376pt x 117.43875pt>
+<gambar/separation.jpg, id=590, 177.66376pt x 117.43875pt>
 File: gambar/separation.jpg Graphic file (type jpg)
 <use gambar/separation.jpg>
 Package pdftex.def Info: gambar/separation.jpg  used on input line 77.
@@ -1469,13 +1473,13 @@ l.83
                                                   \__shipout_drop_firstpage_...
 l.83 
       <./gambar/cohesion.jpg> <./gambar/separation.jpg>]
-<gambar/modelboids2.png, id=607, 135.50626pt x 152.06813pt>
+<gambar/modelboids2.png, id=602, 135.50626pt x 152.06813pt>
 File: gambar/modelboids2.png Graphic file (type png)
 <use gambar/modelboids2.png>
 Package pdftex.def Info: gambar/modelboids2.png  used on input line 104.
 (pdftex.def)             Requested size: 81.30437pt x 91.24158pt.
  [10]
-<gambar/layout2dmasjidilharam.png, id=615, 853.1875pt x 585.18625pt>
+<gambar/layout2dmasjidilharam.png, id=610, 853.1875pt x 585.18625pt>
 File: gambar/layout2dmasjidilharam.png Graphic file (type png)
 <use gambar/layout2dmasjidilharam.png>
 Package pdftex.def Info: gambar/layout2dmasjidilharam.png  used on input line 1
@@ -1493,7 +1497,7 @@ l.120
 l.120 
        <./gambar/modelboids2.png> <./gambar/layout2dmasjidilharam.png>]
 [12]
-<gambar/comparison_euler.png, id=640, 722.7pt x 451.6875pt>
+<gambar/comparison_euler.png, id=635, 722.7pt x 451.6875pt>
 File: gambar/comparison_euler.png Graphic file (type png)
 <use gambar/comparison_euler.png>
 Package pdftex.def Info: gambar/comparison_euler.png  used on input line 189.
@@ -1522,7 +1526,7 @@ Overfull \hbox (47.45741pt too wide) in paragraph at lines 98--109
  [] 
  []
 
-<gambar/diagram.jpg, id=669, 569.87906pt x 371.13657pt>
+<gambar/diagram.jpg, id=664, 569.87906pt x 371.13657pt>
 File: gambar/diagram.jpg Graphic file (type jpg)
 <use gambar/diagram.jpg>
 Package pdftex.def Info: gambar/diagram.jpg  used on input line 118.
@@ -1551,13 +1555,13 @@ Overfull \hbox (3.503pt too wide) in paragraph at lines 131--132
 
 ) (file/hasil.tex [19]
 Chapter 4.
-<gambar/gambar1notawafflocking25.png, id=683, 601.4972pt x 411.03563pt>
+<gambar/gambar1notawafflocking25.png, id=678, 601.4972pt x 411.03563pt>
 File: gambar/gambar1notawafflocking25.png Graphic file (type png)
 <use gambar/gambar1notawafflocking25.png>
 Package pdftex.def Info: gambar/gambar1notawafflocking25.png  used on input lin
 e 19.
 (pdftex.def)             Requested size: 300.74786pt x 205.5173pt.
-<gambar/datagrafik/range25homogennoflocking.png, id=684, 472.76625pt x 152.0681
+<gambar/datagrafik/range25homogennoflocking.png, id=679, 472.76625pt x 152.0681
 3pt>
 File: gambar/datagrafik/range25homogennoflocking.png Graphic file (type png)
 <use gambar/datagrafik/range25homogennoflocking.png>
@@ -1577,13 +1581,13 @@ Overfull \vbox (11.0882pt too high) has occurred while \output is active []
 l.26 
       <./gambar/gambar1notawafflocking25.png> <./gambar/datagrafik/range25homog
 ennoflocking.png>]
-<gambar/gambar2notawafflocking50.png, id=698, 596.98032pt x 412.54124pt>
+<gambar/gambar2notawafflocking50.png, id=693, 596.98032pt x 412.54124pt>
 File: gambar/gambar2notawafflocking50.png Graphic file (type png)
 <use gambar/gambar2notawafflocking50.png>
 Package pdftex.def Info: gambar/gambar2notawafflocking50.png  used on input lin
 e 29.
 (pdftex.def)             Requested size: 298.48943pt x 206.27011pt.
-<gambar/datagrafik/range50noflocking.png, id=699, 464.4853pt x 152.82094pt>
+<gambar/datagrafik/range50noflocking.png, id=694, 464.4853pt x 152.82094pt>
 File: gambar/datagrafik/range50noflocking.png Graphic file (type png)
 <use gambar/datagrafik/range50noflocking.png>
 Package pdftex.def Info: gambar/datagrafik/range50noflocking.png  used on input
@@ -1595,19 +1599,19 @@ Overfull \hbox (3.0031pt too wide) in paragraph at lines 44--44
 m/b/it/17.28 Circular Mo-tion\T1/ptm/b/n/17.28 )| 
  []
 
-<gambar/gambar3tawafflocking25.png, id=707, 599.99156pt x 413.29407pt>
+<gambar/gambar3tawafflocking25.png, id=702, 599.99156pt x 413.29407pt>
 File: gambar/gambar3tawafflocking25.png Graphic file (type png)
 <use gambar/gambar3tawafflocking25.png>
 Package pdftex.def Info: gambar/gambar3tawafflocking25.png  used on input line 
 49.
 (pdftex.def)             Requested size: 359.99771pt x 247.97835pt.
-<gambar/datagrafik/range25homogen.png, id=708, 464.4853pt x 164.86594pt>
+<gambar/datagrafik/range25homogen.png, id=703, 464.4853pt x 164.86594pt>
 File: gambar/datagrafik/range25homogen.png Graphic file (type png)
 <use gambar/datagrafik/range25homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25homogen.png  used on input li
 ne 52.
 (pdftex.def)             Requested size: 325.1375pt x 115.40535pt.
-<gambar/datagrafik/range50homogen.png, id=709, 466.74374pt x 161.85469pt>
+<gambar/datagrafik/range50homogen.png, id=704, 466.74374pt x 161.85469pt>
 File: gambar/datagrafik/range50homogen.png Graphic file (type png)
 <use gambar/datagrafik/range50homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50homogen.png  used on input li
@@ -1617,200 +1621,217 @@ ne 54.
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.56 \hspace{0.6cm}
+l.58 \hspace{0.6cm}
                     Pada bagian ini ditambahkannya gaya dominan pada persama...
  <./gambar/gambar2notawafflocking50.png> <./gambar/datagrafik/range50noflocking
-.png>] [23 <./gambar/gambar3tawafflocking25.png> <./gambar/datagrafik/range25ho
-mogen.png> <./gambar/datagrafik/range50homogen.png>]
-Overfull \hbox (3.0031pt too wide) in paragraph at lines 60--60
+.png>]
+Overfull \vbox (12.65546pt too high) has occurred while \output is active []
+
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.58 \hspace{0.6cm}
+                    Pada bagian ini ditambahkannya gaya dominan pada persama...
+ <./gambar/gambar3tawafflocking25.png> <./gambar/datagrafik/range25homogen.png>
+ <./gambar/datagrafik/range50homogen.png>]
+Overfull \hbox (3.0031pt too wide) in paragraph at lines 62--62
 |[]\T1/ptm/b/it/17.28 Flocking \T1/ptm/b/n/17.28 de-ngan Ga-ya Do-min-an(\T1/pt
 m/b/it/17.28 Circular Mo-tion\T1/ptm/b/n/17.28 )
  []
 
-<gambar/gambar4tawafflocking25variabel.png, id=742, 599.99156pt x 411.03563pt>
+<gambar/gambar4tawafflocking25variabel.png, id=737, 599.99156pt x 411.03563pt>
 File: gambar/gambar4tawafflocking25variabel.png Graphic file (type png)
 <use gambar/gambar4tawafflocking25variabel.png>
 Package pdftex.def Info: gambar/gambar4tawafflocking25variabel.png  used on inp
-ut line 69.
+ut line 71.
 (pdftex.def)             Requested size: 299.99504pt x 205.5173pt.
-<gambar/datagrafik/range25heterogen.png, id=743, 464.4853pt x 158.84344pt>
+<gambar/datagrafik/range25heterogen.png, id=738, 464.4853pt x 158.84344pt>
 File: gambar/datagrafik/range25heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range25heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25heterogen.png  used on input 
-line 71.
+line 73.
 (pdftex.def)             Requested size: 325.1375pt x 111.18964pt.
-<gambar/gambar5tawafflocking50variabel.png, id=744, 600.74437pt x 411.78844pt>
+<gambar/gambar5tawafflocking50variabel.png, id=739, 600.74437pt x 411.78844pt>
 File: gambar/gambar5tawafflocking50variabel.png Graphic file (type png)
 <use gambar/gambar5tawafflocking50variabel.png>
 Package pdftex.def Info: gambar/gambar5tawafflocking50variabel.png  used on inp
-ut line 75.
+ut line 78.
 (pdftex.def)             Requested size: 300.37144pt x 205.8937pt.
-<gambar/datagrafik/range50heterogen.png, id=745, 429.85594pt x 149.05687pt>
+<gambar/datagrafik/range50heterogen.png, id=740, 429.85594pt x 149.05687pt>
 File: gambar/datagrafik/range50heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range50heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50heterogen.png  used on input 
-line 77.
+line 80.
 (pdftex.def)             Requested size: 300.89711pt x 104.3391pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
-[][]
- []
-
 [24] [25 <./gambar/gambar4tawafflocking25variabel.png> <./gambar/datagrafik/ran
 ge25heterogen.png>] [26pdfTeX warning (ext4): destination with the same identif
-ier (name{figure.4.3}) has been already used, duplicate ignored
+ier (name{figure.4.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.107 
+l.110 
        <./gambar/gambar5tawafflocking50variabel.png> <./gambar/datagrafik/range
 50heterogen.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 117.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 117.
-
-<gambar/Kim2014.png, id=779, 226.59656pt x 170.13562pt>
-File: gambar/Kim2014.png Graphic file (type png)
-<use gambar/Kim2014.png>
-Package pdftex.def Info: gambar/Kim2014.png  used on input line 120.
-(pdftex.def)             Requested size: 135.95897pt x 102.08215pt.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 128.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 128.
-
-<gambar/PaperNasir.JPG, id=785, 720.44156pt x 584.93532pt>
-File: gambar/PaperNasir.JPG Graphic file (type jpg)
-<use gambar/PaperNasir.JPG>
-Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 131.
-(pdftex.def)             Requested size: 288.17151pt x 233.96997pt.
-[27pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.135 \hspace{0.6cm}
-                    Bentuk model tawaf dari nasir\citep{Nasir2016} ditunjuka...
- <./gambar/Kim2014.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 139.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 139.
-
-<gambar/Bajec.PNG, id=799, 709.65125pt x 356.33125pt>
+<gambar/Bajec.PNG, id=772, 709.65125pt x 356.33125pt>
 File: gambar/Bajec.PNG Graphic file (type png)
 <use gambar/Bajec.PNG>
-Package pdftex.def Info: gambar/Bajec.PNG  used on input line 142.
+Package pdftex.def Info: gambar/Bajec.PNG  used on input line 124.
 (pdftex.def)             Requested size: 283.85547pt x 142.52997pt.
-[28pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+<gambar/sequenceperbandingan/00001.png, id=775, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00001.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00001.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00001.png  used on input l
+ine 130.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00100.png, id=776, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00100.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00100.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00100.png  used on input l
+ine 131.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00200.png, id=777, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00200.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00200.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00200.png  used on input l
+ine 132.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00300.png, id=778, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00300.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00300.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00300.png  used on input l
+ine 135.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00400.png, id=779, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00400.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00400.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00400.png  used on input l
+ine 136.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00500.png, id=780, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00500.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00500.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00500.png  used on input l
+ine 137.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00600.png, id=781, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00600.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00600.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00600.png  used on input l
+ine 140.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00700.png, id=782, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00700.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00700.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00700.png  used on input l
+ine 141.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+<gambar/sequenceperbandingan/00800.png, id=783, 1284.8pt x 873.2625pt>
+File: gambar/sequenceperbandingan/00800.png Graphic file (type png)
+<use gambar/sequenceperbandingan/00800.png>
+Package pdftex.def Info: gambar/sequenceperbandingan/00800.png  used on input l
+ine 142.
+(pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
+ [27pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.152 
+       <./gambar/Bajec.PNG (PNG copy)>]
+! Undefined control sequence.
+l.153 ...bih terbagi dalam kelompok kecil(\textitt
+                                                  {segmented}), hal ini dapa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<gambar/Kim2014.png, id=795, 226.59656pt x 170.13562pt>
+File: gambar/Kim2014.png Graphic file (type png)
+<use gambar/Kim2014.png>
+Package pdftex.def Info: gambar/Kim2014.png  used on input line 158.
+(pdftex.def)             Requested size: 135.95897pt x 102.08215pt.
+<gambar/kimmap.PNG, id=796, 261.22594pt x 118.19156pt>
+File: gambar/kimmap.PNG Graphic file (type png)
+<use gambar/kimmap.PNG>
+Package pdftex.def Info: gambar/kimmap.PNG  used on input line 159.
+(pdftex.def)             Requested size: 156.73676pt x 70.91548pt.
+<gambar/kimgrafik.PNG, id=797, 280.04625pt x 127.22531pt>
+File: gambar/kimgrafik.PNG Graphic file (type png)
+<use gambar/kimgrafik.PNG>
+Package pdftex.def Info: gambar/kimgrafik.PNG  used on input line 160.
+(pdftex.def)             Requested size: 168.02904pt x 76.33577pt.
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.146 \hspace{0.6cm}
-                    Hasil penelitian yang telah dilakukan oleh \citep{Bajec2...
- <./gambar/PaperNasir.JPG>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 153.
-
-) (file/penutup.tex [29pdfTeX warning (ext4): destination with the same identif
-ier (name{figure.4.6}) has been already used, duplicate ignored
+l.164 
+       <./gambar/sequenceperbandingan/00001.png> <./gambar/sequenceperbandingan
+/00100.png> <./gambar/sequenceperbandingan/00200.png> <./gambar/sequenceperband
+ingan/00300.png> <./gambar/sequenceperbandingan/00400.png> <./gambar/sequencepe
+rbandingan/00500.png> <./gambar/sequenceperbandingan/00600.png> <./gambar/seque
+nceperbandingan/00700.png> <./gambar/sequenceperbandingan/00800.png>]
+<gambar/hasilntukdibandingkankim.PNG, id=804, 298.86656pt x 45.92157pt>
+File: gambar/hasilntukdibandingkankim.PNG Graphic file (type png)
+<use gambar/hasilntukdibandingkankim.PNG>
+Package pdftex.def Info: gambar/hasilntukdibandingkankim.PNG  used on input lin
+e 167.
+(pdftex.def)             Requested size: 179.3213pt x 27.55315pt.
+File: gambar/datagrafik/range25heterogen.png Graphic file (type png)
+<use gambar/datagrafik/range25heterogen.png>
+Package pdftex.def Info: gambar/datagrafik/range25heterogen.png  used on input 
+line 168.
+(pdftex.def)             Requested size: 325.1375pt x 111.18964pt.
+<gambar/hasilntukdibandingkankim2.PNG, id=805, 446.41782pt x 71.51718pt>
+File: gambar/hasilntukdibandingkankim2.PNG Graphic file (type png)
+<use gambar/hasilntukdibandingkankim2.PNG>
+Package pdftex.def Info: gambar/hasilntukdibandingkankim2.PNG  used on input li
+ne 175.
+(pdftex.def)             Requested size: 267.85275pt x 42.91063pt.
+File: gambar/datagrafik/range50heterogen.png Graphic file (type png)
+<use gambar/datagrafik/range50heterogen.png>
+Package pdftex.def Info: gambar/datagrafik/range50heterogen.png  used on input 
+line 176.
+(pdftex.def)             Requested size: 300.89711pt x 104.3391pt.
+ [29pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.3 \chapter
-            {PENUTUP}\label{cha:penutup} <./gambar/Bajec.PNG (PNG copy)>]
+l.180 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.180 
+       <./gambar/Kim2014.png> <./gambar/kimmap.PNG> <./gambar/kimgrafik.PNG> <.
+/gambar/hasilntukdibandingkankim.PNG>]
+<gambar/PaperNasir.JPG, id=820, 720.44156pt x 584.93532pt>
+File: gambar/PaperNasir.JPG Graphic file (type jpg)
+<use gambar/PaperNasir.JPG>
+Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 188.
+(pdftex.def)             Requested size: 288.17151pt x 233.96997pt.
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.193 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.193 
+       <./gambar/hasilntukdibandingkankim2.PNG> <./gambar/PaperNasir.JPG>]
+! Undefined control sequence.
+l.194 ...i. Perbedaan juga ada pada basis \texttit
+                                                  {flocking system} yang dig...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (file/penutup.tex [31]
 Chapter 5.
 
 Overfull \hbox (0.58557pt too wide) in paragraph at lines 11--12
@@ -1818,9 +1839,9 @@ Overfull \hbox (0.58557pt too wide) in paragraph at lines 11--12
 -lam ben-tuk gra-
  []
 
-[30
+[32
 
-]) [31] (Ikhsan Mochammad Noor.bbl
+]) [33] (Ikhsan Mochammad Noor.bbl
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 1.
 
@@ -1843,17 +1864,17 @@ Underfull \hbox (badness 4429) in paragraph at lines 54--58
 a-sim, Gu-tub,
  []
 
-[32
+[34
 
 
-]) (file/index.tex [33]
+]) (file/index.tex [35]
 Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
  []
 
-[34
+[36
 
-]) (appendix.tex [35]pdfTeX warning (ext4): destination with the same identifie
+]) (appendix.tex [37]pdfTeX warning (ext4): destination with the same identifie
 r (name{chapter.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1870,7 +1891,7 @@ Overfull \hbox (26.46573pt too wide) in paragraph at lines 26--27
 [][][][][][][][][][][][][][][][] 
  []
 
-[36
+[38
 
 
 ]
@@ -1888,17 +1909,17 @@ Overfull \hbox (19.26566pt too wide) in paragraph at lines 63--64
 [][][][][][][][][][][][][] 
  []
 
-[37]pdfTeX warning (ext4): destination with the same identifier (name{section.1
+[39]pdfTeX warning (ext4): destination with the same identifier (name{section.1
 .3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.93 \section{vect3.js}
-                        [38]
+                        [40]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 120--121
 [][][][][][][][][][][][][] 
  []
 
-[39]
+[41]
 Overfull \hbox (4.86551pt too wide) in paragraph at lines 154--155
 [][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1913,7 +1934,7 @@ Overfull \hbox (4.86551pt too wide) in paragraph at lines 156--157
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-[40] [41]
+[42] [43]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 214--215
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1928,7 +1949,7 @@ Overfull \hbox (249.668pt too wide) in paragraph at lines 245--246
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[42]
+[44]
 Overfull \hbox (120.06668pt too wide) in paragraph at lines 247--248
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2040,7 +2061,7 @@ Overfull \hbox (134.46683pt too wide) in paragraph at lines 280--281
 [][][][][][][][][][][][][][][][][][][] 
  []
 
-[43]
+[45]
 Overfull \hbox (235.26785pt too wide) in paragraph at lines 283--284
 [][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2152,7 +2173,7 @@ Overfull \hbox (40.86588pt too wide) in paragraph at lines 314--315
 [][][][][][][][][][][][][][][] 
  []
 
-[44]
+[46]
 Overfull \hbox (120.06668pt too wide) in paragraph at lines 318--319
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2187,7 +2208,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.1.5})
 <to be read again> 
                    \relax 
 l.349 \section{Kode Program boids.js}
-                                      [45]
+                                      [47]
 Overfull \hbox (48.06595pt too wide) in paragraph at lines 375--376
 [][][][][][][][][][][][][][][][][][] 
  []
@@ -2222,7 +2243,7 @@ Overfull \hbox (48.06595pt too wide) in paragraph at lines 388--390
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[46]
+[48]
 Overfull \hbox (98.46646pt too wide) in paragraph at lines 395--396
 [][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2269,7 +2290,7 @@ Overfull \hbox (127.26675pt too wide) in paragraph at lines 424--426
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[47]
+[49]
 Overfull \hbox (192.06741pt too wide) in paragraph at lines 450--451
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2279,7 +2300,7 @@ Overfull \hbox (19.26566pt too wide) in paragraph at lines 459--460
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[48]
+[50]
 Overfull \hbox (127.26675pt too wide) in paragraph at lines 466--467
 [][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2314,7 +2335,7 @@ Overfull \hbox (134.46683pt too wide) in paragraph at lines 492--494
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[49]
+[51]
 Overfull \hbox (84.06631pt too wide) in paragraph at lines 500--502
 [][][][][][][][][][][][][][][][] 
  []
@@ -2329,7 +2350,7 @@ Overfull \hbox (98.46646pt too wide) in paragraph at lines 532--534
 [][][][][][][][][][][][][][][][][][][] 
  []
 
-[50]
+[52]
 Overfull \hbox (98.46646pt too wide) in paragraph at lines 537--538
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2349,7 +2370,7 @@ Overfull \hbox (156.06705pt too wide) in paragraph at lines 542--543
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[51]
+[53]
 Overfull \hbox (444.06998pt too wide) in paragraph at lines 572--573
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][] 
@@ -2370,12 +2391,12 @@ Overfull \hbox (26.46573pt too wide) in paragraph at lines 600--601
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[52]
+[54]
 Overfull \hbox (26.46573pt too wide) in paragraph at lines 624--625
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[53]
+[55]
 Overfull \hbox (436.8699pt too wide) in paragraph at lines 643--644
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][] 
@@ -2401,7 +2422,7 @@ Overfull \hbox (12.06558pt too wide) in paragraph at lines 669--672
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[54]
+[56]
 Overfull \hbox (33.6658pt too wide) in paragraph at lines 692--693
 [][][][][][][][][][][][][][][] 
  []
@@ -2426,7 +2447,7 @@ Overfull \hbox (242.46793pt too wide) in paragraph at lines 700--702
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[55]
+[57]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 748--749
 [][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2436,7 +2457,7 @@ Overfull \hbox (134.46683pt too wide) in paragraph at lines 749--750
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[56]
+[58]
 Overfull \hbox (480.07034pt too wide) in paragraph at lines 751--752
 [][][][][] 
  []
@@ -2490,7 +2511,7 @@ Overfull \hbox (487.27042pt too wide) in paragraph at lines 785--786
 [][][][][] 
  []
 
-[57]
+[59]
 Overfull \hbox (62.4661pt too wide) in paragraph at lines 786--787
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2592,7 +2613,7 @@ Overfull \hbox (724.87283pt too wide) in paragraph at lines 821--822
 ][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[58]
+[60]
 Overfull \hbox (422.46976pt too wide) in paragraph at lines 822--824
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][] 
@@ -2644,7 +2665,7 @@ Overfull \hbox (69.66617pt too wide) in paragraph at lines 845--847
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[59]
+[61]
 Overfull \hbox (55.26602pt too wide) in paragraph at lines 878--879
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2654,7 +2675,7 @@ Overfull \hbox (62.4661pt too wide) in paragraph at lines 883--884
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[60]
+[62]
 Overfull \hbox (156.06705pt too wide) in paragraph at lines 895--896
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2689,7 +2710,7 @@ Overfull \hbox (48.06595pt too wide) in paragraph at lines 925--926
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[61]
+[63]
 Overfull \hbox (156.06705pt too wide) in paragraph at lines 950--951
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2714,7 +2735,7 @@ Overfull \hbox (4.86551pt too wide) in paragraph at lines 961--962
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[62]
+[64]
 Overfull \hbox (300.06851pt too wide) in paragraph at lines 978--979
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2739,7 +2760,7 @@ Overfull \hbox (62.4661pt too wide) in paragraph at lines 998--999
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[63] [64]
+[65] [66]
 Overfull \hbox (631.27188pt too wide) in paragraph at lines 1054--1055
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
@@ -2765,7 +2786,7 @@ Overfull \hbox (69.66617pt too wide) in paragraph at lines 1072--1074
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[65]
+[67]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1074--1075
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2823,7 +2844,7 @@ Overfull \hbox (48.06595pt too wide) in paragraph at lines 1106--1107
 [][][][][][][][][][][][][][] 
  []
 
-[66]pdfTeX warning (ext4): destination with the same identifier (name{section.1
+[68]pdfTeX warning (ext4): destination with the same identifier (name{section.1
 .6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2854,7 +2875,7 @@ Overfull \hbox (26.46573pt too wide) in paragraph at lines 1144--1145
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[67]
+[69]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1150--1151
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2869,7 +2890,7 @@ Overfull \hbox (48.06595pt too wide) in paragraph at lines 1180--1181
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[68]
+[70]
 Overfull \hbox (48.06595pt too wide) in paragraph at lines 1190--1191
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2879,7 +2900,7 @@ Overfull \hbox (62.4661pt too wide) in paragraph at lines 1197--1198
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[69]
+[71]
 Overfull \hbox (19.26566pt too wide) in paragraph at lines 1231--1233
 [][][][][][][][][][][][][] 
  []
@@ -2889,7 +2910,7 @@ Overfull \hbox (12.06558pt too wide) in paragraph at lines 1236--1237
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[70] [71] [72]
+[72] [73] [74]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1346--1347
 [][][][][][][][][][][][][][][][] 
  []
@@ -2949,7 +2970,7 @@ Overfull \hbox (271.26822pt too wide) in paragraph at lines 1361--1362
 ][][][][][][][][][][][][][] 
  []
 
-[73]
+[75]
 Overfull \hbox (494.47049pt too wide) in paragraph at lines 1362--1363
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][] 
@@ -2961,7 +2982,7 @@ Overfull \hbox (508.87064pt too wide) in paragraph at lines 1363--1364
 ][][][][][][][][][][][][][][][][] 
  []
 
-[74]
+[76]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1402--1403
 [][][][][][][][][][][][] 
  []
@@ -3038,7 +3059,7 @@ Overfull \hbox (508.87064pt too wide) in paragraph at lines 1431--1432
 ][][][][][][][][][][][][][][][][] 
  []
 
-[75]
+[77]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1465--1466
 [][][][][][][][][][][][][][][][] 
  []
@@ -3053,7 +3074,7 @@ Overfull \hbox (192.06741pt too wide) in paragraph at lines 1468--1470
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[76]
+[78]
 Overfull \hbox (134.46683pt too wide) in paragraph at lines 1470--1471
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -3110,12 +3131,12 @@ Overfull \hbox (508.87064pt too wide) in paragraph at lines 1482--1483
 ][][][][][][][][][][][][][][][][] 
  []
 
-[77] [78] [79]
+[79] [80] [81]
 Overfull \hbox (40.86588pt too wide) in paragraph at lines 1611--1612
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-[80]
+[82]
 Overfull \hbox (55.26602pt too wide) in paragraph at lines 1646--1647
 [][][][][][][][][][][][][][][][][][][] 
  []
@@ -3125,7 +3146,7 @@ Overfull \hbox (40.86588pt too wide) in paragraph at lines 1647--1648
 [][][][][][][][][][][][][][][][][][][] 
  []
 
-[81]
+[83]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 1662--1663
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
 
@@ -3137,7 +3158,7 @@ Overfull \hbox (12.06558pt too wide) in paragraph at lines 1664--1665
 
  []
 
-[82]
+[84]
 Overfull \hbox (170.4672pt too wide) in paragraph at lines 1712--1713
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -3147,7 +3168,7 @@ Overfull \hbox (163.26712pt too wide) in paragraph at lines 1713--1714
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[83] [84]
+[85] [86]
 Overfull \hbox (48.06595pt too wide) in paragraph at lines 1787--1788
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
 
@@ -3158,7 +3179,7 @@ Overfull \hbox (76.86624pt too wide) in paragraph at lines 1788--1789
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[85]
+[87]
 Overfull \hbox (33.6658pt too wide) in paragraph at lines 1813--1814
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][] 
@@ -3170,22 +3191,22 @@ Overfull \hbox (33.6658pt too wide) in paragraph at lines 1814--1815
 ][][][] 
  []
 
-[86]
+[88]
 Overfull \hbox (91.26639pt too wide) in paragraph at lines 1835--1836
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-[87] [88]
+[89] [90]
 Overfull \hbox (134.46683pt too wide) in paragraph at lines 1912--1913
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[89]
+[91]
 Overfull \hbox (134.46683pt too wide) in paragraph at lines 1965--1966
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[90] [91] [92]
+[92] [93] [94]
 Overfull \hbox (148.86697pt too wide) in paragraph at lines 2065--2066
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -3195,7 +3216,7 @@ Overfull \hbox (156.06705pt too wide) in paragraph at lines 2067--2068
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[93]
+[95]
 Overfull \hbox (4.86551pt too wide) in paragraph at lines 2085--2086
 [][][][][][][][][][][][][][][][][] 
  []
@@ -3220,7 +3241,7 @@ Overfull \hbox (156.06705pt too wide) in paragraph at lines 2109--2110
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[94]
+[96]
 Overfull \hbox (19.26566pt too wide) in paragraph at lines 2129--2130
 [][][][][][][][][][][][][][][][][] 
  []
@@ -3235,7 +3256,7 @@ Overfull \hbox (84.06631pt too wide) in paragraph at lines 2152--2153
 [][][][][][][][][][][][][][][][] 
  []
 
-[95]
+[97]
 Overfull \hbox (84.06631pt too wide) in paragraph at lines 2157--2158
 [][][][][][][][][][][][][][][][] 
  []
@@ -3260,7 +3281,7 @@ Overfull \hbox (19.26566pt too wide) in paragraph at lines 2189--2190
 [][][][][][][][][][][][][][][][] 
  []
 
-[96]
+[98]
 Overfull \hbox (84.06631pt too wide) in paragraph at lines 2193--2194
 [][][][][][][][][][][][][][][][][][][] 
  []
@@ -3295,7 +3316,7 @@ Overfull \hbox (98.46646pt too wide) in paragraph at lines 2223--2224
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[97]
+[99]
 Overfull \hbox (170.4672pt too wide) in paragraph at lines 2228--2229
 [][][][][][][][][][][][][][][][][][][] 
  []
@@ -3345,7 +3366,7 @@ Overfull \hbox (26.46573pt too wide) in paragraph at lines 2261--2262
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[98]
+[100]
 Overfull \hbox (192.06741pt too wide) in paragraph at lines 2266--2267
 [][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -3385,7 +3406,7 @@ Overfull \hbox (134.46683pt too wide) in paragraph at lines 2295--2296
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[99]
+[101]
 Overfull \hbox (12.06558pt too wide) in paragraph at lines 2300--2301
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -3410,14 +3431,14 @@ Overfull \hbox (134.46683pt too wide) in paragraph at lines 2313--2314
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-(lampiran/riwayat.tex [100]pdfTeX warning (ext4): destination with the same ide
+(lampiran/riwayat.tex [102]pdfTeX warning (ext4): destination with the same ide
 ntifier (name{chapter.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.3 \chapter{Riwayat Hidup}
                            
 LAMPIRAN B.
-)) [101
+)) [103
 
 ] (Ikhsan Mochammad Noor.aux)
 
@@ -3425,14 +3446,14 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"Ikhsan Mochammad Noor".out' has not changed
 .
-(rerunfilecheck)             Checksum: 366E32C14577891A292D51D844F65C5D;11819.
+(rerunfilecheck)             Checksum: 5FF44B099AF6FFF9F887817419CD4C85;11344.
  )
 (\end occurred when \ifx on line 71 was incomplete) 
 Here is how much of TeX's memory you used:
- 33795 strings out of 478907
- 631301 string characters out of 2851891
- 1012253 words of memory out of 3000000
- 48398 multiletter control sequences out of 15000+600000
+ 33890 strings out of 478907
+ 634569 string characters out of 2851891
+ 1012539 words of memory out of 3000000
+ 48475 multiletter control sequences out of 15000+600000
  458933 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,83p,2027b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3452,9 +3473,9 @@ MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ikhsa/AppData/Local/Programs/
 MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Ikhsan Mochammad Noor.pdf" (118 pages, 1834272 bytes).
+Output written on "Ikhsan Mochammad Noor.pdf" (120 pages, 3059519 bytes).
 PDF statistics:
- 3995 PDF objects out of 4296 (max. 8388607)
- 2569 named destinations out of 2984 (max. 500000)
- 651 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4024 PDF objects out of 4296 (max. 8388607)
+ 2573 named destinations out of 2984 (max. 500000)
+ 700 words of extra memory for PDF output out of 10000 (max. 10000000)
 

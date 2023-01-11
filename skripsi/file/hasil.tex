@@ -117,40 +117,89 @@ Penambahan variabel dari kecepatan partikel ini (merah dengan 1.25 kecepatan par
 % \hspace{0.6cm}Pada Flocking 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Perbandingan Hasil Simulasi dengan Beberapa Referensi}
-\subsection{Referensi Hasil Simulasi dengan \citep{Kim2014} }%\label{sec:alat}
+
+\subsection{Perbadingan Hasil dengan Referensi Tanpa Gaya Dominan }%\label{sec:alat}
+\begin{figure}
+\centering
+\includegraphics[scale=0.4]{gambar/Bajec.PNG}
+\caption{Hasil Flocking \citep{Bajec2007}}
+\label{fig:bajec1}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00001.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00100.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00200.png}
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/00300.png}
+    \\[\smallskipamount]
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00300.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00400.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00500.png}
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/00700.png}
+    \\[\smallskipamount]
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00600.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00700.png}\hfill
+    \includegraphics[width=.32\textwidth]{gambar/sequenceperbandingan/00800.png}
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/01100.png}
+    % \\[\smallskipamount]
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/01200.png}\hfill
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/01000.png}\hfill
+    % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/01100.png}
+    % % \includegraphics[width=.24\textwidth]{gambar/sequenceperbandingan/00200.png}
+
+    \caption{Hasil \textit{Flocking} dengan \textit{range} 50}\label{fig:sequenceperbandingan}
+\end{figure}
+
+\hspace{0.6cm}Hasil penelitian yang telah dilakukan oleh \citep{Bajec2007} ditunjukan oleh \ref{fig:bajec1}. Area bergerak yang dimiliki partikel berbentuk lingkaran, Ketika partikel melewati batas tersebut maka akan ada gaya yang memaksanya bergerak kembali ke dalam. Jika dibandingkan konteks area tadi, antara hasil pada Gambar \ref{fig:sequenceperbandingan} dengan Gambar \ref{fig:bajec1}, maka hasil dari \ref{fig:sequenceperbandingan} memperlihatkan hasil \textit{flocking} yang lebih terbagi dalam kelompok kecil(\textitt{segmented}), hal ini dapat memperlihatkan kelompok kecil dalam kelompok yang lebih besar dalam pergerakan \textit{flocking}. Hal ini merupakan bentuk improvisasi dari \ref{fig:bajec1} untuk memperlihatkan segmentasi tersebut agar lebih baik.
+
+\subsection{Perbadingan Hasil dengan Referensi dengan Gaya Dominan}%\label{sec:alat}
 \begin{figure}
 \centering
 \includegraphics[scale=0.6]{gambar/Kim2014}
+\includegraphics[scale=0.6]{gambar/kimmap.PNG}
+\includegraphics[scale=0.6]{gambar/kimgrafik.PNG}
 \caption{Hasil Gerak Partikel pada \citep{Kim2014}}
 \label{fig:figkim2014}
 \end{figure}
 
-\hspace{0.6cm} Pada gambar \ref{fig:figkim2014} diperlihatkan hasil kim bahwa partikel (agen) terpadatkan di dekat pusat area gaya(kaaba). Hal ini dikarenakan terdorong oleh kerumunan agen. Pada gambar agen hijau menunjukan agen yang menunggu menyentuh titik pusat gaya(hajar aswad). Diawal simulasi agent berada dalam keadaan tidak dapat bergerak dan menghasilkan kerumunan padat. Tanpa interaksi fisis meskipun ada ruang gerak, partikel agent tidak bisa memproses ke posisi selanjutnya. Dengan tambahan interaksi fisis dengan agent selanjutnya agent dapat terdorong oleh kerumunan.
+\begin{figure}
+\centering
+\includegraphics[scale=0.6]{gambar/hasilntukdibandingkankim.PNG}
+\includegraphics[scale=0.7]{gambar/datagrafik/range25heterogen}
+\caption{Hasil Gerak Partikel pada \textit{range} 25}
+\label{fig:dominanrange25}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.6]{gambar/hasilntukdibandingkankim2.PNG}
+\includegraphics[scale=0.7]{gambar/datagrafik/range50heterogen}
+\caption{Hasil Gerak Partikel pada \textit{range} 50}
+\label{fig:dominanrange50}
+\end{figure}
+
+\hspace{0.6cm} Pada gambar \ref{fig:figkim2014} diperlihatkan hasil kim .Jika dibandingkan dengan kedua hasil \ref{fig:dominanrange25} dan \ref{fig:dominanrange50}, hasil dari \ref{fig:figkim2014} lebih mendekati pergerakan tawaf, hal ini karena gaya partikel yang berada dalam tawaf lebih besar sehingga densitas partikel tinggi. Hal lain yang dapat diperhatikan adalah kecepatan tawaf dalam 1 putaran. Pada hasil kecepatan rata-rata \ref{fig:figkim2014} di bagian area yang berbeda mempunyai kecepatan yang berbeda, sedangkan pada hasil simulasi cenderung konstan pada kecepatan tertentu. Disisi lain hasil simulasi adalah hasil ideal terjadinya \textit{flocking}, sedangkan pada hasil \ref{fig:figkim2014} cenderung dekat dengan kasus fenomena.  
+% \hspace{0.6cm} Pada gambar \ref{fig:figkim2014} diperlihatkan hasil kim bahwa partikel (agen) terpadatkan di dekat pusat area gaya(kaaba). Hal ini dikarenakan terdorong oleh kerumunan agen. Pada gambar agen hijau menunjukan agen yang menunggu menyentuh titik pusat gaya(hajar aswad). Diawal simulasi agent berada dalam keadaan tidak dapat bergerak dan menghasilkan kerumunan padat. Tanpa interaksi fisis meskipun ada ruang gerak, partikel agent tidak bisa memproses ke posisi selanjutnya. Dengan tambahan interaksi fisis dengan agent selanjutnya agent dapat terdorong oleh kerumunan.
 % \hspace{0.6cm}Dapat terlihat bentuk tawaf telah terbentuk, mungkin harus ada adjustment gaya lagi supaya geraknya selalu melawan arah jarum jam. Boundary state untuk partikel juga belum diterapkan seperti dinding kaaba dan outer dinding bagian masjid, kemunculan partikel sendiri harus ada adjustment. dan harus ada adjustment lagi tentang layar yang digunakan untuk menetukan kecepatan yang terbentuk.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Referensi Hasil Simulasi dengan \citep{Nasir2016}}%\label{sec:alat}
+% \subsection{Referensi Hasil Simulasi dengan }%\label{sec:alat}
 \begin{figure}
 \centering
 \includegraphics[scale=0.4]{gambar/PaperNasir.JPG}
-\caption{Hasil model oleh Nasir}
+\caption{Hasil model \citep{Nasir2016}}
 \label{fig:nasir1}
 \end{figure}
 \hspace{0.6cm}Bentuk model tawaf dari nasir\citep{Nasir2016} ditunjukan pada gambar diatas. Perilaku partikel berkelompok pada nasir memiliki kecepatan yang sama atau tidak lebih cepat dari partikel sekitarnya. Hal ini yang membuat formasi lebih solid, jika dibandingkan.
 
-\hspace{0.6cm} Hasil penelitian yang telah dilakukan oleh \citep{Nasir2016} ditunjukan oleh \ref{fig:nasir1}. Lingkungan yang dimiliki partikel diletakan kabah berbentuk persegi bersama dengan area bidang perisai untuk hijir ismail. Partikel bergerak berkelompok bersama dengan partikel sejenis dan membuat gerakan tawaf. Hal ini jika dibandingkan dengan dengan hasil pada \ref{fig:2grafikmodel4gaya}(kiri) terdapat banyak perbedaan, diantaranya pergerakan partikel yang cenderung lebih mendekati pusat gaya(kaaba) dan kelompok lebih dapat terpencar, kemudian membuat kelompok yang lebih kecil lagi.
+\hspace{0.6cm} Hasil penelitian yang telah dilakukan oleh \citep{Nasir2016} ditunjukan oleh \ref{fig:nasir1}. Lingkungan yang dimiliki partikel diletakan kabah berbentuk persegi bersama dengan area bidang perisai untuk hijir ismail. Partikel bergerak berkelompok secara \textit{flocking} \textit{social force} yang mengharuskan mempunyai \textit{leader}. Hal ini jika dibandingkan dengan dengan hasil pada \ref{fig:2grafikmodel4gaya}(kiri) terdapat banyak perbedaan, diantaranya pergerakan partikel yang cenderung lebih mendekati pusat gaya(kaaba) dan kelompok lebih dapat terpencar, kemudian membuat kelompok yang lebih kecil lagi. Perbedaan juga ada pada basis \texttit{flocking system} yang digunakan. Hal ini menghasilkan kelompok yang tidak terpisah dengan partikel sejenis, ini berbeda dengan hasil simulasi penulis yang menggunakan basis variasi warna.Hal lain yang dapat dibandingkan diantaranya kecepatan rata-rata tawaf. Dimana kecepatan tawaf \ref{fig:nasir1} adalah 1.29 m s-1 \citep{Nasir2016} jika melihat \ref{fig:2grafikmodel4gaya} kecepatan rata tawafnya ada pada 2.47 m s-1,perbedaan mendekati 2 kalinya. Jika dibandingkan dengan fenomena tawaf itu sendiri pendekatan simulasi penulis lebih dengan dengan kasus dari pada \citep{Nasir2016} dari sisi partikel yang dapat berpisah selama tawaf pada gaya tertentu.
 
-\subsection{Referensi Hasil Simulasi dengan \citep{Bajec2007}}%\label{sec:alat}
-\begin{figure}
-\centering
-\includegraphics[scale=0.4]{gambar/Bajec.PNG}
-\caption{Hasil Flocking Bajec}
-\label{fig:bajec1}
-\end{figure}
-\hspace{0.6cm}Hasil penelitian yang telah dilakukan oleh \citep{Bajec2007} ditunjukan oleh \ref{fig:bajec1}. Area bergerak yang dimiliki partikel berbentuk lingkaran, Ketika partikel melewati batas tersebut maka akan ada gaya yang memaksanya bergerak kembali ke dalam. Jika dibandingkan antara hasil pada Gambar \ref{fig:2grafikmodel3gaya}  dengan Gambar \ref{fig:bajec1}, maka tidak jauh berbeda. Hal ini terlihat dari pola gerak partikel yang pada awalnya tidak berkelompok kemudian menjadi berkelompok dengan beberapa kelompok kecil dan satu kelompok terbesar. 
+
+
+
 
 
 
 %\input{referensi}
 %\end{document}
 
-\subsection{Referensi Hasil Simulasi dengan \citep{Nasir2016}}%\label{sec:alat}
+%\label{sec:alat}
