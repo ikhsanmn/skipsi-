@@ -17,12 +17,24 @@
 \usepackage{amsmath}
 \usepackage{multirow}
 \usepackage{listings}
+% \usepackage{arabtex}
+% \usepackage[arabic]{babel}
 \bibliographystyle{authordate1}
 %\usepackage{arabtex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\var}[2]{\newcommand{#1}{#2}}
 \newcommand{\Var}[2]{\newcommand{#1}{\uppercase{#2}}}
+
+\newcommand*{\img}[1]{%
+    \raisebox{-.02\baselineskip}{%
+        \includegraphics[
+        height=\baselineskip,
+        width=\baselineskip,
+        keepaspectratio,
+        ]{#1}%
+    }%
+}
 
 \var{\peneliti}{IKHSAN MOCHAMMAD NOOR}
 \var{\Peneliti}{IKHSAN MOCHAMMAD NOOR}
