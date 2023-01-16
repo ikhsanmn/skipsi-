@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  12 JAN 2023 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.10)  16 JAN 2023 13:52
 entering extended mode
 **"./Ikhsan Mochammad Noor.tex"
 (Ikhsan Mochammad Noor.tex
@@ -1275,11 +1275,11 @@ LaTeX Info: Redefining \nameref on input line 200.
 \c@lstlisting=\count369
 
 (file/cover.tex
-<template/uin.jpg, id=243, 214.55156pt x 267.24844pt>
-File: template/uin.jpg Graphic file (type jpg)
-<use template/uin.jpg>
-Package pdftex.def Info: template/uin.jpg  used on input line 16.
-(pdftex.def)             Requested size: 119.50279pt x 148.85475pt.
+<template/logo-uin-1.png, id=243, 588.7596pt x 850.8588pt>
+File: template/logo-uin-1.png Graphic file (type png)
+<use template/logo-uin-1.png>
+Package pdftex.def Info: template/logo-uin-1.png  used on input line 16.
+(pdftex.def)             Requested size: 119.50279pt x 172.70044pt.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -1302,8 +1302,8 @@ Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
-{C:/Users/ikhsa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./template/uin.
-jpg>]) (file/pernyataan.tex
+{C:/Users/ikhsa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./template/logo
+-uin-1.png>]) (file/pernyataan.tex
 Overfull \hbox (30.71002pt too wide) in paragraph at lines 7--18
 [][]
  []
@@ -1337,7 +1337,7 @@ Overfull \hbox (75.68742pt too wide) in paragraph at lines 5--26
 ) (file/persembahan.tex [3
 
 ]
-<gambar/swt.png, id=266, 58.71938pt x 44.41594pt>
+<gambar/swt.png, id=268, 58.71938pt x 44.41594pt>
 File: gambar/swt.png Graphic file (type png)
 <use gambar/swt.png>
 Package pdftex.def Info: gambar/swt.png  used on input line 5.
@@ -1346,7 +1346,7 @@ File: gambar/swt.png Graphic file (type png)
 <use gambar/swt.png>
 Package pdftex.def Info: gambar/swt.png  used on input line 8.
 (pdftex.def)             Requested size: 17.99403pt x 13.61087pt.
-<gambar/als.png, id=268, 91.09032pt x 56.46094pt>
+<gambar/als.png, id=269, 91.09032pt x 56.46094pt>
 File: gambar/als.png Graphic file (type png)
 <use gambar/als.png>
 Package pdftex.def Info: gambar/als.png  used on input line 11.
@@ -1354,16 +1354,6 @@ Package pdftex.def Info: gambar/als.png  used on input line 11.
 ) (file/abstrak.tex [4
 
  <./gambar/swt.png> <./gambar/als.png>]
-Underfull \hbox (badness 2359) in paragraph at lines 6--7
-[]\T1/ptm/m/n/12 MEKANISME FLOC-KING PAR-TI-KEL PA-DA DI-TE-
- []
-
-
-Underfull \hbox (badness 2772) in paragraph at lines 6--7
-\T1/ptm/m/n/12 RAPK-AN PA-DA PER-GE-RAK-AN TA-WAF DE-NGAN
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
@@ -1393,50 +1383,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 ) (file/pengantar.tex [6
 
 ]
-<gambar/swt.PNG, id=286, 58.71938pt x 44.41594pt>
+<gambar/swt.PNG, id=287, 58.71938pt x 44.41594pt>
 File: gambar/swt.PNG Graphic file (type png)
 <use gambar/swt.PNG>
 Package pdftex.def Info: gambar/swt.PNG  used on input line 7.
 (pdftex.def)             Requested size: 17.99403pt x 13.61087pt.
-
-Overfull \hbox (0.75095pt too wide) in paragraph at lines 7--7
-\T1/ptm/m/n/12 TI-KEL PA-DA DI-TE-RAPK-AN PA-DA PER-GE-RAK-AN TA-WAF DE-NGAN ME
-NG-
- []
-
 File: gambar/swt.PNG Graphic file (type png)
 <use gambar/swt.PNG>
 Package pdftex.def Info: gambar/swt.PNG  used on input line 7.
 (pdftex.def)             Requested size: 17.99403pt x 13.61087pt.
-<gambar/als.PNG, id=287, 91.09032pt x 56.46094pt>
+<gambar/als.PNG, id=288, 91.09032pt x 56.46094pt>
 File: gambar/als.PNG Graphic file (type png)
 <use gambar/als.PNG>
 Package pdftex.def Info: gambar/als.PNG  used on input line 8.
 (pdftex.def)             Requested size: 17.99396pt x 11.15327pt.
-[7
+ [7
 
- <./gambar/swt.PNG> <./gambar/als.PNG>] [8]) (file/daftar.tex [9]
-(Ikhsan Mochammad Noor.toc [10
+ <./gambar/swt.PNG> <./gambar/als.PNG>] [8])
+(file/daftar.tex [9] (Ikhsan Mochammad Noor.toc [10
 
 ] [11])
 \tf@toc=\write5
 \openout5 = `"Ikhsan Mochammad Noor.toc"'.
 
- [12] (Ikhsan Mochammad Noor.lof)
+ [12]
+(Ikhsan Mochammad Noor.lof)
 \tf@lof=\write6
 \openout6 = `"Ikhsan Mochammad Noor.lof"'.
 
  [13
 
-]
-(Ikhsan Mochammad Noor.lot)
+] (Ikhsan Mochammad Noor.lot)
 \tf@lot=\write7
 \openout7 = `"Ikhsan Mochammad Noor.lot"'.
 
-) (file/singkatan.tex [14
+)
+(file/singkatan.tex [14
 
-]) (file/simbol.tex
-[15
+]) (file/simbol.tex [15
 
 ]) (file/pendahuluan.tex [16
 
@@ -1465,7 +1449,7 @@ Chapter 2.
 [7
 
 ]
-<gambar/allignment.jpg, id=575, 178.41656pt x 116.68594pt>
+<gambar/allignment.jpg, id=576, 178.41656pt x 116.68594pt>
 File: gambar/allignment.jpg Graphic file (type jpg)
 <use gambar/allignment.jpg>
 Package pdftex.def Info: gambar/allignment.jpg  used on input line 49.
@@ -1476,7 +1460,7 @@ Package pdftex.def Info: gambar/allignment.jpg  used on input line 49.
                                                   \__shipout_drop_firstpage_...
 l.55 
       <./gambar/allignment.jpg>]
-<gambar/cohesion.jpg, id=594, 177.66376pt x 118.19156pt>
+<gambar/cohesion.jpg, id=595, 177.66376pt x 118.19156pt>
 File: gambar/cohesion.jpg Graphic file (type jpg)
 <use gambar/cohesion.jpg>
 Package pdftex.def Info: gambar/cohesion.jpg  used on input line 61.
@@ -1488,7 +1472,7 @@ Overfull \hbox (1.35739pt too wide) detected at line 73
 sienintroversion \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 koefisienracism
  []
 
-<gambar/separation.jpg, id=599, 177.66376pt x 117.43875pt>
+<gambar/separation.jpg, id=600, 177.66376pt x 117.43875pt>
 File: gambar/separation.jpg Graphic file (type jpg)
 <use gambar/separation.jpg>
 Package pdftex.def Info: gambar/separation.jpg  used on input line 77.
@@ -1504,13 +1488,13 @@ l.83
                                                   \__shipout_drop_firstpage_...
 l.83 
       <./gambar/cohesion.jpg> <./gambar/separation.jpg>]
-<gambar/modelboids2.png, id=611, 135.50626pt x 152.06813pt>
+<gambar/modelboids2.png, id=612, 135.50626pt x 152.06813pt>
 File: gambar/modelboids2.png Graphic file (type png)
 <use gambar/modelboids2.png>
 Package pdftex.def Info: gambar/modelboids2.png  used on input line 104.
 (pdftex.def)             Requested size: 81.30437pt x 91.24158pt.
  [10]
-<gambar/layout2dmasjidilharam.png, id=618, 853.1875pt x 585.18625pt>
+<gambar/layout2dmasjidilharam.png, id=619, 853.1875pt x 585.18625pt>
 File: gambar/layout2dmasjidilharam.png Graphic file (type png)
 <use gambar/layout2dmasjidilharam.png>
 Package pdftex.def Info: gambar/layout2dmasjidilharam.png  used on input line 1
@@ -1528,7 +1512,7 @@ l.120
 l.120 
        <./gambar/modelboids2.png> <./gambar/layout2dmasjidilharam.png>]
 [12]
-<gambar/comparison_euler.png, id=643, 722.7pt x 451.6875pt>
+<gambar/comparison_euler.png, id=644, 722.7pt x 451.6875pt>
 File: gambar/comparison_euler.png Graphic file (type png)
 <use gambar/comparison_euler.png>
 Package pdftex.def Info: gambar/comparison_euler.png  used on input line 189.
@@ -1557,7 +1541,7 @@ Overfull \hbox (47.45741pt too wide) in paragraph at lines 98--109
  [] 
  []
 
-<gambar/diagram.jpg, id=672, 569.87906pt x 371.13657pt>
+<gambar/diagram.jpg, id=673, 569.87906pt x 371.13657pt>
 File: gambar/diagram.jpg Graphic file (type jpg)
 <use gambar/diagram.jpg>
 Package pdftex.def Info: gambar/diagram.jpg  used on input line 118.
@@ -1586,13 +1570,13 @@ Overfull \hbox (3.503pt too wide) in paragraph at lines 131--132
 
 ) (file/hasil.tex [19]
 Chapter 4.
-<gambar/gambar1notawafflocking25.png, id=686, 601.4972pt x 411.03563pt>
+<gambar/gambar1notawafflocking25.png, id=687, 601.4972pt x 411.03563pt>
 File: gambar/gambar1notawafflocking25.png Graphic file (type png)
 <use gambar/gambar1notawafflocking25.png>
 Package pdftex.def Info: gambar/gambar1notawafflocking25.png  used on input lin
 e 19.
 (pdftex.def)             Requested size: 300.74786pt x 205.5173pt.
-<gambar/datagrafik/range25homogennoflocking.png, id=687, 472.76625pt x 152.0681
+<gambar/datagrafik/range25homogennoflocking.png, id=688, 472.76625pt x 152.0681
 3pt>
 File: gambar/datagrafik/range25homogennoflocking.png Graphic file (type png)
 <use gambar/datagrafik/range25homogennoflocking.png>
@@ -1612,13 +1596,13 @@ Overfull \vbox (11.0882pt too high) has occurred while \output is active []
 l.26 
       <./gambar/gambar1notawafflocking25.png> <./gambar/datagrafik/range25homog
 ennoflocking.png>]
-<gambar/gambar2notawafflocking50.png, id=701, 596.98032pt x 412.54124pt>
+<gambar/gambar2notawafflocking50.png, id=702, 596.98032pt x 412.54124pt>
 File: gambar/gambar2notawafflocking50.png Graphic file (type png)
 <use gambar/gambar2notawafflocking50.png>
 Package pdftex.def Info: gambar/gambar2notawafflocking50.png  used on input lin
 e 29.
 (pdftex.def)             Requested size: 298.48943pt x 206.27011pt.
-<gambar/datagrafik/range50noflocking.png, id=702, 464.4853pt x 152.82094pt>
+<gambar/datagrafik/range50noflocking.png, id=703, 464.4853pt x 152.82094pt>
 File: gambar/datagrafik/range50noflocking.png Graphic file (type png)
 <use gambar/datagrafik/range50noflocking.png>
 Package pdftex.def Info: gambar/datagrafik/range50noflocking.png  used on input
@@ -1630,19 +1614,19 @@ Overfull \hbox (3.0031pt too wide) in paragraph at lines 44--44
 m/b/it/17.28 Circular Mo-tion\T1/ptm/b/n/17.28 )| 
  []
 
-<gambar/gambar3tawafflocking25.png, id=710, 599.99156pt x 413.29407pt>
+<gambar/gambar3tawafflocking25.png, id=711, 599.99156pt x 413.29407pt>
 File: gambar/gambar3tawafflocking25.png Graphic file (type png)
 <use gambar/gambar3tawafflocking25.png>
 Package pdftex.def Info: gambar/gambar3tawafflocking25.png  used on input line 
 49.
 (pdftex.def)             Requested size: 299.99504pt x 206.64651pt.
-<gambar/datagrafik/range25homogen.png, id=711, 464.4853pt x 164.86594pt>
+<gambar/datagrafik/range25homogen.png, id=712, 464.4853pt x 164.86594pt>
 File: gambar/datagrafik/range25homogen.png Graphic file (type png)
 <use gambar/datagrafik/range25homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25homogen.png  used on input li
 ne 52.
 (pdftex.def)             Requested size: 371.58875pt x 131.8929pt.
-<gambar/datagrafik/range50homogen.png, id=712, 466.74374pt x 161.85469pt>
+<gambar/datagrafik/range50homogen.png, id=713, 466.74374pt x 161.85469pt>
 File: gambar/datagrafik/range50homogen.png Graphic file (type png)
 <use gambar/datagrafik/range50homogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50homogen.png  used on input li
@@ -1672,13 +1656,13 @@ Overfull \hbox (3.0031pt too wide) in paragraph at lines 62--62
 m/b/it/17.28 Circular Mo-tion\T1/ptm/b/n/17.28 )
  []
 
-<gambar/gambar4tawafflocking25variabel.png, id=745, 599.99156pt x 411.03563pt>
+<gambar/gambar4tawafflocking25variabel.png, id=746, 599.99156pt x 411.03563pt>
 File: gambar/gambar4tawafflocking25variabel.png Graphic file (type png)
 <use gambar/gambar4tawafflocking25variabel.png>
 Package pdftex.def Info: gambar/gambar4tawafflocking25variabel.png  used on inp
 ut line 71.
 (pdftex.def)             Requested size: 359.99771pt x 246.62328pt.
-<gambar/datagrafik/range25heterogen.png, id=746, 464.4853pt x 158.84344pt>
+<gambar/datagrafik/range25heterogen.png, id=747, 464.4853pt x 158.84344pt>
 File: gambar/datagrafik/range25heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range25heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range25heterogen.png  used on input 
@@ -1689,13 +1673,13 @@ Overfull \hbox (66.14558pt too wide) in paragraph at lines 71--74
  [][] 
  []
 
-<gambar/gambar5tawafflocking50variabel.png, id=747, 600.74437pt x 411.78844pt>
+<gambar/gambar5tawafflocking50variabel.png, id=748, 600.74437pt x 411.78844pt>
 File: gambar/gambar5tawafflocking50variabel.png Graphic file (type png)
 <use gambar/gambar5tawafflocking50variabel.png>
 Package pdftex.def Info: gambar/gambar5tawafflocking50variabel.png  used on inp
 ut line 78.
 (pdftex.def)             Requested size: 360.4494pt x 247.07495pt.
-<gambar/datagrafik/range50heterogen.png, id=748, 429.85594pt x 149.05687pt>
+<gambar/datagrafik/range50heterogen.png, id=749, 429.85594pt x 149.05687pt>
 File: gambar/datagrafik/range50heterogen.png Graphic file (type png)
 <use gambar/datagrafik/range50heterogen.png>
 Package pdftex.def Info: gambar/datagrafik/range50heterogen.png  used on input 
@@ -1714,60 +1698,60 @@ ier (name{figure.4.4}) has been already used, duplicate ignored
 l.89 
       <./gambar/gambar5tawafflocking50variabel.png> <./gambar/datagrafik/range5
 0heterogen.png>]
-<gambar/Bajec.PNG, id=780, 709.65125pt x 356.33125pt>
+<gambar/Bajec.PNG, id=781, 709.65125pt x 356.33125pt>
 File: gambar/Bajec.PNG Graphic file (type png)
 <use gambar/Bajec.PNG>
 Package pdftex.def Info: gambar/Bajec.PNG  used on input line 124.
 (pdftex.def)             Requested size: 283.85547pt x 142.52997pt.
-<gambar/sequenceperbandingan/00001.png, id=783, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00001.png, id=784, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00001.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00001.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00001.png  used on input l
 ine 130.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00100.png, id=784, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00100.png, id=785, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00100.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00100.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00100.png  used on input l
 ine 131.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00200.png, id=785, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00200.png, id=786, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00200.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00200.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00200.png  used on input l
 ine 132.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00300.png, id=786, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00300.png, id=787, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00300.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00300.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00300.png  used on input l
 ine 135.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00400.png, id=787, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00400.png, id=788, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00400.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00400.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00400.png  used on input l
 ine 136.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00500.png, id=788, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00500.png, id=789, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00500.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00500.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00500.png  used on input l
 ine 137.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00600.png, id=789, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00600.png, id=790, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00600.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00600.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00600.png  used on input l
 ine 140.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00700.png, id=790, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00700.png, id=791, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00700.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00700.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00700.png  used on input l
 ine 141.
 (pdftex.def)             Requested size: 127.47125pt x 86.63846pt.
-<gambar/sequenceperbandingan/00800.png, id=791, 1284.8pt x 873.2625pt>
+<gambar/sequenceperbandingan/00800.png, id=792, 1284.8pt x 873.2625pt>
 File: gambar/sequenceperbandingan/00800.png Graphic file (type png)
 <use gambar/sequenceperbandingan/00800.png>
 Package pdftex.def Info: gambar/sequenceperbandingan/00800.png  used on input l
@@ -1779,17 +1763,17 @@ ine 142.
                                                   \__shipout_drop_firstpage_...
 l.152 
        <./gambar/Bajec.PNG (PNG copy)>]
-<gambar/Kim2014.png, id=803, 226.59656pt x 170.13562pt>
+<gambar/Kim2014.png, id=804, 226.59656pt x 170.13562pt>
 File: gambar/Kim2014.png Graphic file (type png)
 <use gambar/Kim2014.png>
 Package pdftex.def Info: gambar/Kim2014.png  used on input line 158.
 (pdftex.def)             Requested size: 135.95897pt x 102.08215pt.
-<gambar/kimmap.PNG, id=804, 261.22594pt x 118.19156pt>
+<gambar/kimmap.PNG, id=805, 261.22594pt x 118.19156pt>
 File: gambar/kimmap.PNG Graphic file (type png)
 <use gambar/kimmap.PNG>
 Package pdftex.def Info: gambar/kimmap.PNG  used on input line 159.
 (pdftex.def)             Requested size: 156.73676pt x 70.91548pt.
-<gambar/kimgrafik.PNG, id=805, 280.04625pt x 127.22531pt>
+<gambar/kimgrafik.PNG, id=806, 280.04625pt x 127.22531pt>
 File: gambar/kimgrafik.PNG Graphic file (type png)
 <use gambar/kimgrafik.PNG>
 Package pdftex.def Info: gambar/kimgrafik.PNG  used on input line 160.
@@ -1804,7 +1788,7 @@ l.164
 ingan/00300.png> <./gambar/sequenceperbandingan/00400.png> <./gambar/sequencepe
 rbandingan/00500.png> <./gambar/sequenceperbandingan/00600.png> <./gambar/seque
 nceperbandingan/00700.png> <./gambar/sequenceperbandingan/00800.png>]
-<gambar/hasilntukdibandingkankim.PNG, id=812, 298.86656pt x 45.92157pt>
+<gambar/hasilntukdibandingkankim.PNG, id=813, 298.86656pt x 45.92157pt>
 File: gambar/hasilntukdibandingkankim.PNG Graphic file (type png)
 <use gambar/hasilntukdibandingkankim.PNG>
 Package pdftex.def Info: gambar/hasilntukdibandingkankim.PNG  used on input lin
@@ -1815,7 +1799,7 @@ File: gambar/datagrafik/range25heterogen.png Graphic file (type png)
 Package pdftex.def Info: gambar/datagrafik/range25heterogen.png  used on input 
 line 168.
 (pdftex.def)             Requested size: 325.1375pt x 111.18964pt.
-<gambar/hasilntukdibandingkankim2.PNG, id=813, 446.41782pt x 71.51718pt>
+<gambar/hasilntukdibandingkankim2.PNG, id=814, 446.41782pt x 71.51718pt>
 File: gambar/hasilntukdibandingkankim2.PNG Graphic file (type png)
 <use gambar/hasilntukdibandingkankim2.PNG>
 Package pdftex.def Info: gambar/hasilntukdibandingkankim2.PNG  used on input li
@@ -1838,7 +1822,7 @@ l.180
 l.180 
        <./gambar/Kim2014.png> <./gambar/kimmap.PNG> <./gambar/kimgrafik.PNG> <.
 /gambar/hasilntukdibandingkankim.PNG>]
-<gambar/PaperNasir.JPG, id=828, 720.44156pt x 584.93532pt>
+<gambar/PaperNasir.JPG, id=829, 720.44156pt x 584.93532pt>
 File: gambar/PaperNasir.JPG Graphic file (type jpg)
 <use gambar/PaperNasir.JPG>
 Package pdftex.def Info: gambar/PaperNasir.JPG  used on input line 188.
@@ -3473,10 +3457,10 @@ Package rerunfilecheck Info: File `"Ikhsan Mochammad Noor".out' has not changed
  )
 (\end occurred when \ifx on line 83 was incomplete) 
 Here is how much of TeX's memory you used:
- 33925 strings out of 478907
- 635198 string characters out of 2851891
- 1012595 words of memory out of 3000000
- 48508 multiletter control sequences out of 15000+600000
+ 33923 strings out of 478907
+ 635231 string characters out of 2851891
+ 1012481 words of memory out of 3000000
+ 48506 multiletter control sequences out of 15000+600000
  458933 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,83p,2027b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3496,9 +3480,9 @@ MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ikhsa/AppData/Local/Programs/
 MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ikhsa/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Ikhsan Mochammad Noor.pdf" (120 pages, 3080827 bytes).
+Output written on "Ikhsan Mochammad Noor.pdf" (120 pages, 3548184 bytes).
 PDF statistics:
- 4032 PDF objects out of 4296 (max. 8388607)
+ 4033 PDF objects out of 4296 (max. 8388607)
  2573 named destinations out of 2984 (max. 500000)
  720 words of extra memory for PDF output out of 10000 (max. 10000000)
 
